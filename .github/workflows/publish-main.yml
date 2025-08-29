@@ -1,0 +1,24 @@
+name: publish-main
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Copycat
+      uses: andstor/copycat-action@v3
+      with:
+        personal_token: ${{ secrets.REPO_TOKEN }}
+        src_path: ./content/
+        dst_path: /
+        dst_owner: groupdocs
+        dst_repo_name: products.groupdocs.com
+        dst_branch: main
+        src_branch: main
