@@ -23,17 +23,17 @@ supported_platforms:
 ############################# Head ############################
 
 head_title: "Dokumente in Markdown exportieren in .NET | GroupDocs"
-head_description: "GroupDocs.Markdown fÃ¼r .NET ist eine Dokumentenverarbeitungsâ€‘API, die PDF, Word, Excel und andere Formate nach Markdown exportiert, um eine nahtlose Integration in das generative KIâ€‘Ã–kosystem zu ermÃ¶glichen."
+head_description: "GroupDocs.Markdown für .NET ist eine Dokumentenverarbeitungs‑API, die PDF, Word, Excel und andere Formate nach Markdown exportiert, um eine nahtlose Integration in das generative KI‑Ökosystem zu ermöglichen."
 
 ############################# Header ##########################
 
-title: "Dokumente nach Markdown exportieren<br>mit .NETâ€‘API"
-description: "Markdownâ€‘Konvertierungsâ€‘API zum Export beliebter Dokumentformate in sauberes Markdown mit voller Kontrolle."
+title: "Dokumente nach Markdown exportieren<br>mit .NET‑API"
+description: "Markdown‑Konvertierungs‑API zum Export beliebter Dokumentformate in sauberes Markdown mit voller Kontrolle."
 words:
   for: "for"
 
 actions:
-  main: "Kostenloser NuGetâ€‘Download"
+  main: "Kostenloser NuGet‑Download"
   main_link: "https://www.nuget.org/packages/GroupDocs.Markdown"
   alt: "Lizenzierung"
   alt_link: "https://purchase.groupdocs.com/pricing/markdown/net"
@@ -42,7 +42,7 @@ actions:
 
 release:
   hidden: false
-  title: "Version {0}&nbsp;verÃ¶ffentlicht"
+  title: "Version {0}&nbsp;veröffentlicht"
   notes: "Neuigkeiten ansehen"
   downloads: "Downloads"
   link: "https://releases.groupdocs.com/markdown/net/release-notes/latest/"
@@ -71,25 +71,25 @@ code:
 overview:
   enable: true
   title: "GroupDocs.Markdown auf einen Blick"
-  description: "API zum Parsen und Exportieren von Dokumenten nach Markdown in .NETâ€‘Anwendungen."
+  description: "API zum Parsen und Exportieren von Dokumenten nach Markdown in .NET‑Anwendungen."
   features:
     # feature loop
-    - title: "PrÃ¤zise und zuverlÃ¤ssige Konvertierung"
-      content: "UnterstÃ¼tzte Formate effizient nach Markdown konvertieren und dabei die StrukturintegritÃ¤t bewahren. UnterstÃ¼tzt .NET Framework 4.6.2+ und .NET 6.0 unter Windows und Linux."
+    - title: "Präzise und zuverlässige Konvertierung"
+      content: "Unterstützte Formate effizient nach Markdown konvertieren und dabei die Strukturintegrität bewahren. Unterstützt .NET Framework 4.6.2+ und .NET 6.0 unter Windows und Linux."
 
     # feature loop
-    - title: "UnterstÃ¼tzte gÃ¤ngige Formate"
-      content: "Exportieren Sie PDF-, Word-, Excel-, eBook-, Web- und Nurâ€‘Textâ€‘Dateien nach Markdown, einschlieÃŸlich passwortgeschÃ¼tzter Dokumente."
+    - title: "Unterstützte gängige Formate"
+      content: "Exportieren Sie PDF-, Word-, Excel-, eBook-, Web- und Nur‑Text‑Dateien nach Markdown, einschließlich passwortgeschützter Dokumente."
 
     # feature loop
-    - title: "LÃ¤uft auf Ihrem lokalen Rechner"
-      content: "Sie kontrollieren Ihre Daten â€“ wir bieten eine On-Premise-API, die keine Cloud- oder Internetverbindung erfordert."
+    - title: "Läuft auf Ihrem lokalen Rechner"
+      content: "Sie kontrollieren Ihre Daten – wir bieten eine On-Premise-API, die keine Cloud- oder Internetverbindung erfordert."
 
 ############################# Platforms ############################
 platforms:
   enable: true
-  title: "PlattformunterstÃ¼tzung"
-  description: "Die folgenden Betriebssysteme, Frameworks und Paketmanager werden unterstÃ¼tzt."
+  title: "Plattformunterstützung"
+  description: "Die folgenden Betriebssysteme, Frameworks und Paketmanager werden unterstützt."
   items:
     # platform loop
     - title: "Amazon"
@@ -119,9 +119,9 @@ platforms:
 ############################# File formats ############################
 formats:
   enable: true
-  title: "UnterstÃ¼tzte Dateiformate"
+  title: "Unterstützte Dateiformate"
   description: |
-    Die folgenden Dateiformate werden fÃ¼r den Export nach Markdown unterstÃ¼tzt.
+    Die folgenden Dateiformate werden für den Export nach Markdown unterstützt.
   groups:
     # group loop
     - color: "red"
@@ -154,39 +154,39 @@ features:
     # feature loop
     - icon: "multi_doc"
       title: "Export mehrerer Dokumentformate"
-      content: "Konvertieren Sie die gÃ¤ngigsten Dokumentformate zu Markdown (PDF, DOCX, XLSX, EPUB und mehr)."
+      content: "Konvertieren Sie die gängigsten Dokumentformate zu Markdown (PDF, DOCX, XLSX, EPUB und mehr)."
 
     # feature loop
     - icon: "advanced_formatting"
       title: "Erweiterte Markdown-Formatierung"
-      content: "Ãœberschriften, AbsÃ¤tze, Listen, Tabellen, Links, Bilder, Blockzitate und CodeblÃ¶cke werden in die entsprechende Markdownâ€‘Syntax exportiert."
+      content: "Überschriften, Absätze, Listen, Tabellen, Links, Bilder, Blockzitate und Codeblöcke werden in die entsprechende Markdown‑Syntax exportiert."
 
     # feature loop
     - icon: "control_over_images"
-      title: "VollstÃ¤ndige Kontrolle Ã¼ber Bilder"
-      content: "Ãœbernehmen Sie die Kontrolle Ã¼ber Bilder, indem Sie sie exportieren oder in die Ausgabedatei Markdown einbetten."
+      title: "Vollständige Kontrolle über Bilder"
+      content: "Übernehmen Sie die Kontrolle über Bilder, indem Sie sie exportieren oder in die Ausgabedatei Markdown einbetten."
 
     # feature loop
     - icon: "secure"
-      title: "LÃ¤uft auf Ihrem lokalen Rechner"
+      title: "Läuft auf Ihrem lokalen Rechner"
       content: "Keine Cloud- oder Internetverbindung erforderlich. Die gesamte Verarbeitung erfolgt auf Ihrem lokalen Rechner."
 
     # feature loop
     - icon: "intuitive"
-      title: "Intuitive Ã¶ffentliche API"
-      content: "Einfache und intuitive Ã¶ffentliche API, von Entwicklern fÃ¼r Entwickler mit Leidenschaft."
+      title: "Intuitive öffentliche API"
+      content: "Einfache und intuitive öffentliche API, von Entwicklern für Entwickler mit Leidenschaft."
 
     # feature loop
     - icon: "cross_platform"
       title: "Funktioniert unter Windows und Linux"
-      content: ".NET- und .NETâ€‘Frameworkâ€‘Assemblies werden im NuGetâ€‘Paket bereitgestellt."
+      content: ".NET- und .NET‑Framework‑Assemblies werden im NuGet‑Paket bereitgestellt."
 
 
 ############################# Code samples ############################
 code_samples_tabs:
   enable: true
   title: "Codebeispiele"
-  description: "Die hÃ¤ufigsten AnwendungsfÃ¤lle fÃ¼r den Export von Dokumenten nach Markdown in .NET-Anwendungen."
+  description: "Die häufigsten Anwendungsfälle für den Export von Dokumenten nach Markdown in .NET-Anwendungen."
   items:
     # code sample loop
     - title: "Exportieren von DOCX nach Markdown"
@@ -318,18 +318,18 @@ code_samples_tabs:
 # reviews:
 # enable: true
 # title: "GroupDocs Produktbewertungen"
-# description: "Nehmen Sie uns nicht nur beim Wort. Sehen Sie, was andere Entwickler Ã¼ber unsere APIs sagen."
+# description: "Nehmen Sie uns nicht nur beim Wort. Sehen Sie, was andere Entwickler über unsere APIs sagen."
 
 # items:
 #   # review loop
 #   - title: "GroupDocs.Markdown"
-#     content: "Ausgezeichneter Service und hervorragende Produkte. Sie waren wÃ¤hrend des Implementierungsprozesses von GroupDocs.Markdown fÃ¼r .NET Ã¤uÃŸerst hilfsbereit und reaktionsschnell, ich kann sie nicht genug empfehlen."
+#     content: "Ausgezeichneter Service und hervorragende Produkte. Sie waren während des Implementierungsprozesses von GroupDocs.Markdown für .NET äußerst hilfsbereit und reaktionsschnell, ich kann sie nicht genug empfehlen."
 #     author: "Martin Lasarga"
 #     company: "Product Manager at Axentria ECM by G.S.I."
 
 #   # review loop
 #   - title: "GroupDocs.Markdown"
-#     content: "Nachdem GroupDocs.Markdown fÃ¼r .NET im Projekt implementiert und verwendet wurde, scheint es sehr gut zu funktionieren. Ich habe mit vielen Dokumenten getestet und bisher ist alles in Ordnung. Die Markdownâ€‘Ausgabe ist sauber und konsistent Ã¼ber alle Quellen hinweg."
+#     content: "Nachdem GroupDocs.Markdown für .NET im Projekt implementiert und verwendet wurde, scheint es sehr gut zu funktionieren. Ich habe mit vielen Dokumenten getestet und bisher ist alles in Ordnung. Die Markdown‑Ausgabe ist sauber und konsistent über alle Quellen hinweg."
 #     author: "Mats Oustad"
 #     company: "Senior Consultant/Partner at Novanet AS"
 ---

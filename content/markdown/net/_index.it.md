@@ -23,12 +23,12 @@ supported_platforms:
 ############################# Head ############################
 
 head_title: "Esporta documenti in Markdown in .NET | GroupDocs"
-head_description: "GroupDocs.Markdown per .NET Ã¨ un'API di elaborazione documenti che esporta PDF, Word, Excel e altri formati in Markdown per un'integrazione fluida con l'ecosistema di IA generativa."
+head_description: "GroupDocs.Markdown per .NET è un'API di elaborazione documenti che esporta PDF, Word, Excel e altri formati in Markdown per un'integrazione fluida con l'ecosistema di IA generativa."
 
 ############################# Header ##########################
 
 title: "Esporta documenti in Markdown<br>utilizzando l'API .NET"
-description: "API di conversione Markdown per esportare i formati di documento piÃ¹ diffusi in Markdown pulito con pieno controllo."
+description: "API di conversione Markdown per esportare i formati di documento più diffusi in Markdown pulito con pieno controllo."
 words:
   for: "for"
 
@@ -38,12 +38,12 @@ actions:
   alt: "Licenze"
   alt_link: "https://purchase.groupdocs.com/pricing/markdown/net"
   title: "Pronto per iniziare?"
-  description: "Prova le funzionalitÃ  di GroupDocs.Markdown gratuitamente o richiedi una licenza"
+  description: "Prova le funzionalità di GroupDocs.Markdown gratuitamente o richiedi una licenza"
 
 release:
   hidden: false
   title: "Versione {0}&nbsp;rilasciata"
-  notes: "Scopri le novitÃ "
+  notes: "Scopri le novità"
   downloads: "Download"
   link: "https://releases.groupdocs.com/markdown/net/release-notes/latest/"
 
@@ -75,7 +75,7 @@ overview:
   features:
     # feature loop
     - title: "Conversione accurata e affidabile"
-      content: "Converti in modo efficiente i formati supportati in Markdown mantenendo l'integritÃ  della struttura. Supporta .NET Framework 4.6.2+ e .NET 6.0 su Windows e Linux."
+      content: "Converti in modo efficiente i formati supportati in Markdown mantenendo l'integrità della struttura. Supporta .NET Framework 4.6.2+ e .NET 6.0 su Windows e Linux."
 
     # feature loop
     - title: "Formati popolari supportati"
@@ -83,7 +83,7 @@ overview:
 
     # feature loop
     - title: "Funziona sulla tua macchina locale"
-      content: "Controlli i tuoi dati â€“ forniamo un'API on-premise che non richiede alcun cloud o connessione internet."
+      content: "Controlli i tuoi dati – forniamo un'API on-premise che non richiede alcun cloud o connessione internet."
 
 ############################# Platforms ############################
 platforms:
@@ -147,14 +147,14 @@ formats:
 ############################# Features ############################
 features:
   enable: true
-  title: "FunzionalitÃ  di GroupDocs.Markdown"
-  description: "Queste sono le funzionalitÃ  che distinguono il nostro prodotto."
+  title: "Funzionalità di GroupDocs.Markdown"
+  description: "Queste sono le funzionalità che distinguono il nostro prodotto."
 
   items:
     # feature loop
     - icon: "multi_doc"
-      title: "Esporta piÃ¹ formati di documento"
-      content: "Converti i formati di documento piÃ¹ popolari in Markdown (PDF, DOCX, XLSX, EPUB e altro)."
+      title: "Esporta più formati di documento"
+      content: "Converti i formati di documento più popolari in Markdown (PDF, DOCX, XLSX, EPUB e altro)."
 
     # feature loop
     - icon: "advanced_formatting"
@@ -169,7 +169,7 @@ features:
     # feature loop
     - icon: "secure"
       title: "Funziona sulla tua macchina locale"
-      content: "Non Ã¨ necessaria alcuna connessione cloud o Internet. Tutto l'elaborazione avviene sulla tua macchina locale."
+      content: "Non è necessaria alcuna connessione cloud o Internet. Tutto l'elaborazione avviene sulla tua macchina locale."
 
     # feature loop
     - icon: "intuitive"
@@ -186,7 +186,7 @@ features:
 code_samples_tabs:
   enable: true
   title: "Esempi di codice"
-  description: "Gli scenari d'uso piÃ¹ comuni per esportare documenti in Markdown nelle applicazioni .NET."
+  description: "Gli scenari d'uso più comuni per esportare documenti in Markdown nelle applicazioni .NET."
   items:
     # code sample loop
     - title: "Esporta DOCX in Markdown"
@@ -329,7 +329,7 @@ code_samples_tabs:
 
 #   # review loop
 #   - title: "GroupDocs.Markdown"
-#     content: "Dopo aver implementato e utilizzato GroupDocs.Markdown per .NET nel progetto, sembra funzionare molto bene. Ho testato con molti documenti e finora tutto ok. L'output Markdown Ã¨ pulito e coerente tra le varie fonti."
+#     content: "Dopo aver implementato e utilizzato GroupDocs.Markdown per .NET nel progetto, sembra funzionare molto bene. Ho testato con molti documenti e finora tutto ok. L'output Markdown è pulito e coerente tra le varie fonti."
 #     author: "Mats Oustad"
 #     company: "Senior Consultant/Partner at Novanet AS"
 ---

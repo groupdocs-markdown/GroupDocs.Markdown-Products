@@ -323,7 +323,7 @@ code_samples_tabs:
 # items:
 #   # review loop
 #   - title: "GroupDocs.Markdown"
-#     content: "Excellent service and excellent products. They were extremely helpful and responsive during the GroupDocs.Markdown for .NET implementation process, canâ€™t recommend them highly enough."
+#     content: "Excellent service and excellent products. They were extremely helpful and responsive during the GroupDocs.Markdown for .NET implementation process, can’t recommend them highly enough."
 #     author: "Martin Lasarga"
 #     company: "Product Manager at Axentria ECM by G.S.I."
 

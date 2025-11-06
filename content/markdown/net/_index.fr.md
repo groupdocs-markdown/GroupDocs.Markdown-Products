@@ -23,28 +23,28 @@ supported_platforms:
 ############################# Head ############################
 
 head_title: "Exporter des documents en Markdown avec .NET | GroupDocs"
-head_description: "GroupDocs.Markdown for .NET est une API de traitement de documents qui exporte PDF, Word, Excel et dâ€™autres formats vers Markdown pour une intÃ©gration transparente avec lâ€™Ã©cosystÃ¨me dâ€™IA gÃ©nÃ©rative."
+head_description: "GroupDocs.Markdown for .NET est une API de traitement de documents qui exporte PDF, Word, Excel et d’autres formats vers Markdown pour une intégration transparente avec l’écosystème d’IA générative."
 
 ############################# Header ##########################
 
-title: "Exporter des documents en Markdown<br>en utilisant lâ€™API .NET"
-description: "API de conversion Markdown pour exporter les formats de documents populaires vers du Markdown propre avec un contrÃ´le total."
+title: "Exporter des documents en Markdown<br>en utilisant l’API .NET"
+description: "API de conversion Markdown pour exporter les formats de documents populaires vers du Markdown propre avec un contrôle total."
 words:
   for: "for"
 
 actions:
-  main: "TÃ©lÃ©chargement NuGet gratuit"
+  main: "Téléchargement NuGet gratuit"
   main_link: "https://www.nuget.org/packages/GroupDocs.Markdown"
   alt: "Licence"
   alt_link: "https://purchase.groupdocs.com/pricing/markdown/net"
-  title: "PrÃªt Ã  commencerâ€¯?"
-  description: "Essayez les fonctionnalitÃ©s de GroupDocs.Markdown gratuitement ou demandez une licence."
+  title: "Prêt à commencer ?"
+  description: "Essayez les fonctionnalités de GroupDocs.Markdown gratuitement ou demandez une licence."
 
 release:
   hidden: false
-  title: "Version {0}&nbsp;publiÃ©e"
-  notes: "Voir les nouveautÃ©s"
-  downloads: "TÃ©lÃ©chargements"
+  title: "Version {0}&nbsp;publiée"
+  notes: "Voir les nouveautés"
+  downloads: "Téléchargements"
   link: "https://releases.groupdocs.com/markdown/net/release-notes/latest/"
 
 code:
@@ -54,10 +54,10 @@ code:
   install: "dotnet add package GroupDocs.Markdown"
   content: |
     ```csharp {style=abap}   
-    // Importer lâ€™espace de noms
+    // Importer l’espace de noms
     using GroupDocs.Markdown;
 
-    // DÃ©finir la licence
+    // Définir la licence
     License.Set("GroupDocs.Markdown.lic");
 
     // Instancier le convertisseur
@@ -70,26 +70,26 @@ code:
 ############################# Overview ############################
 overview:
   enable: true
-  title: "GroupDocs.Markdown en un coup dâ€™Å“il"
+  title: "GroupDocs.Markdown en un coup d’œil"
   description: "API pour analyser et exporter des documents en Markdown dans les applications .NET."
   features:
     # feature loop
-    - title: "Conversion prÃ©cise et fiable"
-      content: "Convertissez efficacement les formats pris en charge en Markdown tout en prÃ©servant lâ€™intÃ©gritÃ© de la structure. Prend en charge .NET Framework 4.6.2+ et .NET 6.0 sous Windows et Linux."
+    - title: "Conversion précise et fiable"
+      content: "Convertissez efficacement les formats pris en charge en Markdown tout en préservant l’intégrité de la structure. Prend en charge .NET Framework 4.6.2+ et .NET 6.0 sous Windows et Linux."
 
     # feature loop
     - title: "Formats populaires pris en charge"
-      content: "Exportez les fichiers PDF, Word, Excel, eBooks, Web et texte brut en Markdown, y compris les documents protÃ©gÃ©s par mot de passe."
+      content: "Exportez les fichiers PDF, Word, Excel, eBooks, Web et texte brut en Markdown, y compris les documents protégés par mot de passe."
 
     # feature loop
     - title: "Fonctionne sur votre machine locale"
-      content: "Vous contrÃ´lez vos donnÃ©es - nous fournissons une API locale qui ne nÃ©cessite aucun cloud ni connexion Internet."
+      content: "Vous contrôlez vos données - nous fournissons une API locale qui ne nécessite aucun cloud ni connexion Internet."
 
 ############################# Platforms ############################
 platforms:
   enable: true
   title: "Prise en charge des plateformes"
-  description: "Les systÃ¨mes d'exploitation, frameworks et gestionnaires de paquets suivants sont pris en charge."
+  description: "Les systèmes d'exploitation, frameworks et gestionnaires de paquets suivants sont pris en charge."
   items:
     # platform loop
     - title: "Amazon"
@@ -147,8 +147,8 @@ formats:
 ############################# Features ############################
 features:
   enable: true
-  title: "FonctionnalitÃ©s de GroupDocs.Markdown"
-  description: "Voici les fonctionnalitÃ©s qui distinguent notre produit."
+  title: "Fonctionnalités de GroupDocs.Markdown"
+  description: "Voici les fonctionnalités qui distinguent notre produit."
 
   items:
     # feature loop
@@ -158,23 +158,23 @@ features:
 
     # feature loop
     - icon: "advanced_formatting"
-      title: "Mise en forme Markdown avancÃ©e"
-      content: "Les enâ€‘tÃªtes, paragraphes, listes, tableaux, liens, images, citations en bloc et blocs de code sont exportÃ©s vers la syntaxe Markdown appropriÃ©e."
+      title: "Mise en forme Markdown avancée"
+      content: "Les en‑têtes, paragraphes, listes, tableaux, liens, images, citations en bloc et blocs de code sont exportés vers la syntaxe Markdown appropriée."
 
     # feature loop
     - icon: "control_over_images"
-      title: "ContrÃ´le total sur les images"
-      content: "Prenez le contrÃ´le des images en les exportant ou en les incorporant dans le fichier Markdown de sortie."
+      title: "Contrôle total sur les images"
+      content: "Prenez le contrôle des images en les exportant ou en les incorporant dans le fichier Markdown de sortie."
 
     # feature loop
     - icon: "secure"
       title: "Fonctionne sur votre machine locale"
-      content: "Aucun cloud ni connexion Internet requis. Tout le traitement est effectuÃ© sur votre machine locale."
+      content: "Aucun cloud ni connexion Internet requis. Tout le traitement est effectué sur votre machine locale."
 
     # feature loop
     - icon: "intuitive"
       title: "API publique intuitive"
-      content: "API publique simple et intuitive, conÃ§ue par des dÃ©veloppeurs pour des dÃ©veloppeurs avec passion."
+      content: "API publique simple et intuitive, conçue par des développeurs pour des développeurs avec passion."
 
     # feature loop
     - icon: "cross_platform"
@@ -186,11 +186,11 @@ features:
 code_samples_tabs:
   enable: true
   title: "Exemples de code"
-  description: "Les scÃ©narios d'utilisation les plus courants pour l'exportation de documents vers Markdown dans les applications .NET."
+  description: "Les scénarios d'utilisation les plus courants pour l'exportation de documents vers Markdown dans les applications .NET."
   items:
     # code sample loop
     - title: "Exporter DOCX vers Markdown"
-      content: "Cet exemple de code montre comment convertir un fichier DOCX en Markdown et enregistrer la sortie dans un fichier. Les images sont intÃ©grÃ©es dans le fichier de sortie."
+      content: "Cet exemple de code montre comment convertir un fichier DOCX en Markdown et enregistrer la sortie dans un fichier. Les images sont intégrées dans le fichier de sortie."
       samples:
         - language: "C#"
           color: "blue"
@@ -199,7 +199,7 @@ code_samples_tabs:
             // Importer l'espace de noms
             using GroupDocs.Markdown;
 
-            // DÃ©finir la licence
+            // Définir la licence
             License.Set("GroupDocs.Markdown.lic");
 
             // Instancier le convertisseur
@@ -215,7 +215,7 @@ code_samples_tabs:
             // Importer l'espace de noms  
             open GroupDocs.Markdown
 
-            // DÃ©finir la licence
+            // Définir la licence
             License.Set("GroupDocs.Markdown.lic")
 
             // Instancier le convertisseur
@@ -233,7 +233,7 @@ code_samples_tabs:
 
             Module Program
                 Sub Main()
-                    ' DÃ©finir la licence
+                    ' Définir la licence
                     License.Set("GroupDocs.Markdown.lic")
 
                     ' Instancier le convertisseur
@@ -246,7 +246,7 @@ code_samples_tabs:
             ```
     # code sample loop
     - title: "Enregistrer les images dans un dossier"
-      content: "Cet exemple de code montre comment convertir un fichier DOCX en Markdown et enregistrer les images dans un dossier sÃ©parÃ©."
+      content: "Cet exemple de code montre comment convertir un fichier DOCX en Markdown et enregistrer les images dans un dossier séparé."
       samples:
         - language: "C#"
           color: "blue"
@@ -255,13 +255,13 @@ code_samples_tabs:
             // Importer l'espace de noms
             using GroupDocs.Markdown;
 
-            // DÃ©finir la licence
+            // Définir la licence
             License.Set("GroupDocs.Markdown.lic");
 
             // Instancier le convertisseur
             var converter = new MarkdownConverter("annual-report.docx");
 
-            // DÃ©finir la stratÃ©gie d'exportation des images et le dossier de sortie
+            // Définir la stratégie d'exportation des images et le dossier de sortie
             var convertOptions = new DocumentConverterOptions();
             convertOptions.ImageExportStrategy = new ExportImagesToFileSystemStrategy("./images");
 
@@ -275,13 +275,13 @@ code_samples_tabs:
             // Importer l'espace de noms
             open GroupDocs.Markdown
 
-            // DÃ©finir la licence
+            // Définir la licence
             License.Set("GroupDocs.Markdown.lic")
 
             // Instancier le convertisseur
             let converter = new MarkdownConverter("annual-report.docx")
 
-            // DÃ©finir la stratÃ©gie d'exportation des images et le dossier de sortie
+            // Définir la stratégie d'exportation des images et le dossier de sortie
             let convertOptions = new DocumentConverterOptions()
             convertOptions.ImageExportStrategy <- new ExportImagesToFileSystemStrategy("./images")
 
@@ -297,13 +297,13 @@ code_samples_tabs:
 
             Module Program
                 Sub Main()
-                    ' DÃ©finir la licence
+                    ' Définir la licence
                     License.Set("GroupDocs.Markdown.lic")
 
                     ' Instancier le convertisseur
                     Dim converter As New MarkdownConverter("annual-report.docx")
 
-                    ' DÃ©finir la stratÃ©gie d'exportation des images et le dossier de sortie
+                    ' Définir la stratégie d'exportation des images et le dossier de sortie
                     Dim convertOptions As New DocumentConverterOptions()
                     convertOptions.ImageExportStrategy = New ExportImagesToFileSystemStrategy("./images")
 
@@ -318,18 +318,18 @@ code_samples_tabs:
 # reviews:
 # enable: true
 # title: "Avis sur les produits GroupDocs"
-# description: "Ne vous fiez pas quâ€™Ã  nos paroles. DÃ©couvrez ce que dâ€™autres dÃ©veloppeurs disent de nos API."
+# description: "Ne vous fiez pas qu’à nos paroles. Découvrez ce que d’autres développeurs disent de nos API."
 
 # items:
 #   # review loop
 #   - title: "GroupDocs.Markdown"
-#     content: "Service et produits excellents. Ils ont Ã©tÃ© extrÃªmement utiles et rÃ©actifs pendant le processus dâ€™implÃ©mentation de GroupDocs.Markdown for .NET, nous ne pouvons pas les recommander suffisamment."
+#     content: "Service et produits excellents. Ils ont été extrêmement utiles et réactifs pendant le processus d’implémentation de GroupDocs.Markdown for .NET, nous ne pouvons pas les recommander suffisamment."
 #     author: "Martin Lasarga"
 #     company: "Product Manager at Axentria ECM by G.S.I."
 
 #   # review loop
 #   - title: "GroupDocs.Markdown"
-#     content: "AprÃ¨s avoir implÃ©mentÃ© et utilisÃ© GroupDocs.Markdown for .NET dans le projet, il semble trÃ¨s performant. Jâ€™ai testÃ© avec de nombreux documents et jusquâ€™Ã  prÃ©sent tout fonctionne bien. La sortie Markdown est propre et cohÃ©rente sur toutes les sources."
+#     content: "Après avoir implémenté et utilisé GroupDocs.Markdown for .NET dans le projet, il semble très performant. J’ai testé avec de nombreux documents et jusqu’à présent tout fonctionne bien. La sortie Markdown est propre et cohérente sur toutes les sources."
 #     author: "Mats Oustad"
 #     company: "Senior Consultant/Partner at Novanet AS"
 ---

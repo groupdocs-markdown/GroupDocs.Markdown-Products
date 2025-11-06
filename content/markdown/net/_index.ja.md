@@ -22,74 +22,74 @@ supported_platforms:
 
 ############################# Head ############################
 
-head_title: ".NET ã§ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆã‚’ Markdown ã«ã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆ | GroupDocs"
-head_description: "GroupDocs.Markdown for .NET ã¯ã€PDFã€Wordã€Excel ãªã©ã®ãƒ•ã‚©ãƒ¼ãƒžãƒƒãƒˆã‚’ Markdown ã«ã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆã—ã€ã‚¸ã‚§ãƒãƒ¬ãƒ¼ãƒ†ã‚£ãƒ– AI ã‚¨ã‚³ã‚·ã‚¹ãƒ†ãƒ ã¨ã®ã‚·ãƒ¼ãƒ ãƒ¬ã‚¹ãªçµ±åˆã‚’å®Ÿç¾ã™ã‚‹ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆå‡¦ç† API ã§ã™ã€‚"
+head_title: ".NET でドキュメントを Markdown にエクスポート | GroupDocs"
+head_description: "GroupDocs.Markdown for .NET は、PDF、Word、Excel などのフォーマットを Markdown にエクスポートし、ジェネレーティブ AI エコシステムとのシームレスな統合を実現するドキュメント処理 API です。"
 
 ############################# Header ##########################
 
-title: "ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆã‚’ Markdown ã«ã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆ<br>.NET API ã‚’ä½¿ç”¨ã—ã¦"
-description: "ä¸€èˆ¬çš„ãªãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆãƒ•ã‚©ãƒ¼ãƒžãƒƒãƒˆã‚’ã‚¯ãƒªãƒ¼ãƒ³ãª Markdown ã«ã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆã—ã€å®Œå…¨ã«åˆ¶å¾¡ã§ãã‚‹ Markdown å¤‰æ› APIã€‚"
+title: "ドキュメントを Markdown にエクスポート<br>.NET API を使用して"
+description: "一般的なドキュメントフォーマットをクリーンな Markdown にエクスポートし、完全に制御できる Markdown 変換 API。"
 words:
   for: "for"
 
 actions:
-  main: "ç„¡æ–™ NuGet ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰"
+  main: "無料 NuGet ダウンロード"
   main_link: "https://www.nuget.org/packages/GroupDocs.Markdown"
-  alt: "ãƒ©ã‚¤ã‚»ãƒ³ã‚¹"
+  alt: "ライセンス"
   alt_link: "https://purchase.groupdocs.com/pricing/markdown/net"
-  title: "é–‹å§‹ã™ã‚‹æº–å‚™ã¯ã§ãã¾ã—ãŸã‹ï¼Ÿ"
-  description: "GroupDocs.Markdown ã®æ©Ÿèƒ½ã‚’ç„¡æ–™ã§ãŠè©¦ã—ã„ãŸã ãã‹ã€ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã‚’ãƒªã‚¯ã‚¨ã‚¹ãƒˆã—ã¦ãã ã•ã„"
+  title: "開始する準備はできましたか？"
+  description: "GroupDocs.Markdown の機能を無料でお試しいただくか、ライセンスをリクエストしてください"
 
 release:
   hidden: false
-  title: "ãƒãƒ¼ã‚¸ãƒ§ãƒ³ {0}&nbsp;ãŒãƒªãƒªãƒ¼ã‚¹ã•ã‚Œã¾ã—ãŸ"
-  notes: "æ–°æ©Ÿèƒ½ã‚’è¦‹ã‚‹"
-  downloads: "ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰"
+  title: "バージョン {0}&nbsp;がリリースされました"
+  notes: "新機能を見る"
+  downloads: "ダウンロード"
   link: "https://releases.groupdocs.com/markdown/net/release-notes/latest/"
 
 code:
-  title: "C# ã§ PDF ã‚’ Markdown ã«ã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆ"
-  more: "ãã®ä»–ã®ä¾‹"
+  title: "C# で PDF を Markdown にエクスポート"
+  more: "その他の例"
   more_link: "https://github.com/groupdocs-markdown/GroupDocs.Markdown-for-.NET"
   install: "dotnet add package GroupDocs.Markdown"
   content: |
     ```csharp {style=abap}   
-    // åå‰ç©ºé–“ã‚’ã‚¤ãƒ³ãƒãƒ¼ãƒˆ
+    // 名前空間をインポート
     using GroupDocs.Markdown;
 
-    // ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã‚’è¨­å®š
+    // ライセンスを設定
     License.Set("GroupDocs.Markdown.lic");
 
-    // ã‚³ãƒ³ãƒãƒ¼ã‚¿ã‚’ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹åŒ–
+    // コンバータをインスタンス化
     var converter = new MarkdownConverter("business-plan.pdf");
 
-    // å¤‰æ›ã—ã€å‡ºåŠ› Markdown ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä¿å­˜
+    // 変換し、出力 Markdown ファイルを保存
     converter.Convert("business-plan.md");
     ```
 
 ############################# Overview ############################
 overview:
   enable: true
-  title: "GroupDocs.Markdown ã®æ¦‚è¦"
-  description: ".NET ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã§ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆã‚’è§£æžã—ã€Markdown ã«ã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆã™ã‚‹ APIã€‚"
+  title: "GroupDocs.Markdown の概要"
+  description: ".NET アプリケーションでドキュメントを解析し、Markdown にエクスポートする API。"
   features:
     # feature loop
-    - title: "æ­£ç¢ºã‹ã¤ä¿¡é ¼æ€§ã®é«˜ã„å¤‰æ›"
-      content: "ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã‚‹ãƒ•ã‚©ãƒ¼ãƒžãƒƒãƒˆã‚’æ§‹é€ ã®å®Œå…¨æ€§ã‚’ä¿ã¡ã¤ã¤ã€åŠ¹çŽ‡çš„ã« Markdown ã«å¤‰æ›ã—ã¾ã™ã€‚.NET Framework 4.6.2 ä»¥é™ãŠã‚ˆã³ .NET 6.0 ã‚’ Windows ã¨ Linux ã§ã‚µãƒãƒ¼ãƒˆã—ã¦ã„ã¾ã™ã€‚"
+    - title: "正確かつ信頼性の高い変換"
+      content: "サポートされているフォーマットを構造の完全性を保ちつつ、効率的に Markdown に変換します。.NET Framework 4.6.2 以降および .NET 6.0 を Windows と Linux でサポートしています。"
 
     # feature loop
-    - title: "ä¸€èˆ¬çš„ãªãƒ•ã‚©ãƒ¼ãƒžãƒƒãƒˆã«å¯¾å¿œ"
-      content: "PDFã€Wordã€Excelã€eBookã€Webã€ãƒ—ãƒ¬ãƒ¼ãƒ³ãƒ†ã‚­ã‚¹ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã‚’ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ä¿è­·ã•ã‚ŒãŸãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆã‚‚å«ã‚ã¦ Markdown ã«ã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆã—ã¾ã™ã€‚"
+    - title: "一般的なフォーマットに対応"
+      content: "PDF、Word、Excel、eBook、Web、プレーンテキストファイルをパスワード保護されたドキュメントも含めて Markdown にエクスポートします。"
 
     # feature loop
-    - title: "ãƒ­ãƒ¼ã‚«ãƒ«ãƒžã‚·ãƒ³ã§å®Ÿè¡Œ"
-      content: "ãƒ‡ãƒ¼ã‚¿ã¯ãŠå®¢æ§˜ãŒç®¡ç†ã—ã¾ã™ - å½“ç¤¾ã¯ã‚¯ãƒ©ã‚¦ãƒ‰ã‚„ã‚¤ãƒ³ã‚¿ãƒ¼ãƒãƒƒãƒˆæŽ¥ç¶šã‚’å¿…è¦ã¨ã—ãªã„ã‚ªãƒ³ãƒ—ãƒ¬ãƒŸã‚¹ API ã‚’æä¾›ã—ã¦ã„ã¾ã™ã€‚"
+    - title: "ローカルマシンで実行"
+      content: "データはお客様が管理します - 当社はクラウドやインターネット接続を必要としないオンプレミス API を提供しています。"
 
 ############################# Platforms ############################
 platforms:
   enable: true
-  title: "ãƒ—ãƒ©ãƒƒãƒˆãƒ•ã‚©ãƒ¼ãƒ ã®ã‚µãƒãƒ¼ãƒˆ"
-  description: "ä»¥ä¸‹ã®ã‚ªãƒšãƒ¬ãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã‚·ã‚¹ãƒ†ãƒ ã€ãƒ•ãƒ¬ãƒ¼ãƒ ãƒ¯ãƒ¼ã‚¯ã€ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ãƒžãƒãƒ¼ã‚¸ãƒ£ãƒ¼ãŒã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã¾ã™ã€‚"
+  title: "プラットフォームのサポート"
+  description: "以下のオペレーティングシステム、フレームワーク、パッケージマネージャーがサポートされています。"
   items:
     # platform loop
     - title: "Amazon"
@@ -119,9 +119,9 @@ platforms:
 ############################# File formats ############################
 formats:
   enable: true
-  title: "ã‚µãƒãƒ¼ãƒˆã•ã‚Œã¦ã„ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«å½¢å¼"
+  title: "サポートされているファイル形式"
   description: |
-    Markdown ã¸ã®ã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆã§ã‚µãƒãƒ¼ãƒˆã•ã‚Œã‚‹ãƒ•ã‚¡ã‚¤ãƒ«å½¢å¼ã¯ä»¥ä¸‹ã®é€šã‚Šã§ã™ã€‚
+    Markdown へのエクスポートでサポートされるファイル形式は以下の通りです。
   groups:
     # group loop
     - color: "red"
@@ -132,13 +132,13 @@ formats:
     # group loop
     - color: "blue"
       content: |
-        ### Word ã¨ Excel
+        ### Word と Excel
         * **Word:** DOCX, DOC, RTF, DOCM, DOTX, DOTM, DOT, ODT, OTT
         * **Excel:** XLSX, XLS, CSV, XLSM, XLSB, ODS, TSV, NUMBERS, XLTX, XLTM, XLAM, FODS, SXC, OTS, XLT
       # group loop
     - color: "green"
       content: |
-        ### ãã®ä»–   
+        ### その他   
         * **e-Books:** EPUB, MOBI, AZW3   
         * **Text:** TXT, XML
         * **Web:** CHM
@@ -147,167 +147,167 @@ formats:
 ############################# Features ############################
 features:
   enable: true
-  title: "GroupDocs.Markdown ã®æ©Ÿèƒ½"
-  description: "å½“ç¤¾è£½å“ã‚’éš›ç«‹ãŸã›ã‚‹æ©Ÿèƒ½ã§ã™ã€‚"
+  title: "GroupDocs.Markdown の機能"
+  description: "当社製品を際立たせる機能です。"
 
   items:
     # feature loop
     - icon: "multi_doc"
-      title: "è¤‡æ•°ã®æ–‡æ›¸å½¢å¼ã‚’ã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆ"
-      content: "æœ€ã‚‚ä¸€èˆ¬çš„ãªæ–‡æ›¸å½¢å¼ã‚’ Markdown ã«å¤‰æ›ã—ã¾ã™ï¼ˆPDFã€DOCXã€XLSXã€EPUB ãªã©ï¼‰ã€‚"
+      title: "複数の文書形式をエクスポート"
+      content: "最も一般的な文書形式を Markdown に変換します（PDF、DOCX、XLSX、EPUB など）。"
 
     # feature loop
     - icon: "advanced_formatting"
-      title: "é«˜åº¦ãª Markdown æ›¸å¼è¨­å®š"
-      content: "è¦‹å‡ºã—ã€æ®µè½ã€ãƒªã‚¹ãƒˆã€è¡¨ã€ãƒªãƒ³ã‚¯ã€ç”»åƒã€ãƒ–ãƒ­ãƒƒã‚¯ã‚¯ã‚ªãƒ¼ãƒˆã€ãã—ã¦ã‚³ãƒ¼ãƒ‰ãƒ–ãƒ­ãƒƒã‚¯ã¯ã€é©åˆ‡ãªMarkdownæ§‹æ–‡ã«ã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆã•ã‚Œã¾ã™ã€‚"
+      title: "高度な Markdown 書式設定"
+      content: "見出し、段落、リスト、表、リンク、画像、ブロッククオート、そしてコードブロックは、適切なMarkdown構文にエクスポートされます。"
 
     # feature loop
     - icon: "control_over_images"
-      title: "ç”»åƒã®å®Œå…¨ãªåˆ¶å¾¡"
-      content: "ç”»åƒã‚’ã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆã™ã‚‹ã‹ã€å‡ºåŠ›Markdownãƒ•ã‚¡ã‚¤ãƒ«ã«åŸ‹ã‚è¾¼ã‚€ã“ã¨ã§ã€ç”»åƒã‚’å®Œå…¨ã«åˆ¶å¾¡ã§ãã¾ã™ã€‚"
+      title: "画像の完全な制御"
+      content: "画像をエクスポートするか、出力Markdownファイルに埋め込むことで、画像を完全に制御できます。"
 
     # feature loop
     - icon: "secure"
-      title: "ãƒ­ãƒ¼ã‚«ãƒ«ãƒžã‚·ãƒ³ã§å®Ÿè¡Œ"
-      content: "ã‚¯ãƒ©ã‚¦ãƒ‰ã‚„ã‚¤ãƒ³ã‚¿ãƒ¼ãƒãƒƒãƒˆæŽ¥ç¶šã¯ä¸è¦ã§ã™ã€‚ã™ã¹ã¦ã®å‡¦ç†ã¯ãƒ­ãƒ¼ã‚«ãƒ«ãƒžã‚·ãƒ³ä¸Šã§è¡Œã‚ã‚Œã¾ã™ã€‚"
+      title: "ローカルマシンで実行"
+      content: "クラウドやインターネット接続は不要です。すべての処理はローカルマシン上で行われます。"
 
     # feature loop
     - icon: "intuitive"
-      title: "ç›´æ„Ÿçš„ãªãƒ‘ãƒ–ãƒªãƒƒã‚¯API"
-      content: "é–‹ç™ºè€…ã®ãŸã‚ã«ã€é–‹ç™ºè€…ãŒæ„›æƒ…ã‚’è¾¼ã‚ã¦è¨­è¨ˆã—ãŸã‚·ãƒ³ãƒ—ãƒ«ã§ç›´æ„Ÿçš„ãªãƒ‘ãƒ–ãƒªãƒƒã‚¯APIã§ã™ã€‚"
+      title: "直感的なパブリックAPI"
+      content: "開発者のために、開発者が愛情を込めて設計したシンプルで直感的なパブリックAPIです。"
 
     # feature loop
     - icon: "cross_platform"
-      title: "Windows ã¨ Linux ã§å‹•ä½œ"
-      content: ".NET ãŠã‚ˆã³ .NET Framework ã‚¢ã‚»ãƒ³ãƒ–ãƒªã¯ NuGet ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸å†…ã«å«ã¾ã‚Œã¦ã„ã¾ã™ã€‚"
+      title: "Windows と Linux で動作"
+      content: ".NET および .NET Framework アセンブリは NuGet パッケージ内に含まれています。"
 
 
 ############################# Code samples ############################
 code_samples_tabs:
   enable: true
-  title: "ã‚³ãƒ¼ãƒ‰ã‚µãƒ³ãƒ—ãƒ«"
-  description: ".NET ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã§æ–‡æ›¸ã‚’ Markdown ã«ã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆã™ã‚‹æœ€ã‚‚ä¸€èˆ¬çš„ãªä½¿ç”¨ã‚·ãƒŠãƒªã‚ªã€‚"
+  title: "コードサンプル"
+  description: ".NET アプリケーションで文書を Markdown にエクスポートする最も一般的な使用シナリオ。"
   items:
     # code sample loop
-    - title: "DOCX ã‚’ Markdown ã«ã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆ"
-      content: "ã“ã®ã‚³ãƒ¼ãƒ‰ã‚µãƒ³ãƒ—ãƒ«ã¯ã€DOCX ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ Markdown ã«å¤‰æ›ã—ã€å‡ºåŠ›ã‚’ãƒ•ã‚¡ã‚¤ãƒ«ã«ä¿å­˜ã™ã‚‹æ–¹æ³•ã‚’ç¤ºã—ã¦ã„ã¾ã™ã€‚ç”»åƒã¯å‡ºåŠ›ãƒ•ã‚¡ã‚¤ãƒ«ã«åŸ‹ã‚è¾¼ã¾ã‚Œã¾ã™ã€‚"
+    - title: "DOCX を Markdown にエクスポート"
+      content: "このコードサンプルは、DOCX ファイルを Markdown に変換し、出力をファイルに保存する方法を示しています。画像は出力ファイルに埋め込まれます。"
       samples:
         - language: "C#"
           color: "blue"
           content: |
             ```csharp {style=abap}   
-            // åå‰ç©ºé–“ã‚’ã‚¤ãƒ³ãƒãƒ¼ãƒˆã™ã‚‹
+            // 名前空間をインポートする
             using GroupDocs.Markdown;
 
-            // ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã‚’è¨­å®šã™ã‚‹
+            // ライセンスを設定する
             License.Set("GroupDocs.Markdown.lic");
 
-            // ã‚³ãƒ³ãƒãƒ¼ã‚¿ã‚’ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹åŒ–ã™ã‚‹
+            // コンバータをインスタンス化する
             var converter = new MarkdownConverter("annual-review.docx");
 
-            // å¤‰æ›ã—ã¦å‡ºåŠ›ã‚’ãƒ•ã‚¡ã‚¤ãƒ«ã«ä¿å­˜ã™ã‚‹
+            // 変換して出力をファイルに保存する
             converter.Convert("annual-review.md");
             ```
         - language: "F#"
           color: "red"
           content: |
             ```fsharp {style=abap} 
-            // åå‰ç©ºé–“ã‚’ã‚¤ãƒ³ãƒãƒ¼ãƒˆã™ã‚‹  
+            // 名前空間をインポートする  
             open GroupDocs.Markdown
 
-            // ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã‚’è¨­å®šã™ã‚‹
+            // ライセンスを設定する
             License.Set("GroupDocs.Markdown.lic")
 
-            // ã‚³ãƒ³ãƒãƒ¼ã‚¿ã‚’ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹åŒ–ã™ã‚‹
+            // コンバータをインスタンス化する
             let converter = new MarkdownConverter("annual-review.docx")
 
-            // å¤‰æ›ã—ã¦å‡ºåŠ›ã‚’ãƒ•ã‚¡ã‚¤ãƒ«ã«ä¿å­˜ã™ã‚‹
+            // 変換して出力をファイルに保存する
             converter.Convert("annual-review.md")
             ```
         - language: "VB.NET"
           color: "green"
           content: |
             ```vb {style=abap}   
-            ' åå‰ç©ºé–“ã‚’ã‚¤ãƒ³ãƒãƒ¼ãƒˆã™ã‚‹  
+            ' 名前空間をインポートする  
             Imports GroupDocs.Markdown
 
             Module Program
                 Sub Main()
-                    ' ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã‚’è¨­å®šã™ã‚‹
+                    ' ライセンスを設定する
                     License.Set("GroupDocs.Markdown.lic")
 
-                    ' ã‚³ãƒ³ãƒãƒ¼ã‚¿ã‚’ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹åŒ–ã™ã‚‹
+                    ' コンバータをインスタンス化する
                     Dim converter As New MarkdownConverter("annual-review.docx")
 
-                    ' å¤‰æ›ã—ã¦å‡ºåŠ›ã‚’ãƒ•ã‚¡ã‚¤ãƒ«ã«ä¿å­˜ã™ã‚‹
+                    ' 変換して出力をファイルに保存する
                     converter.Convert("annual-review.md")
                 End Sub
             End Module
             ```
     # code sample loop
-    - title: "ç”»åƒã‚’ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼ã«ä¿å­˜ã™ã‚‹"
-      content: "ã“ã®ã‚³ãƒ¼ãƒ‰ã‚µãƒ³ãƒ—ãƒ«ã¯ã€DOCX ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ Markdown ã«å¤‰æ›ã—ã€ç”»åƒã‚’åˆ¥ã®ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼ã«ä¿å­˜ã™ã‚‹æ–¹æ³•ã‚’ç¤ºã—ã¦ã„ã¾ã™ã€‚"
+    - title: "画像をフォルダーに保存する"
+      content: "このコードサンプルは、DOCX ファイルを Markdown に変換し、画像を別のフォルダーに保存する方法を示しています。"
       samples:
         - language: "C#"
           color: "blue"
           content: |
             ```csharp {style=abap}   
-            // åå‰ç©ºé–“ã‚’ã‚¤ãƒ³ãƒãƒ¼ãƒˆã™ã‚‹
+            // 名前空間をインポートする
             using GroupDocs.Markdown;
 
-            // ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã‚’è¨­å®šã™ã‚‹
+            // ライセンスを設定する
             License.Set("GroupDocs.Markdown.lic");
 
-            // ã‚³ãƒ³ãƒãƒ¼ã‚¿ã‚’ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹åŒ–ã™ã‚‹
+            // コンバータをインスタンス化する
             var converter = new MarkdownConverter("annual-report.docx");
 
-            // ç”»åƒã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆæˆ¦ç•¥ã¨å‡ºåŠ›ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼ã‚’è¨­å®šã™ã‚‹
+            // 画像エクスポート戦略と出力フォルダーを設定する
             var convertOptions = new DocumentConverterOptions();
             convertOptions.ImageExportStrategy = new ExportImagesToFileSystemStrategy("./images");
 
-            // å¤‰æ›ã—ã¦å‡ºåŠ›ã‚’ãƒ•ã‚¡ã‚¤ãƒ«ã«ä¿å­˜ã™ã‚‹
+            // 変換して出力をファイルに保存する
             converter.Convert("annual-report.md", convertOptions);
             ```
         - language: "F#"
           color: "red"
           content: |
             ```fsharp {style=abap} 
-            // åå‰ç©ºé–“ã‚’ã‚¤ãƒ³ãƒãƒ¼ãƒˆã™ã‚‹
+            // 名前空間をインポートする
             open GroupDocs.Markdown
 
-            // ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã‚’è¨­å®šã™ã‚‹
+            // ライセンスを設定する
             License.Set("GroupDocs.Markdown.lic")
 
-            // ã‚³ãƒ³ãƒãƒ¼ã‚¿ã‚’ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹åŒ–ã™ã‚‹
+            // コンバータをインスタンス化する
             let converter = new MarkdownConverter("annual-report.docx")
 
-            // ç”»åƒã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆæˆ¦ç•¥ã¨å‡ºåŠ›ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼ã‚’è¨­å®šã™ã‚‹
+            // 画像エクスポート戦略と出力フォルダーを設定する
             let convertOptions = new DocumentConverterOptions()
             convertOptions.ImageExportStrategy <- new ExportImagesToFileSystemStrategy("./images")
 
-            // å¤‰æ›ã—ã¦å‡ºåŠ›ã‚’ãƒ•ã‚¡ã‚¤ãƒ«ã«ä¿å­˜ã™ã‚‹
+            // 変換して出力をファイルに保存する
             converter.Convert("annual-report.md", convertOptions)
             ```
         - language: "VB.NET"
           color: "green"
           content: |
             ```vb {style=abap}   
-            ' åå‰ç©ºé–“ã‚’ã‚¤ãƒ³ãƒãƒ¼ãƒˆã™ã‚‹  
+            ' 名前空間をインポートする  
             Imports GroupDocs.Markdown
 
             Module Program
                 Sub Main()
-                    ' ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã‚’è¨­å®šã™ã‚‹
+                    ' ライセンスを設定する
                     License.Set("GroupDocs.Markdown.lic")
 
-                    ' ã‚³ãƒ³ãƒãƒ¼ã‚¿ã‚’ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹åŒ–ã™ã‚‹
+                    ' コンバータをインスタンス化する
                     Dim converter As New MarkdownConverter("annual-report.docx")
 
-                    ' ç”»åƒã‚¨ã‚¯ã‚¹ãƒãƒ¼ãƒˆæˆ¦ç•¥ã¨å‡ºåŠ›ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼ã‚’è¨­å®šã™ã‚‹
+                    ' 画像エクスポート戦略と出力フォルダーを設定する
                     Dim convertOptions As New DocumentConverterOptions()
                     convertOptions.ImageExportStrategy = New ExportImagesToFileSystemStrategy("./images")
 
-                    ' å¤‰æ›ã—ã¦å‡ºåŠ›ã‚’ãƒ•ã‚¡ã‚¤ãƒ«ã«ä¿å­˜ã™ã‚‹
+                    ' 変換して出力をファイルに保存する
                     converter.Convert("annual-report.md", convertOptions)
                 End Sub
             End Module
@@ -317,19 +317,19 @@ code_samples_tabs:
 ############################# Reviews ############################
 # reviews:
 # enable: true
-# title: "GroupDocs è£½å“ãƒ¬ãƒ“ãƒ¥ãƒ¼"
-# description: "ç§ãŸã¡ã®è¨€è‘‰ã ã‘ã§ãªãã€ä»–ã®é–‹ç™ºè€…ãŒå½“ç¤¾ã® API ã«ã¤ã„ã¦ä½•ã¨è¨€ã£ã¦ã„ã‚‹ã‹ã‚’ã”ç¢ºèªãã ã•ã„ã€‚"
+# title: "GroupDocs 製品レビュー"
+# description: "私たちの言葉だけでなく、他の開発者が当社の API について何と言っているかをご確認ください。"
 
 # items:
 #   # review loop
 #   - title: "GroupDocs.Markdown"
-#     content: "å„ªã‚ŒãŸã‚µãƒ¼ãƒ“ã‚¹ã¨å„ªã‚ŒãŸè£½å“ã§ã™ã€‚GroupDocs.Markdown for .NET ã®å°Žå…¥ãƒ—ãƒ­ã‚»ã‚¹ä¸­ã€éžå¸¸ã«å”åŠ›çš„ã§è¿…é€Ÿã«å¯¾å¿œã—ã¦ãã‚Œã¾ã—ãŸã€‚ã“ã‚Œä»¥ä¸Šã®ãŠã™ã™ã‚ã¯ã§ãã¾ã›ã‚“ã€‚"
+#     content: "優れたサービスと優れた製品です。GroupDocs.Markdown for .NET の導入プロセス中、非常に協力的で迅速に対応してくれました。これ以上のおすすめはできません。"
 #     author: "Martin Lasarga"
 #     company: "Product Manager at Axentria ECM by G.S.I."
 
 #   # review loop
 #   - title: "GroupDocs.Markdown"
-#     content: "ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã§ GroupDocs.Markdown for .NET ã‚’å®Ÿè£…ãƒ»ä½¿ç”¨ã—ãŸã¨ã“ã‚ã€éžå¸¸ã«ã†ã¾ãæ©Ÿèƒ½ã—ã¦ã„ã¾ã™ã€‚å¤šæ•°ã®ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆã§ãƒ†ã‚¹ãƒˆã—ã¾ã—ãŸãŒã€ä»Šã®ã¨ã“ã‚å•é¡Œã‚ã‚Šã¾ã›ã‚“ã€‚Markdown ã®å‡ºåŠ›ã¯ã‚¯ãƒªãƒ¼ãƒ³ã§ã€ã‚½ãƒ¼ã‚¹é–“ã§ã‚‚ä¸€è²«ã—ã¦ã„ã¾ã™ã€‚"
+#     content: "プロジェクトで GroupDocs.Markdown for .NET を実装・使用したところ、非常にうまく機能しています。多数のドキュメントでテストしましたが、今のところ問題ありません。Markdown の出力はクリーンで、ソース間でも一貫しています。"
 #     author: "Mats Oustad"
 #     company: "Senior Consultant/Partner at Novanet AS"
 ---

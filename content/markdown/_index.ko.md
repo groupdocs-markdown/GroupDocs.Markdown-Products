@@ -10,27 +10,27 @@ product_tag: "markdown"
 
 ############################# Head ############################
 
-head_title: "ë¬¸ì„œë¥¼ Markdownìœ¼ë¡œ ë‚´ë³´ë‚´ê¸° | GroupDocs"
-head_description: "GroupDocs.Markdownì€ PDF, Word, Excel ë° ê¸°íƒ€ í˜•ì‹ì„ Markdownìœ¼ë¡œ ë‚´ë³´ë‚´ì–´ ìƒì„± AI ìƒíƒœê³„ì™€ ì›í™œí•˜ê²Œ í†µí•©í•  ìˆ˜ ìžˆëŠ” ë¬¸ì„œ ì²˜ë¦¬ SDKìž…ë‹ˆë‹¤."
+head_title: "문서를 Markdown으로 내보내기 | GroupDocs"
+head_description: "GroupDocs.Markdown은 PDF, Word, Excel 및 기타 형식을 Markdown으로 내보내어 생성 AI 생태계와 원활하게 통합할 수 있는 문서 처리 SDK입니다."
 
 ############################# Header ##########################
 
-title: "ë¬¸ì„œë¥¼ AI ì¤€ë¹„ ìƒíƒœë¡œ ë§Œë“¤ê¸°"
+title: "문서를 AI 준비 상태로 만들기"
 description: |
-  ë‹¤ì–‘í•œ ë¬¸ì„œ ìœ í˜•ì„ ê¹”ë”í•˜ê³  ì˜ë¯¸ë¡ ì ì¸ Markdownìœ¼ë¡œ ë‚´ë³´ë‚´ëŠ” Markdown SDK.
+  다양한 문서 유형을 깔끔하고 의미론적인 Markdown으로 내보내는 Markdown SDK.
 
-  ë¬¸ì„œ êµ¬ì¡°, ì œëª©, ëª©ë¡, í‘œ, ë§í¬ ë° ì´ë¯¸ì§€ë¥¼ ë³´ì¡´í•©ë‹ˆë‹¤
+  문서 구조, 제목, 목록, 표, 링크 및 이미지를 보존합니다
 
-  ì´ë¯¸ì§€ë¥¼ ìž„ë² ë“œí•˜ê±°ë‚˜ ì™¸ë¶€ ë¦¬ì†ŒìŠ¤ë¡œ ì €ìž¥í•˜ì—¬ ì œì–´í•©ë‹ˆë‹¤.
+  이미지를 임베드하거나 외부 리소스로 저장하여 제어합니다.
 
 ############################# Platforms ############################
 
 supported_platforms:
   enable: true  
-  head_title: "í”Œëž«í¼ ì„ íƒ"
-  title: "ì§€ì›ë˜ëŠ” í”Œëž«í¼"
-  description: "GroupDocs.Markdownì€ ë‹¤ìŒ ìš´ì˜ ì²´ì œ ë° í”„ë ˆìž„ì›Œí¬ë¥¼ ì§€ì›í•©ë‹ˆë‹¤."
-  details_link_title: "ìžì„¸ížˆ ì•Œì•„ë³´ê¸°"
+  head_title: "플랫폼 선택"
+  title: "지원되는 플랫폼"
+  description: "GroupDocs.Markdown은 다음 운영 체제 및 프레임워크를 지원합니다."
+  details_link_title: "자세히 알아보기"
   items:
     # supported_platforms loop
     - title: ".NET"
@@ -47,88 +47,88 @@ supported_platforms:
         - content: "Windows, Linux"
           rows: "1"
         # features loop
-        - content: "30ê°œ ì´ìƒì˜ íŒŒì¼ í˜•ì‹"
+        - content: "30개 이상의 파일 형식"
           rows: "1"
 
 ############################# Features ############################
 
 features:
   enable: true
-  title: "GroupDocs.Markdown ê¸°ëŠ¥ ì„¸íŠ¸"
-  description: "ìš°ë¦¬ ì†”ë£¨ì…˜ì„ ë‹ë³´ì´ê²Œ í•˜ëŠ” ê¸°ëŠ¥ë“¤ìž…ë‹ˆë‹¤."
+  title: "GroupDocs.Markdown 기능 세트"
+  description: "우리 솔루션을 돋보이게 하는 기능들입니다."
 
   items:
     # feature loop
     - icon: "convert"
-      title: "ë¬¸ì„œë¥¼ Markdownìœ¼ë¡œ ë‚´ë³´ë‚´ê¸°"
-      content: "PDF, Word, Excel, ì „ìžì±… ë° í…ìŠ¤íŠ¸ë¥¼ Markdownìœ¼ë¡œ ë‚´ë³´ë‚´ LLM ì¤€ë¹„ ìƒíƒœë¡œ ë§Œë“œì„¸ìš”."
+      title: "문서를 Markdown으로 내보내기"
+      content: "PDF, Word, Excel, 전자책 및 텍스트를 Markdown으로 내보내 LLM 준비 상태로 만드세요."
 
     # feature loop
     - icon: "structure"
-      title: "ë¬¸ì„œ êµ¬ì¡° ìœ ì§€"
-      content: "ë¬¸ì„œ êµ¬ì¡°, ì œëª©, ëª©ë¡, í‘œ, ë§í¬ ë° ì´ë¯¸ì§€ë¥¼ ë³´ì¡´í•©ë‹ˆë‹¤."
+      title: "문서 구조 유지"
+      content: "문서 구조, 제목, 목록, 표, 링크 및 이미지를 보존합니다."
 
     # feature loop
     - icon: "image"
-      title: "ì´ë¯¸ì§€ ì œì–´"
-      content: "ì´ë¯¸ì§€ë¥¼ ìž„ë² ë“œí•˜ê±°ë‚˜ ì™¸ë¶€ ë¦¬ì†ŒìŠ¤ë¡œ ì €ìž¥í•©ë‹ˆë‹¤. ë³€í™˜ ê³¼ì •ì—ì„œ ì´ë¯¸ì§€ë¥¼ êµì²´í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."
+      title: "이미지 제어"
+      content: "이미지를 임베드하거나 외부 리소스로 저장합니다. 변환 과정에서 이미지를 교체할 수 있습니다."
     
     # feature loop
     - icon: "settings"
-      title: "ì „ì²´ ë¬¸ì„œ í˜¹ì€ íŠ¹ì • íŽ˜ì´ì§€ ë³€í™˜"
-      content: "ì „ì²´ ë¬¸ì„œë¥¼ ë³€í™˜í•˜ê±°ë‚˜ í•„ìš”ì— ë”°ë¼ íŠ¹ì • íŽ˜ì´ì§€ ë˜ëŠ” ì›Œí¬ì‹œíŠ¸ë¡œ ë³€í™˜ ë²”ìœ„ë¥¼ ì œí•œí•©ë‹ˆë‹¤."
+      title: "전체 문서 혹은 특정 페이지 변환"
+      content: "전체 문서를 변환하거나 필요에 따라 특정 페이지 또는 워크시트로 변환 범위를 제한합니다."
 
 
 ############################# Code samples ############################
 code_samples:
   enable: true
-  title: "GroupDocs.Markdown ì½”ë“œ ìƒ˜í”Œ"
-  description: "ë¬¸ì„œë¥¼ Markdownìœ¼ë¡œ ë‚´ë³´ë‚´ëŠ” ê°€ìž¥ ì¼ë°˜ì ì¸ ì‚¬ìš© ì‹œë‚˜ë¦¬ì˜¤ìž…ë‹ˆë‹¤. í™˜ê²½ì—ì„œ ì œí’ˆì„ í…ŒìŠ¤íŠ¸í•˜ë ¤ë©´ [ë¬´ë£Œ ìž„ì‹œ ë¼ì´ì„ ìŠ¤](https://purchase.groupdocs.com/temporary-license)ë¥¼ ìš”ì²­í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤."
+  title: "GroupDocs.Markdown 코드 샘플"
+  description: "문서를 Markdown으로 내보내는 가장 일반적인 사용 시나리오입니다. 환경에서 제품을 테스트하려면 [무료 임시 라이선스](https://purchase.groupdocs.com/temporary-license)를 요청할 수 있습니다."
   items:
     # code sample loop
-    - title: "PDFë¥¼ Markdownìœ¼ë¡œ ë‚´ë³´ë‚´ê¸°"
+    - title: "PDF를 Markdown으로 내보내기"
       content: |
-       ëª‡ ì¤„ì˜ ì½”ë“œë¡œ PDF íŒŒì¼ì—ì„œ ê¹”ë”í•œ Markdown íŒŒì¼ì„ ì–»ì„ ìˆ˜ ìžˆìŠµë‹ˆë‹¤. ê¸°ë³¸ì ìœ¼ë¡œ ì´ë¯¸ì§€ëŠ” ì¶œë ¥ íŒŒì¼ì— ìž„ë² ë“œë©ë‹ˆë‹¤.
+       몇 줄의 코드로 PDF 파일에서 깔끔한 Markdown 파일을 얻을 수 있습니다. 기본적으로 이미지는 출력 파일에 임베드됩니다.
       samples:
         - language: "C#"
           color: "blue"
           content: |
             ```csharp {style=abap}   
-            // ë„¤ìž„ìŠ¤íŽ˜ì´ìŠ¤ ê°€ì ¸ì˜¤ê¸°
+            // 네임스페이스 가져오기
             using GroupDocs.Markdown;
 
-            // ë¼ì´ì„ ìŠ¤ ì„¤ì •
+            // 라이선스 설정
             License.Set("GroupDocs.Markdown.lic");
 
-            // ì»¨ë²„í„° ì¸ìŠ¤í„´ìŠ¤í™”
+            // 컨버터 인스턴스화
             var converter = new MarkdownConverter("business-plan.pdf");
 
-            // ë³€í™˜í•˜ê³  ì¶œë ¥ì„ íŒŒì¼ì— ì €ìž¥
+            // 변환하고 출력을 파일에 저장
             converter.Convert("business-plan.md");
             ```
     # code sample loop
-    - title: "ì´ë¯¸ì§€ë¥¼ í´ë”ì— ì €ìž¥"
+    - title: "이미지를 폴더에 저장"
       content: |
-       ì´ ì½”ë“œ ìƒ˜í”Œì€ DOCX íŒŒì¼ì„ Markdownìœ¼ë¡œ ë³€í™˜í•˜ê³  ì´ë¯¸ì§€ë¥¼ ë³„ë„ì˜ í´ë”ì— ì €ìž¥í•˜ëŠ” ë°©ë²•ì„ ë³´ì—¬ì¤ë‹ˆë‹¤.
+       이 코드 샘플은 DOCX 파일을 Markdown으로 변환하고 이미지를 별도의 폴더에 저장하는 방법을 보여줍니다.
       samples:
         - language: "C#"
           color: "blue"
           content: |
             ```csharp {style=abap}   
-            // ë„¤ìž„ìŠ¤íŽ˜ì´ìŠ¤ ê°€ì ¸ì˜¤ê¸°
+            // 네임스페이스 가져오기
             using GroupDocs.Markdown;
 
-            // ë¼ì´ì„ ìŠ¤ ì„¤ì •
+            // 라이선스 설정
             License.Set("GroupDocs.Markdown.lic");
 
-            // ì»¨ë²„í„° ì¸ìŠ¤í„´ìŠ¤í™”
+            // 컨버터 인스턴스화
             var converter = new MarkdownConverter("annual-report.docx");
 
-            // ì´ë¯¸ì§€ ë‚´ë³´ë‚´ê¸° ì „ëžµ ë° ì¶œë ¥ í´ë” ì„¤ì •
+            // 이미지 내보내기 전략 및 출력 폴더 설정
             var convertOptions = new DocumentConverterOptions();
             convertOptions.ImageExportStrategy = new ExportImagesToFileSystemStrategy("./images");
 
-            // ë³€í™˜í•˜ê³  ì¶œë ¥ì„ íŒŒì¼ì— ì €ìž¥
+            // 변환하고 출력을 파일에 저장
             converter.Convert("annual-report.md", convertOptions);
             ```
 
@@ -136,36 +136,36 @@ code_samples:
 
 formats:
   enable: true
-  title:  "30ê°œ ì´ìƒì˜ íŒŒì¼ í˜•ì‹ ì§€ì›"
-  description: "ë‹¤ìŒ íŒŒì¼ í˜•ì‹ì€ Markdownìœ¼ë¡œ ë‚´ë³´ë‚´ê¸°ë¥¼ ì§€ì›í•©ë‹ˆë‹¤."
+  title:  "30개 이상의 파일 형식 지원"
+  description: "다음 파일 형식은 Markdown으로 내보내기를 지원합니다."
   formats_img: "markdown"
 
 ############################# Metrics ############################
 
 metrics:
   enable: true
-  title: "ì‹¬ì¸µ ë©”íŠ¸ë¦­ ë° í†µê³„ ì¸ì‚¬ì´íŠ¸"
-  description: "ìš°ë¦¬ì˜ ì£¼ìš” ìˆ˜ì¹˜ë¥¼ ìƒì„¸ížˆ ë¶„ì„í•˜ì—¬ ì„±ê³¼, ì˜í–¥ ë° ì„±ìž¥ì— ëŒ€í•œ í¬ê´„ì ì¸ ë©”íŠ¸ë¦­ê³¼ í†µê³„ ì¸ì‚¬ì´íŠ¸ë¥¼ ì œê³µí•©ë‹ˆë‹¤."
+  title: "심층 메트릭 및 통계 인사이트"
+  description: "우리의 주요 수치를 상세히 분석하여 성과, 영향 및 성장에 대한 포괄적인 메트릭과 통계 인사이트를 제공합니다."
 
   items:
     # metrics loop
     - number: "180+"
-      title: "ì§€ì›ë˜ëŠ” í˜•ì‹"
-      content: "PDF, Word, Excel ë° eBookì„ í¬í•¨í•œ ìˆ˜ì‹­ ê°œì˜ ë¬¸ì„œ ë° í…ìŠ¤íŠ¸ í˜•ì‹ì—ì„œ Markdownìœ¼ë¡œ ë³€í™˜í•˜ì—¬ gen AI ìƒíƒœê³„ì™€ ì›í™œí•˜ê²Œ í†µí•©í•©ë‹ˆë‹¤."
+      title: "지원되는 형식"
+      content: "PDF, Word, Excel 및 eBook을 포함한 수십 개의 문서 및 텍스트 형식에서 Markdown으로 변환하여 gen AI 생태계와 원활하게 통합합니다."
     # metrics loop
     - number: "1.0M"
-      title: "ê°œë°œìžì—ê²Œ ì‹ ë¢°ë°›ëŠ”"
-      content: "ë‹¹ì‚¬ì˜ ì†”ë£¨ì…˜ì€ ê°œë°œìž ì»¤ë®¤ë‹ˆí‹°ì—ì„œ ì‹ ë¢°ë°›ìœ¼ë©° ë„ë¦¬ ì±„íƒë˜ì–´ í”„ë¡œì íŠ¸ì— ì›í™œí•œ í†µí•©ì„ ì œê³µí•©ë‹ˆë‹¤."
+      title: "개발자에게 신뢰받는"
+      content: "당사의 솔루션은 개발자 커뮤니티에서 신뢰받으며 널리 채택되어 프로젝트에 원활한 통합을 제공합니다."
 
     # metrics loop
     - number: "15+"
-      title: "ì œí’ˆ"
-      content: "ìš°ë¦¬ëŠ” 15ê°œ ì´ìƒì˜ ë¬¸ì„œ ì²˜ë¦¬ SDKë¥¼ ì œê³µí•˜ì—¬ í†µí•© ì‹œ ì›í™œí•œ ê²½í—˜ì„ ì œê³µí•©ë‹ˆë‹¤. ìš°ë¦¬ê°€ ì²˜ë¦¬í•˜ë‹ˆ ì•ˆì‹¬í•˜ì„¸ìš”."
+      title: "제품"
+      content: "우리는 15개 이상의 문서 처리 SDK를 제공하여 통합 시 원활한 경험을 제공합니다. 우리가 처리하니 안심하세요."
     
     # metrics loop
     - number: "100+"
-      title: "ë§Œì¡±í•˜ëŠ” ê³ ê°"
-      content: "ì „ ì„¸ê³„ ìµœê³ ì˜ ì•„ì´ì½”ë‹‰ ë¸Œëžœë“œì— ì„œë¹„ìŠ¤ë¥¼ ì œê³µí•˜ê³  ìžˆìŠµë‹ˆë‹¤. ìˆ˜ë°± ëª…ì´ GroupDocs ì œí’ˆì„ ì‚¬ëž‘í•˜ëŠ” ì´ìœ ë¥¼ í™•ì¸í•´ ë³´ì„¸ìš”! ì§€ê¸ˆ ê°€ìž…í•˜ì„¸ìš”!"
+      title: "만족하는 고객"
+      content: "전 세계 최고의 아이코닉 브랜드에 서비스를 제공하고 있습니다. 수백 명이 GroupDocs 제품을 사랑하는 이유를 확인해 보세요! 지금 가입하세요!"
 
 
 ############################# Customers ############################
@@ -173,8 +173,8 @@ metrics:
 
 customers:
   enable: true
-  title: "ìš°ë¦¬ì˜ ë§Œì¡±í•˜ëŠ” ê³ ê°"
-  description: "GroupDocs ë¼ì´ë¸ŒëŸ¬ë¦¬ëŠ” ì „ ì„¸ê³„ì ìœ¼ë¡œ ìœ ëª…í•˜ê³  ë›°ì–´ë‚œ ë¸Œëžœë“œì—ì„œ ì‚¬ìš©ë˜ê³  ìžˆìŠµë‹ˆë‹¤."
+  title: "우리의 만족하는 고객"
+  description: "GroupDocs 라이브러리는 전 세계적으로 유명하고 뛰어난 브랜드에서 사용되고 있습니다."
 
   items:
     # customers loop
@@ -212,8 +212,8 @@ customers:
 
 actions:
   enable: true
-  title: "ì‹œìž‘í•  ì¤€ë¹„ê°€ ë˜ì…¨ë‚˜ìš”?"
-  description: "ëŒ€ìƒ í”Œëž«í¼ì„ ì„ íƒí•˜ì—¬ ì œí’ˆì— ëŒ€í•´ ìžì„¸ížˆ ì•Œì•„ë³´ì„¸ìš”."
+  title: "시작할 준비가 되셨나요?"
+  description: "대상 플랫폼을 선택하여 제품에 대해 자세히 알아보세요."
 
   items:
     #  loop
@@ -225,79 +225,79 @@ actions:
 
 faq:
   enable: true
-  title: "ìžì£¼ ë¬»ëŠ” ì§ˆë¬¸ ë° ìš°ë ¤ì‚¬í•­"
-  description: "FAQ ì„¹ì…˜ì—ì„œ ì¼ë°˜ì ì¸ ë¬¸ì˜ì— ëŒ€í•œ ë‹µë³€ì„ ì°¾ì•„ ë¹ ë¥´ê²Œ ì§ˆë¬¸ê³¼ ìš°ë ¤ë¥¼ í•´ê²°í•˜ì„¸ìš”."
+  title: "자주 묻는 질문 및 우려사항"
+  description: "FAQ 섹션에서 일반적인 문의에 대한 답변을 찾아 빠르게 질문과 우려를 해결하세요."
 
   items:
     #  loop
-    - question: "êµ¬ë§¤ ì „ì— GroupDocs ì œí’ˆì„ í‰ê°€í•  ìˆ˜ ìžˆë‚˜ìš”?"
+    - question: "구매 전에 GroupDocs 제품을 평가할 수 있나요?"
       answer: |
-        ë„¤! ëª¨ë“  GroupDocs ì œí’ˆì€ ìœ„í—˜ì´ ì—†ëŠ” í‰ê°€ ë²„ì „ì„ ì œê³µí•©ë‹ˆë‹¤. ê°œë°œìžë“¤ì´ êµ¬ë§¤ ì „ì— APIë¥¼ ë‹¤ìš´ë¡œë“œí•˜ê³  ì§ì ‘ ì‚¬ìš©í•´ ë³´ë©° ìš”êµ¬ ì‚¬í•­ì„ 100% ì¶©ì¡±í•˜ëŠ”ì§€ í™•ì¸í•˜ì‹œê¸¸ ê°•ë ¥ížˆ ê¶Œìž¥í•©ë‹ˆë‹¤.
+        네! 모든 GroupDocs 제품은 위험이 없는 평가 버전을 제공합니다. 개발자들이 구매 전에 API를 다운로드하고 직접 사용해 보며 요구 사항을 100% 충족하는지 확인하시길 강력히 권장합니다.
     #  loop
-    - question: "GroupDocsê°€ ì œí’ˆ ë°ëª¨ë¥¼ ì œê³µí•˜ë‚˜ìš”?"
+    - question: "GroupDocs가 제품 데모를 제공하나요?"
       answer: |
-        ì•„ë‹ˆìš”, ìš°ë¦¬ì˜ ì´ˆì ì€ APIì™€ ê°€ëŠ¥í•œ ê°€ìž¥ ê¸°ëŠ¥ì ì´ê³  ì•ˆì •ì ì¸ ì œí’ˆì„ ë§Œë“œëŠ” ê²ƒìž…ë‹ˆë‹¤. ìš°ë¦¬ëŠ” ì œí’ˆì„ ì§ì ‘ í…ŒìŠ¤íŠ¸í•´ë³¼ ìˆ˜ ìžˆë„ë¡ [ìž„ì‹œ ë¼ì´ì„ ìŠ¤](https://purchase.groupdocs.com/temporary-license/) í˜•íƒœì˜ ì™„ì „ ê¸°ëŠ¥ ë¬´ë£Œ ì²´í—˜ì„ ì œê³µí•©ë‹ˆë‹¤.
+        아니요, 우리의 초점은 API와 가능한 가장 기능적이고 안정적인 제품을 만드는 것입니다. 우리는 제품을 직접 테스트해볼 수 있도록 [임시 라이선스](https://purchase.groupdocs.com/temporary-license/) 형태의 완전 기능 무료 체험을 제공합니다.
     #  loop
-    - question: "ì œí’ˆì„ ì–´ë””ì„œ ë‹¤ìš´ë¡œë“œí•  ìˆ˜ ìžˆë‚˜ìš”?"
+    - question: "제품을 어디서 다운로드할 수 있나요?"
       answer: |
-        ëª¨ë“  ì œí’ˆì€ NuGet ë˜ëŠ” GroupDocs Releases [ì›¹ì‚¬ì´íŠ¸](https://releases.groupdocs.com)ì—ì„œ ë‹¤ìš´ë¡œë“œí•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤.    
+        모든 제품은 NuGet 또는 GroupDocs Releases [웹사이트](https://releases.groupdocs.com)에서 다운로드할 수 있습니다.    
     #  loop
-    - question: "GroupDocs ê°œë°œìž ë¼ì´ì„ ìŠ¤ëŠ” ì‚¬ìš©ìžë‹¹ì¸ê°€ìš”, ì•„ë‹ˆë©´ ì§€ì • ì‚¬ìš©ìžë‹¹ì¸ê°€ìš”?"
+    - question: "GroupDocs 개발자 라이선스는 사용자당인가요, 아니면 지정 사용자당인가요?"
       answer: |
-        GroupDocs ê°œë°œìž ë¼ì´ì„ ìŠ¤ëŠ” ì‚¬ìš©ìžë‹¹ì´ë©°, ì§€ì • ì‚¬ìš©ìžë‹¹ì´ ì•„ë‹™ë‹ˆë‹¤. ì½”ë”© íŒ€ì˜ êµ¬ì„±ì›ì´ ì‹œê°„ì´ ì§€ë‚˜ë©´ì„œ ë³€í•  ìˆ˜ ìžˆìŒì„ ì´í•´í•˜ë©°, ë§¤ë²ˆ ë¼ì´ì„ ìŠ¤ë¥¼ ì—…ë°ì´íŠ¸í•˜ëŠ” ê²ƒì´ í˜„ì‹¤ì ì´ì§€ ì•Šë‹¤ëŠ” ì ì„ ê³ ë ¤í•©ë‹ˆë‹¤.
+        GroupDocs 개발자 라이선스는 사용자당이며, 지정 사용자당이 아닙니다. 코딩 팀의 구성원이 시간이 지나면서 변할 수 있음을 이해하며, 매번 라이선스를 업데이트하는 것이 현실적이지 않다는 점을 고려합니다.
     #  loop
-    - question: "ê¸°ìˆ  ì§€ì›ì„ ì œê³µí•©ë‹ˆê¹Œ?"
+    - question: "기술 지원을 제공합니까?"
       answer: |
-        ì˜ˆ, ì œí’ˆ íŒ€ì´ [ë¬´ë£Œ ì§€ì› í¬ëŸ¼](https://forum.groupdocs.com/c/markdown) ë° [ìœ ë£Œ ì§€ì› í—¬í”„ë°ìŠ¤í¬](https://helpdesk.groupdocs.com/)ë¥¼ í†µí•´ ë¬´ë£Œ ê¸°ìˆ  ì§€ì›ì„ ì œê³µí•˜ì—¬ ì›í™œí•œ ê²½í—˜ì„ ë³´ìž¥í•©ë‹ˆë‹¤.
+        예, 제품 팀이 [무료 지원 포럼](https://forum.groupdocs.com/c/markdown) 및 [유료 지원 헬프데스크](https://helpdesk.groupdocs.com/)를 통해 무료 기술 지원을 제공하여 원활한 경험을 보장합니다.
 
 ############################# Cloud ############################
 
 cloud_links:
   enable: false
   title: "GroupDocs Cloud API"
-  description: "í´ë¼ìš°ë“œ ê¸°ë°˜ REST APIë¥¼ ì‚¬ìš©í•˜ì—¬ ëª¨ë“  ì• í”Œë¦¬ì¼€ì´ì…˜ì—ì„œ ë¬¸ì„œë¥¼ Markdownìœ¼ë¡œ ë³€í™˜í•˜ëŠ” ì†ë„ë¥¼ ë†’ìž…ë‹ˆë‹¤."
+  description: "클라우드 기반 REST API를 사용하여 모든 애플리케이션에서 문서를 Markdown으로 변환하는 속도를 높입니다."
 
   items:
     #  loop
     - icon: "groupdocs_markdown-for-curl"
       title: "GroupDocs.Markdown Cloud for cURL"
       link: "https://products.groupdocs.cloud/markdown/curl"
-      content: "cURL RESTful APIë¥¼ ì‚¬ìš©í•˜ì—¬ Microsoft Office, PDF ë° ê¸°íƒ€ í˜•ì‹ì„ ì• í”Œë¦¬ì¼€ì´ì…˜ì—ì„œ Markdownìœ¼ë¡œ ë³€í™˜í•©ë‹ˆë‹¤."
+      content: "cURL RESTful API를 사용하여 Microsoft Office, PDF 및 기타 형식을 애플리케이션에서 Markdown으로 변환합니다."
 
     #  loop
     - icon: "groupdocs_markdown-for-net"
       title: "GroupDocs.Markdown Cloud for .NET"
       link: "https://products.groupdocs.cloud/markdown/net"
-      content: ".NET Cloud SDKë¥¼ ì‚¬ìš©í•˜ì—¬ êµ¬ì„± ê°€ëŠ¥í•œ ì˜µì…˜ìœ¼ë¡œ í”„ë¡œê·¸ëž˜ë° ë°©ì‹ ë¬¸ì„œë¥¼ Markdownìœ¼ë¡œ ë³€í™˜í•©ë‹ˆë‹¤."
+      content: ".NET Cloud SDK를 사용하여 구성 가능한 옵션으로 프로그래밍 방식 문서를 Markdown으로 변환합니다."
     #  loop
     - icon: "groupdocs_markdown-for-java"
       title: "GroupDocs.Markdown Cloud for Java"
       link: "https://products.groupdocs.cloud/markdown/java"
-      content: "Java Cloud SDKë¥¼ ì‚¬ìš©í•˜ì—¬ Java ì• í”Œë¦¬ì¼€ì´ì…˜ì— ë¬¸ì„œ ë³€í™˜ì„ Markdownìœ¼ë¡œ í†µí•©í•©ë‹ˆë‹¤."
+      content: "Java Cloud SDK를 사용하여 Java 애플리케이션에 문서 변환을 Markdown으로 통합합니다."
 
 ############################# Apps ############################
 
 app_links:
   enable: true
-  title: "GroupDocs ì˜¨ë¼ì¸ ì•±"
-  description: "ë¸Œë¼ìš°ì €ì—ì„œ ì¸ê¸° ìžˆëŠ” íŒŒì¼ í˜•ì‹ì„ Markdownìœ¼ë¡œ ë³€í™˜í•  ìˆ˜ ìžˆëŠ” ì˜¨ë¼ì¸ ì• í”Œë¦¬ì¼€ì´ì…˜ìž…ë‹ˆë‹¤."
+  title: "GroupDocs 온라인 앱"
+  description: "브라우저에서 인기 있는 파일 형식을 Markdown으로 변환할 수 있는 온라인 애플리케이션입니다."
 
   items:
     #  loop
     - icon: "groupdocs_conversion-app"
       title: "GroupDocs.Conversion Total"
       link: "https://products.groupdocs.app/conversion/total"
-      content: "ë‹¤ì–‘í•œ íŒŒì¼ í˜•ì‹ì„ ì§ì ‘ Markdown(.md)ìœ¼ë¡œ ë³€í™˜í•˜ëŠ” ë¬´ë£Œ ì˜¨ë¼ì¸ ì• í”Œë¦¬ì¼€ì´ì…˜ì„ ì‚´íŽ´ë³´ì„¸ìš”."
+      content: "다양한 파일 형식을 직접 Markdown(.md)으로 변환하는 무료 온라인 애플리케이션을 살펴보세요."
 
     #  loop
     - icon: "groupdocs_conversion-app"
       title:  "GroupDocs.Conversion DOCX"
       link: "https://products.groupdocs.app/conversion/docx"
-      content: "ë‹¤ì–‘í•œ ë””ë°”ì´ìŠ¤ì—ì„œ Microsoft Word íŒŒì¼ì„ Markdownìœ¼ë¡œ ë³€í™˜í•˜ëŠ” ì›¹ ê¸°ë°˜ ë„êµ¬ìž…ë‹ˆë‹¤."
+      content: "다양한 디바이스에서 Microsoft Word 파일을 Markdown으로 변환하는 웹 기반 도구입니다."
 
     #  loop
     - icon: "groupdocs_conversion-app"
       title:  "GroupDocs.Conversion PDF"
       link: "https://products.groupdocs.app/markdown/pdf"
-      content: "ë¬´ë£Œ PDF-to-Markdown ì•±ìœ¼ë¡œ PDF íŒŒì¼ì„ ì˜¨ë¼ì¸ì—ì„œ Markdownìœ¼ë¡œ ë³€í™˜í•©ë‹ˆë‹¤."
+      content: "무료 PDF-to-Markdown 앱으로 PDF 파일을 온라인에서 Markdown으로 변환합니다."
 ---

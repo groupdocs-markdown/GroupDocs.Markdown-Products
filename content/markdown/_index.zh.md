@@ -10,27 +10,27 @@ product_tag: "markdown"
 
 ############################# Head ############################
 
-head_title: "å¯¼å‡ºæ–‡æ¡£ä¸º Markdown | GroupDocs"
-head_description: "GroupDocs.Markdown æ˜¯ä¸€ä¸ªæ–‡æ¡£å¤„ç† SDKï¼Œå¯å°† PDFã€Wordã€Excel ç­‰æ ¼å¼å¯¼å‡ºä¸º Markdownï¼Œä»¥ä¾¿åœ¨ç”Ÿæˆå¼ AI ç”Ÿæ€ç³»ç»Ÿä¸­æ— ç¼é›†æˆã€‚"
+head_title: "导出文档为 Markdown | GroupDocs"
+head_description: "GroupDocs.Markdown 是一个文档处理 SDK，可将 PDF、Word、Excel 等格式导出为 Markdown，以便在生成式 AI 生态系统中无缝集成。"
 
 ############################# Header ##########################
 
-title: "è®©æ‚¨çš„æ–‡æ¡£å‡†å¤‡å¥½ AI"
+title: "让您的文档准备好 AI"
 description: |
-  Markdown SDKï¼Œå¯å°†å„ç§æ–‡æ¡£ç±»åž‹å¯¼å‡ºä¸ºæ¸…æ™°ã€è¯­ä¹‰åŒ–çš„ Markdownã€‚
+  Markdown SDK，可将各种文档类型导出为清晰、语义化的 Markdown。
 
-  ä¿ç•™æ–‡æ¡£ç»“æž„ã€æ ‡é¢˜ã€åˆ—è¡¨ã€è¡¨æ ¼ã€é“¾æŽ¥å’Œå›¾åƒ
+  保留文档结构、标题、列表、表格、链接和图像
 
-  é€šè¿‡åµŒå…¥å›¾åƒæˆ–ä¿å­˜ä¸ºå¤–éƒ¨èµ„æºæ¥æŽ§åˆ¶å›¾åƒã€‚
+  通过嵌入图像或保存为外部资源来控制图像。
 
 ############################# Platforms ############################
 
 supported_platforms:
   enable: true  
-  head_title: "é€‰æ‹©æ‚¨çš„å¹³å°"
-  title: "å—æ”¯æŒçš„å¹³å°"
-  description: "GroupDocs.Markdown æ”¯æŒä»¥ä¸‹æ“ä½œç³»ç»Ÿå’Œæ¡†æž¶ã€‚"
-  details_link_title: "äº†è§£æ›´å¤š"
+  head_title: "选择您的平台"
+  title: "受支持的平台"
+  description: "GroupDocs.Markdown 支持以下操作系统和框架。"
+  details_link_title: "了解更多"
   items:
     # supported_platforms loop
     - title: ".NET"
@@ -47,88 +47,88 @@ supported_platforms:
         - content: "Windows, Linux"
           rows: "1"
         # features loop
-        - content: "30 å¤šç§æ–‡ä»¶æ ¼å¼"
+        - content: "30 多种文件格式"
           rows: "1"
 
 ############################# Features ############################
 
 features:
   enable: true
-  title: "GroupDocs.Markdown åŠŸèƒ½é›†"
-  description: "è¿™äº›åŠŸèƒ½ä½¿æˆ‘ä»¬çš„è§£å†³æ–¹æ¡ˆè„±é¢–è€Œå‡ºã€‚"
+  title: "GroupDocs.Markdown 功能集"
+  description: "这些功能使我们的解决方案脱颖而出。"
 
   items:
     # feature loop
     - icon: "convert"
-      title: "å¯¼å‡ºæ–‡æ¡£ä¸º Markdown"
-      content: "é€šè¿‡å°† PDFã€Wordã€Excelã€ç”µå­ä¹¦å’Œæ–‡æœ¬å¯¼å‡ºä¸º Markdownï¼Œä½¿å…¶å…·å¤‡ LLM å°±ç»ªèƒ½åŠ›ã€‚"
+      title: "导出文档为 Markdown"
+      content: "通过将 PDF、Word、Excel、电子书和文本导出为 Markdown，使其具备 LLM 就绪能力。"
 
     # feature loop
     - icon: "structure"
-      title: "ä¿æŒæ–‡æ¡£ç»“æž„"
-      content: "ä¿ç•™æ–‡æ¡£ç»“æž„ã€æ ‡é¢˜ã€åˆ—è¡¨ã€è¡¨æ ¼ã€é“¾æŽ¥å’Œå›¾åƒã€‚"
+      title: "保持文档结构"
+      content: "保留文档结构、标题、列表、表格、链接和图像。"
 
     # feature loop
     - icon: "image"
-      title: "æŽ§åˆ¶å›¾åƒ"
-      content: "åµŒå…¥å›¾åƒæˆ–å°†å…¶ä¿å­˜ä¸ºå¤–éƒ¨èµ„æºã€‚åœ¨è½¬æ¢è¿‡ç¨‹ä¸­æ›¿æ¢å›¾åƒã€‚"
+      title: "控制图像"
+      content: "嵌入图像或将其保存为外部资源。在转换过程中替换图像。"
     
     # feature loop
     - icon: "settings"
-      title: "è½¬æ¢å®Œæ•´æ–‡æ¡£æˆ–ç‰¹å®šé¡µé¢"
-      content: "æ ¹æ®éœ€è¦è½¬æ¢æ•´ä¸ªæ–‡æ¡£æˆ–å°†è½¬æ¢é™åˆ¶ä¸ºç‰¹å®šé¡µé¢æˆ–å·¥ä½œè¡¨ã€‚"
+      title: "转换完整文档或特定页面"
+      content: "根据需要转换整个文档或将转换限制为特定页面或工作表。"
 
 
 ############################# Code samples ############################
 code_samples:
   enable: true
-  title: "GroupDocs.Markdown ä»£ç ç¤ºä¾‹"
-  description: "å¯¼å‡ºæ–‡æ¡£ä¸º Markdown çš„å¸¸è§ä½¿ç”¨åœºæ™¯ã€‚æ‚¨å¯ä»¥è¯·æ±‚ä¸€ä¸ª[å…è´¹ä¸´æ—¶è®¸å¯è¯](https://purchase.groupdocs.com/temporary-license)æ¥åœ¨æ‚¨çš„çŽ¯å¢ƒä¸­æµ‹è¯•è¯¥äº§å“ã€‚"
+  title: "GroupDocs.Markdown 代码示例"
+  description: "导出文档为 Markdown 的常见使用场景。您可以请求一个[免费临时许可证](https://purchase.groupdocs.com/temporary-license)来在您的环境中测试该产品。"
   items:
     # code sample loop
-    - title: "å°† PDF å¯¼å‡ºä¸º Markdown"
+    - title: "将 PDF 导出为 Markdown"
       content: |
-       ä»…éœ€å‡ è¡Œä»£ç ï¼Œå³å¯ä»Ž PDF æ–‡ä»¶èŽ·å–å¹²å‡€çš„ Markdown æ–‡ä»¶ã€‚é»˜è®¤æƒ…å†µä¸‹ï¼Œå›¾åƒä¼šåµŒå…¥åˆ°è¾“å‡ºæ–‡ä»¶ä¸­ã€‚
+       仅需几行代码，即可从 PDF 文件获取干净的 Markdown 文件。默认情况下，图像会嵌入到输出文件中。
       samples:
         - language: "C#"
           color: "blue"
           content: |
             ```csharp {style=abap}   
-            // å¯¼å…¥å‘½åç©ºé—´
+            // 导入命名空间
             using GroupDocs.Markdown;
 
-            // è®¾ç½®è®¸å¯è¯
+            // 设置许可证
             License.Set("GroupDocs.Markdown.lic");
 
-            // å®žä¾‹åŒ–è½¬æ¢å™¨
+            // 实例化转换器
             var converter = new MarkdownConverter("business-plan.pdf");
 
-            // è½¬æ¢å¹¶å°†è¾“å‡ºä¿å­˜åˆ°æ–‡ä»¶
+            // 转换并将输出保存到文件
             converter.Convert("business-plan.md");
             ```
     # code sample loop
-    - title: "å°†å›¾åƒä¿å­˜åˆ°æ–‡ä»¶å¤¹"
+    - title: "将图像保存到文件夹"
       content: |
-       æ­¤ä»£ç ç¤ºä¾‹å±•ç¤ºäº†å¦‚ä½•å°† DOCX æ–‡ä»¶è½¬æ¢ä¸º Markdownï¼Œå¹¶å°†å›¾åƒä¿å­˜åˆ°å•ç‹¬çš„æ–‡ä»¶å¤¹ã€‚
+       此代码示例展示了如何将 DOCX 文件转换为 Markdown，并将图像保存到单独的文件夹。
       samples:
         - language: "C#"
           color: "blue"
           content: |
             ```csharp {style=abap}   
-            // å¯¼å…¥å‘½åç©ºé—´
+            // 导入命名空间
             using GroupDocs.Markdown;
 
-            // è®¾ç½®è®¸å¯è¯
+            // 设置许可证
             License.Set("GroupDocs.Markdown.lic");
 
-            // å®žä¾‹åŒ–è½¬æ¢å™¨
+            // 实例化转换器
             var converter = new MarkdownConverter("annual-report.docx");
 
-            // è®¾ç½®å›¾åƒå¯¼å‡ºç­–ç•¥å’Œè¾“å‡ºæ–‡ä»¶å¤¹
+            // 设置图像导出策略和输出文件夹
             var convertOptions = new DocumentConverterOptions();
             convertOptions.ImageExportStrategy = new ExportImagesToFileSystemStrategy("./images");
 
-            // è½¬æ¢å¹¶å°†è¾“å‡ºä¿å­˜åˆ°æ–‡ä»¶
+            // 转换并将输出保存到文件
             converter.Convert("annual-report.md", convertOptions);
             ```
 
@@ -136,36 +136,36 @@ code_samples:
 
 formats:
   enable: true
-  title:  "æ”¯æŒ 30 å¤šç§æ–‡ä»¶æ ¼å¼"
-  description: "ä»¥ä¸‹æ–‡ä»¶æ ¼å¼æ”¯æŒå¯¼å‡ºä¸º Markdownã€‚"
+  title:  "支持 30 多种文件格式"
+  description: "以下文件格式支持导出为 Markdown。"
   formats_img: "markdown"
 
 ############################# Metrics ############################
 
 metrics:
   enable: true
-  title: "æ·±å…¥çš„æŒ‡æ ‡å’Œç»Ÿè®¡æ´žå¯Ÿ"
-  description: "æ·±å…¥äº†è§£æˆ‘ä»¬å…³é”®æ•°æ®çš„è¯¦ç»†æ‹†è§£ï¼Œæä¾›å¯¹æˆå°±ã€å½±å“å’Œå¢žé•¿çš„å…¨é¢æŒ‡æ ‡å’Œç»Ÿè®¡æ´žå¯Ÿã€‚"
+  title: "深入的指标和统计洞察"
+  description: "深入了解我们关键数据的详细拆解，提供对成就、影响和增长的全面指标和统计洞察。"
 
   items:
     # metrics loop
     - number: "180+"
-      title: "æ”¯æŒçš„æ ¼å¼"
-      content: "å°†åŒ…æ‹¬ PDFã€Wordã€Excel å’Œç”µå­ä¹¦åœ¨å†…çš„æ•°åç§æ–‡æ¡£å’Œæ–‡æœ¬æ ¼å¼è½¬æ¢ä¸º Markdownï¼Œå®žçŽ°ä¸Žç”Ÿæˆå¼ AI ç”Ÿæ€ç³»ç»Ÿçš„æ— ç¼é›†æˆã€‚"
+      title: "支持的格式"
+      content: "将包括 PDF、Word、Excel 和电子书在内的数十种文档和文本格式转换为 Markdown，实现与生成式 AI 生态系统的无缝集成。"
     # metrics loop
     - number: "1.0M"
-      title: "å—åˆ°å¼€å‘è€…ä¿¡èµ–"
-      content: "æˆ‘ä»¬çš„è§£å†³æ–¹æ¡ˆå·²åœ¨å¼€å‘è€…ç¤¾åŒºä¸­èŽ·å¾—å¹¿æ³›ä¿¡ä»»å’Œé‡‡ç”¨ï¼Œä¸ºæ‚¨çš„é¡¹ç›®æä¾›æ— ç¼é›†æˆã€‚"
+      title: "受到开发者信赖"
+      content: "我们的解决方案已在开发者社区中获得广泛信任和采用，为您的项目提供无缝集成。"
 
     # metrics loop
     - number: "15+"
-      title: "äº§å“"
-      content: "æˆ‘ä»¬æä¾›è¶…è¿‡ 15 ç§æ–‡æ¡£å¤„ç† SDKï¼Œä¸ºæ‚¨çš„é›†æˆå¸¦æ¥æµç•…ä½“éªŒã€‚æˆ‘ä»¬è´Ÿè´£å¤„ç†ï¼Œè®©æ‚¨çœå¿ƒã€‚"
+      title: "产品"
+      content: "我们提供超过 15 种文档处理 SDK，为您的集成带来流畅体验。我们负责处理，让您省心。"
     
     # metrics loop
     - number: "100+"
-      title: "æ»¡æ„çš„å®¢æˆ·"
-      content: "ä¸ºå…¨çƒæœ€å…·æ ‡å¿—æ€§çš„å“ç‰Œæä¾›æœåŠ¡ã€‚äº†è§£ä¸ºä½•æ•°ç™¾äººçƒ­çˆ± GroupDocs äº§å“ï¼ç«‹å³åŠ å…¥ï¼"
+      title: "满意的客户"
+      content: "为全球最具标志性的品牌提供服务。了解为何数百人热爱 GroupDocs 产品！立即加入！"
 
 
 ############################# Customers ############################
@@ -173,8 +173,8 @@ metrics:
 
 customers:
   enable: true
-  title: "æˆ‘ä»¬çš„æ»¡æ„å®¢æˆ·"
-  description: "GroupDocs åº“è¢«å…¨çƒçŸ¥åä¸”å“è¶Šçš„å“ç‰Œæ‰€é‡‡ç”¨ã€‚"
+  title: "我们的满意客户"
+  description: "GroupDocs 库被全球知名且卓越的品牌所采用。"
 
   items:
     # customers loop
@@ -212,8 +212,8 @@ customers:
 
 actions:
   enable: true
-  title: "å‡†å¤‡å¥½å¼€å§‹äº†å—ï¼Ÿ"
-  description: "é€‰æ‹©æ‚¨çš„ç›®æ ‡å¹³å°ï¼Œäº†è§£æ›´å¤šäº§å“ä¿¡æ¯ã€‚"
+  title: "准备好开始了吗？"
+  description: "选择您的目标平台，了解更多产品信息。"
 
   items:
     #  loop
@@ -225,79 +225,79 @@ actions:
 
 faq:
   enable: true
-  title: "å¸¸è§é—®é¢˜ä¸Žå…³æ³¨ç‚¹"
-  description: "åœ¨æˆ‘ä»¬çš„ FAQ éƒ¨åˆ†æŸ¥æ‰¾å¸¸è§é—®é¢˜çš„ç­”æ¡ˆï¼Œå¿«é€Ÿè§£å†³æ‚¨çš„ç–‘é—®å’Œå…³æ³¨ç‚¹ã€‚"
+  title: "常见问题与关注点"
+  description: "在我们的 FAQ 部分查找常见问题的答案，快速解决您的疑问和关注点。"
 
   items:
     #  loop
-    - question: "æˆ‘å¯ä»¥åœ¨è´­ä¹°å‰è¯„ä¼° GroupDocs äº§å“å—ï¼Ÿ"
+    - question: "我可以在购买前评估 GroupDocs 产品吗？"
       answer: |
-        æ˜¯çš„ï¼æ‰€æœ‰ GroupDocs äº§å“å‡æä¾›æ— é£Žé™©çš„è¯„ä¼°ç‰ˆã€‚æˆ‘ä»¬å¼ºçƒˆå»ºè®®å¼€å‘è€…åœ¨è´­ä¹°å‰ä¸‹è½½å¹¶è¯•ç”¨æˆ‘ä»¬çš„ APIï¼Œä»¥ç¡®ä¿å®ƒä»¬èƒ½ç™¾åˆ†ç™¾æ»¡è¶³æ‚¨çš„éœ€æ±‚ã€‚
+        是的！所有 GroupDocs 产品均提供无风险的评估版。我们强烈建议开发者在购买前下载并试用我们的 API，以确保它们能百分百满足您的需求。
     #  loop
-    - question: "GroupDocs æ˜¯å¦æä¾›äº§å“æ¼”ç¤ºï¼Ÿ"
+    - question: "GroupDocs 是否提供产品演示？"
       answer: |
-        ä¸ï¼Œæˆ‘ä»¬ä¸“æ³¨äºŽ API å¹¶è‡´åŠ›äºŽæ‰“é€ åŠŸèƒ½æœ€å…¨ã€æœ€ç¨³å®šçš„äº§å“ã€‚æˆ‘ä»¬æä¾›å®Œæ•´åŠŸèƒ½çš„å…è´¹è¯•ç”¨ï¼Œä»¥[ä¸´æ—¶è®¸å¯è¯](https://purchase.groupdocs.com/temporary-license/)çš„å½¢å¼ï¼Œè®©æ‚¨è‡ªè¡Œæµ‹è¯•äº§å“ã€‚
+        不，我们专注于 API 并致力于打造功能最全、最稳定的产品。我们提供完整功能的免费试用，以[临时许可证](https://purchase.groupdocs.com/temporary-license/)的形式，让您自行测试产品。
     #  loop
-    - question: "æˆ‘å¯ä»¥ä»Žå“ªé‡Œä¸‹è½½äº§å“ï¼Ÿ"
+    - question: "我可以从哪里下载产品？"
       answer: |
-        æ‰€æœ‰äº§å“å‡å¯ä»Ž NuGet æˆ– GroupDocs Releases [ç½‘ç«™](https://releases.groupdocs.com)ä¸‹è½½ã€‚    
+        所有产品均可从 NuGet 或 GroupDocs Releases [网站](https://releases.groupdocs.com)下载。    
     #  loop
-    - question: "GroupDocs å¼€å‘è€…è®¸å¯è¯æ˜¯æŒ‰ç”¨æˆ·è®¡è´¹ï¼Œè¿˜æ˜¯æŒ‰æŒ‡å®šç”¨æˆ·è®¡è´¹ï¼Ÿ"
+    - question: "GroupDocs 开发者许可证是按用户计费，还是按指定用户计费？"
       answer: |
-        GroupDocs å¼€å‘è€…è®¸å¯è¯æŒ‰ç”¨æˆ·è®¡è´¹ï¼Œè€Œä¸æ˜¯æŒ‰æŒ‡å®šç”¨æˆ·è®¡è´¹ã€‚æˆ‘ä»¬ç†è§£ç¼–ç¨‹å›¢é˜Ÿæˆå‘˜ä¼šéšæ—¶é—´å˜åŒ–ï¼Œä¸”æ¯æ¬¡æ›´æ¢éƒ½æ›´æ–°è®¸å¯è¯å¹¶ä¸çŽ°å®žã€‚
+        GroupDocs 开发者许可证按用户计费，而不是按指定用户计费。我们理解编程团队成员会随时间变化，且每次更换都更新许可证并不现实。
     #  loop
-    - question: "æ‚¨æä¾›æŠ€æœ¯æ”¯æŒå—ï¼Ÿ"
+    - question: "您提供技术支持吗？"
       answer: |
-        æ˜¯çš„ï¼Œæˆ‘ä»¬é€šè¿‡äº§å“å›¢é˜Ÿåœ¨[å…è´¹æ”¯æŒè®ºå›](https://forum.groupdocs.com/c/markdown)å’Œ[ä»˜è´¹æ”¯æŒæœåŠ¡å°](https://helpdesk.groupdocs.com/)æä¾›å…è´¹æŠ€æœ¯æ”¯æŒï¼Œä»¥ç¡®ä¿æ‚¨çš„ä½¿ç”¨ä½“éªŒé¡ºç•…ã€‚
+        是的，我们通过产品团队在[免费支持论坛](https://forum.groupdocs.com/c/markdown)和[付费支持服务台](https://helpdesk.groupdocs.com/)提供免费技术支持，以确保您的使用体验顺畅。
 
 ############################# Cloud ############################
 
 cloud_links:
   enable: false
-  title: "GroupDocs äº‘ API"
-  description: "é€šè¿‡æˆ‘ä»¬çš„åŸºäºŽäº‘çš„ REST APIï¼ŒåŠ é€Ÿä»»æ„åº”ç”¨ä¸­çš„æ–‡æ¡£åˆ° Markdown çš„è½¬æ¢ã€‚"
+  title: "GroupDocs 云 API"
+  description: "通过我们的基于云的 REST API，加速任意应用中的文档到 Markdown 的转换。"
 
   items:
     #  loop
     - icon: "groupdocs_markdown-for-curl"
       title: "GroupDocs.Markdown Cloud for cURL"
       link: "https://products.groupdocs.cloud/markdown/curl"
-      content: "åœ¨æ‚¨çš„åº”ç”¨ä¸­ä½¿ç”¨ cURL RESTful API å°† Microsoft Officeã€PDF ç­‰æ ¼å¼è½¬æ¢ä¸º Markdownã€‚"
+      content: "在您的应用中使用 cURL RESTful API 将 Microsoft Office、PDF 等格式转换为 Markdown。"
 
     #  loop
     - icon: "groupdocs_markdown-for-net"
       title: "GroupDocs.Markdown Cloud for .NET"
       link: "https://products.groupdocs.cloud/markdown/net"
-      content: ".NET äº‘ SDKï¼Œç”¨äºŽé€šè¿‡å¯é…ç½®é€‰é¡¹ä»¥ç¼–ç¨‹æ–¹å¼å°†æ–‡æ¡£è½¬æ¢ä¸º Markdownã€‚"
+      content: ".NET 云 SDK，用于通过可配置选项以编程方式将文档转换为 Markdown。"
     #  loop
     - icon: "groupdocs_markdown-for-java"
       title: "GroupDocs.Markdown Cloud for Java"
       link: "https://products.groupdocs.cloud/markdown/java"
-      content: "Java äº‘ SDKï¼Œå°†æ–‡æ¡£è½¬æ¢ä¸º Markdown é›†æˆåˆ° Java åº”ç”¨ä¸­ã€‚"
+      content: "Java 云 SDK，将文档转换为 Markdown 集成到 Java 应用中。"
 
 ############################# Apps ############################
 
 app_links:
   enable: true
-  title: "GroupDocs åœ¨çº¿åº”ç”¨"
-  description: "åœ¨çº¿åº”ç”¨ï¼Œå…è®¸æ‚¨åœ¨æµè§ˆå™¨ä¸­å°†å¸¸ç”¨æ–‡ä»¶æ ¼å¼è½¬æ¢ä¸º Markdownã€‚"
+  title: "GroupDocs 在线应用"
+  description: "在线应用，允许您在浏览器中将常用文件格式转换为 Markdown。"
 
   items:
     #  loop
     - icon: "groupdocs_conversion-app"
       title: "GroupDocs.Conversion Total"
       link: "https://products.groupdocs.app/conversion/total"
-      content: "æŽ¢ç´¢å…è´¹åœ¨çº¿åº”ç”¨ï¼Œç›´æŽ¥å°†å„ç§æ–‡ä»¶æ ¼å¼è½¬æ¢ä¸º Markdownï¼ˆ.mdï¼‰ã€‚"
+      content: "探索免费在线应用，直接将各种文件格式转换为 Markdown（.md）。"
 
     #  loop
     - icon: "groupdocs_conversion-app"
       title:  "GroupDocs.Conversion DOCX"
       link: "https://products.groupdocs.app/conversion/docx"
-      content: "åŸºäºŽç½‘é¡µçš„å·¥å…·ï¼Œå¯åœ¨å¤šè®¾å¤‡ä¸Šå°† Microsoft Word æ–‡ä»¶è½¬æ¢ä¸º Markdownã€‚"
+      content: "基于网页的工具，可在多设备上将 Microsoft Word 文件转换为 Markdown。"
 
     #  loop
     - icon: "groupdocs_conversion-app"
       title:  "GroupDocs.Conversion PDF"
       link: "https://products.groupdocs.app/markdown/pdf"
-      content: "ä½¿ç”¨å…è´¹ PDF è½¬ Markdown åº”ç”¨åœ¨çº¿å°† PDF æ–‡ä»¶è½¬æ¢ä¸º Markdownã€‚"
+      content: "使用免费 PDF 转 Markdown 应用在线将 PDF 文件转换为 Markdown。"
 ---

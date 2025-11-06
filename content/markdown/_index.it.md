@@ -11,7 +11,7 @@ product_tag: "markdown"
 ############################# Head ############################
 
 head_title: "Esporta Documenti in Markdown | GroupDocs"
-head_description: "GroupDocs.Markdown Ã¨ un SDK di elaborazione documenti che esporta PDF, Word, Excel e altri formati in Markdown per un'integrazione senza soluzione di continuitÃ  con l'ecosistema di IA generativa."
+head_description: "GroupDocs.Markdown è un SDK di elaborazione documenti che esporta PDF, Word, Excel e altri formati in Markdown per un'integrazione senza soluzione di continuità con l'ecosistema di IA generativa."
 
 ############################# Header ##########################
 
@@ -30,7 +30,7 @@ supported_platforms:
   head_title: "Scegli la tua piattaforma"
   title: "Piattaforme supportate"
   description: "GroupDocs.Markdown supporta i seguenti sistemi operativi e framework."
-  details_link_title: "Scopri di piÃ¹"
+  details_link_title: "Scopri di più"
   items:
     # supported_platforms loop
     - title: ".NET"
@@ -54,8 +54,8 @@ supported_platforms:
 
 features:
   enable: true
-  title: "FunzionalitÃ  di GroupDocs.Markdown"
-  description: "Queste sono le funzionalitÃ  che rendono la nostra soluzione distintiva."
+  title: "Funzionalità di GroupDocs.Markdown"
+  description: "Queste sono le funzionalità che rendono la nostra soluzione distintiva."
 
   items:
     # feature loop
@@ -76,14 +76,14 @@ features:
     # feature loop
     - icon: "settings"
       title: "Converti interi documenti o pagine specifiche"
-      content: "Converti interi documenti o limita la conversione a pagine o fogli di lavoro specifici, secondo necessitÃ ."
+      content: "Converti interi documenti o limita la conversione a pagine o fogli di lavoro specifici, secondo necessità."
 
 
 ############################# Code samples ############################
 code_samples:
   enable: true
   title: "Esempi di codice GroupDocs.Markdown"
-  description: "Gli scenari d'uso piÃ¹ comuni per l'esportazione di documenti in Markdown. Ãˆ possibile richiedere una [licenza temporanea gratuita](https://purchase.groupdocs.com/temporary-license) per testare il prodotto nel proprio ambiente."
+  description: "Gli scenari d'uso più comuni per l'esportazione di documenti in Markdown. È possibile richiedere una [licenza temporanea gratuita](https://purchase.groupdocs.com/temporary-license) per testare il prodotto nel proprio ambiente."
   items:
     # code sample loop
     - title: "Esporta PDF in Markdown"
@@ -151,7 +151,7 @@ metrics:
     # metrics loop
     - number: "180+"
       title: "Formati supportati"
-      content: "Converti da decine di formati di documenti e testi, inclusi PDF, Word, Excel e eBook, in Markdown, fornendo integrazioni senza soluzione di continuitÃ  con l'ecosistema gen AI."
+      content: "Converti da decine di formati di documenti e testi, inclusi PDF, Word, Excel e eBook, in Markdown, fornendo integrazioni senza soluzione di continuità con l'ecosistema gen AI."
     # metrics loop
     - number: "1.0M"
       title: "Approvato dagli sviluppatori"
@@ -160,12 +160,12 @@ metrics:
     # metrics loop
     - number: "15+"
       title: "Prodotti"
-      content: "Offriamo piÃ¹ di 15 SDK per l'elaborazione di documenti, garantendo un'esperienza fluida per le tue integrazioni. Noi processiamo, cosÃ¬ tu puoi rilassarti."
+      content: "Offriamo più di 15 SDK per l'elaborazione di documenti, garantendo un'esperienza fluida per le tue integrazioni. Noi processiamo, così tu puoi rilassarti."
     
     # metrics loop
     - number: "100+"
       title: "Clienti soddisfatti"
-      content: "Serviamo i brand piÃ¹ iconici del mondo. Scopri perchÃ© centinaia amano i prodotti GroupDocs! Iscriviti ora!"
+      content: "Serviamo i brand più iconici del mondo. Scopri perché centinaia amano i prodotti GroupDocs! Iscriviti ora!"
 
 
 ############################# Customers ############################
@@ -213,7 +213,7 @@ customers:
 actions:
   enable: true
   title: "Pronto per iniziare?"
-  description: "Scegli la piattaforma di destinazione per saperne di piÃ¹ sul prodotto."
+  description: "Scegli la piattaforma di destinazione per saperne di più sul prodotto."
 
   items:
     #  loop
@@ -226,17 +226,17 @@ actions:
 faq:
   enable: true
   title: "Domande comuni e preoccupazioni"
-  description: "Trova risposte alle domande piÃ¹ frequenti nella nostra sezione FAQ per rispondere rapidamente a quesiti e dubbi."
+  description: "Trova risposte alle domande più frequenti nella nostra sezione FAQ per rispondere rapidamente a quesiti e dubbi."
 
   items:
     #  loop
     - question: "Posso valutare i prodotti GroupDocs prima dell'acquisto?"
       answer: |
-        SÃ¬! Tutti i prodotti GroupDocs dispongono di una versione di valutazione senza rischi. Incoraggiamo vivamente gli sviluppatori a scaricare e provare le nostre API prima dell'acquisto per assicurarsi che soddisfino al 100% le proprie esigenze.
+        Sì! Tutti i prodotti GroupDocs dispongono di una versione di valutazione senza rischi. Incoraggiamo vivamente gli sviluppatori a scaricare e provare le nostre API prima dell'acquisto per assicurarsi che soddisfino al 100% le proprie esigenze.
     #  loop
     - question: "GroupDocs organizza dimostrazioni dei prodotti?"
       answer: |
-        No, il nostro focus Ã¨ sulle nostre API e sul creare prodotti il piÃ¹ funzionali e stabili possibile. Offriamo versioni di prova completamente funzionali e gratuite sotto forma di [licenza temporanea](https://purchase.groupdocs.com/temporary-license/) in modo da poter testare il prodotto autonomamente.
+        No, il nostro focus è sulle nostre API e sul creare prodotti il più funzionali e stabili possibile. Offriamo versioni di prova completamente funzionali e gratuite sotto forma di [licenza temporanea](https://purchase.groupdocs.com/temporary-license/) in modo da poter testare il prodotto autonomamente.
     #  loop
     - question: "Dove posso scaricare il prodotto?"
       answer: |
@@ -244,11 +244,11 @@ faq:
     #  loop
     - question: "Le licenze per sviluppatori GroupDocs sono per utente o per utente nominato?"
       answer: |
-        Le licenze per sviluppatori GroupDocs sono per utente, non per utente nominato. Comprendiamo che i membri di un team di sviluppo possono cambiare nel tempo e che non Ã¨ pratico dover aggiornare la licenza ogni volta che ciÃ² accade.
+        Le licenze per sviluppatori GroupDocs sono per utente, non per utente nominato. Comprendiamo che i membri di un team di sviluppo possono cambiare nel tempo e che non è pratico dover aggiornare la licenza ogni volta che ciò accade.
     #  loop
     - question: "Fornite supporto tecnico?"
       answer: |
-        SÃ¬, forniamo supporto tecnico gratuito dai team di prodotto su [Forum di supporto gratuito](https://forum.groupdocs.com/c/markdown) e [Helpdesk di supporto a pagamento](https://helpdesk.groupdocs.com/) per garantire un'esperienza fluida.
+        Sì, forniamo supporto tecnico gratuito dai team di prodotto su [Forum di supporto gratuito](https://forum.groupdocs.com/c/markdown) e [Helpdesk di supporto a pagamento](https://helpdesk.groupdocs.com/) per garantire un'esperienza fluida.
 
 ############################# Cloud ############################
 
@@ -280,7 +280,7 @@ cloud_links:
 app_links:
   enable: true
   title: "App online di GroupDocs"
-  description: "Applicazione online che consente di convertire i formati di file piÃ¹ popolari in Markdown nel browser."
+  description: "Applicazione online che consente di convertire i formati di file più popolari in Markdown nel browser."
 
   items:
     #  loop
@@ -293,7 +293,7 @@ app_links:
     - icon: "groupdocs_conversion-app"
       title:  "GroupDocs.Conversion DOCX"
       link: "https://products.groupdocs.app/conversion/docx"
-      content: "Strumento basato su web per convertire file Microsoft Word in Markdown su piÃ¹ dispositivi."
+      content: "Strumento basato su web per convertire file Microsoft Word in Markdown su più dispositivi."
 
     #  loop
     - icon: "groupdocs_conversion-app"

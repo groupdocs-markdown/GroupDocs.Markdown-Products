@@ -23,12 +23,12 @@ supported_platforms:
 ############################# Head ############################
 
 head_title: "Exportar documentos a Markdown en .NET | GroupDocs"
-head_description: "GroupDocs.Markdown for .NET es una API de procesamiento de documentos que exporta PDF, Word, Excel y otros formatos a Markdown para una integraciÃ³n perfecta con el ecosistema de IA generativa."
+head_description: "GroupDocs.Markdown for .NET es una API de procesamiento de documentos que exporta PDF, Word, Excel y otros formatos a Markdown para una integración perfecta con el ecosistema de IA generativa."
 
 ############################# Header ##########################
 
 title: "Exportar documentos a Markdown<br>usando la API .NET"
-description: "API de conversiÃ³n Markdown para exportar formatos de documentos populares a Markdown limpio con control total."
+description: "API de conversión Markdown para exportar formatos de documentos populares a Markdown limpio con control total."
 words:
   for: "for"
 
@@ -37,19 +37,19 @@ actions:
   main_link: "https://www.nuget.org/packages/GroupDocs.Markdown"
   alt: "Licencias"
   alt_link: "https://purchase.groupdocs.com/pricing/markdown/net"
-  title: "Â¿Listo para comenzar?"
+  title: "¿Listo para comenzar?"
   description: "Pruebe las funciones de GroupDocs.Markdown de forma gratuita o solicite una licencia"
 
 release:
   hidden: false
-  title: "VersiÃ³n {0}&nbsp;publicada"
+  title: "Versión {0}&nbsp;publicada"
   notes: "Ver lo nuevo"
   downloads: "Descargas"
   link: "https://releases.groupdocs.com/markdown/net/release-notes/latest/"
 
 code:
   title: "Exportar PDF a Markdown en C#"
-  more: "MÃ¡s ejemplos"
+  more: "Más ejemplos"
   more_link: "https://github.com/groupdocs-markdown/GroupDocs.Markdown-for-.NET"
   install: "dotnet add package GroupDocs.Markdown"
   content: |
@@ -74,16 +74,16 @@ overview:
   description: "API para analizar y exportar documentos a Markdown en aplicaciones .NET."
   features:
     # feature loop
-    - title: "ConversiÃ³n precisa y fiable"
+    - title: "Conversión precisa y fiable"
       content: "Convierte de manera eficiente los formatos compatibles a Markdown manteniendo la integridad de la estructura. Compatible con .NET Framework 4.6.2+ y .NET 6.0 en Windows y Linux."
 
     # feature loop
     - title: "Formatos populares soportados"
-      content: "Exporta archivos PDF, Word, Excel, libros electrÃ³nicos, web y texto plano a Markdown, incluidos documentos protegidos con contraseÃ±a."
+      content: "Exporta archivos PDF, Word, Excel, libros electrónicos, web y texto plano a Markdown, incluidos documentos protegidos con contraseña."
 
     # feature loop
-    - title: "Se ejecuta en tu mÃ¡quina local"
-      content: "Usted controla sus datos: le ofrecemos una API onâ€‘premise que no requiere ninguna nube ni conexiÃ³n a Internet."
+    - title: "Se ejecuta en tu máquina local"
+      content: "Usted controla sus datos: le ofrecemos una API on‑premise que no requiere ninguna nube ni conexión a Internet."
 
 ############################# Platforms ############################
 platforms:
@@ -121,7 +121,7 @@ formats:
   enable: true
   title: "Formatos de archivo compatibles"
   description: |
-    Los siguientes formatos de archivo son compatibles para la exportaciÃ³n a Markdown.
+    Los siguientes formatos de archivo son compatibles para la exportación a Markdown.
   groups:
     # group loop
     - color: "red"
@@ -154,27 +154,27 @@ features:
     # feature loop
     - icon: "multi_doc"
       title: "Exportar varios formatos de documento"
-      content: "Convertir los formatos de documento mÃ¡s populares a Markdown (PDF, DOCX, XLSX, EPUB y mÃ¡s)."
+      content: "Convertir los formatos de documento más populares a Markdown (PDF, DOCX, XLSX, EPUB y más)."
 
     # feature loop
     - icon: "advanced_formatting"
       title: "Formato avanzado de Markdown"
-      content: "Los encabezados, pÃ¡rrafos, listas, tablas, enlaces, imÃ¡genes, citas en bloque y bloques de cÃ³digo se exportan a la sintaxis Markdown adecuada."
+      content: "Los encabezados, párrafos, listas, tablas, enlaces, imágenes, citas en bloque y bloques de código se exportan a la sintaxis Markdown adecuada."
 
     # feature loop
     - icon: "control_over_images"
-      title: "Control total sobre imÃ¡genes"
-      content: "Toma el control de las imÃ¡genes exportÃ¡ndolas o incrustÃ¡ndolas en el archivo Markdown de salida."
+      title: "Control total sobre imágenes"
+      content: "Toma el control de las imágenes exportándolas o incrustándolas en el archivo Markdown de salida."
 
     # feature loop
     - icon: "secure"
-      title: "Se ejecuta en tu mÃ¡quina local"
-      content: "No se requiere nube ni conexiÃ³n a Internet. Todo el procesamiento se realiza en tu mÃ¡quina local."
+      title: "Se ejecuta en tu máquina local"
+      content: "No se requiere nube ni conexión a Internet. Todo el procesamiento se realiza en tu máquina local."
 
     # feature loop
     - icon: "intuitive"
-      title: "API pÃºblica intuitiva"
-      content: "API pÃºblica simple e intuitiva diseÃ±ada por desarrolladores para desarrolladores con pasiÃ³n."
+      title: "API pública intuitiva"
+      content: "API pública simple e intuitiva diseñada por desarrolladores para desarrolladores con pasión."
 
     # feature loop
     - icon: "cross_platform"
@@ -185,12 +185,12 @@ features:
 ############################# Code samples ############################
 code_samples_tabs:
   enable: true
-  title: "Ejemplos de cÃ³digo"
-  description: "Los escenarios de uso mÃ¡s comunes para exportar documentos a Markdown en aplicaciones .NET."
+  title: "Ejemplos de código"
+  description: "Los escenarios de uso más comunes para exportar documentos a Markdown en aplicaciones .NET."
   items:
     # code sample loop
     - title: "Exportar DOCX a Markdown"
-      content: "Este ejemplo de cÃ³digo muestra cÃ³mo convertir un archivo DOCX a Markdown y guardar la salida en un archivo. Las imÃ¡genes estÃ¡n incrustadas en el archivo de salida."
+      content: "Este ejemplo de código muestra cómo convertir un archivo DOCX a Markdown y guardar la salida en un archivo. Las imágenes están incrustadas en el archivo de salida."
       samples:
         - language: "C#"
           color: "blue"
@@ -245,8 +245,8 @@ code_samples_tabs:
             End Module
             ```
     # code sample loop
-    - title: "Guardar imÃ¡genes en una carpeta"
-      content: "Este ejemplo de cÃ³digo muestra cÃ³mo convertir un archivo DOCX a Markdown y guardar las imÃ¡genes en una carpeta separada."
+    - title: "Guardar imágenes en una carpeta"
+      content: "Este ejemplo de código muestra cómo convertir un archivo DOCX a Markdown y guardar las imágenes en una carpeta separada."
       samples:
         - language: "C#"
           color: "blue"
@@ -261,7 +261,7 @@ code_samples_tabs:
             // Instanciar el conversor
             var converter = new MarkdownConverter("annual-report.docx");
 
-            // Establecer la estrategia de exportaciÃ³n de imÃ¡genes y la carpeta de salida
+            // Establecer la estrategia de exportación de imágenes y la carpeta de salida
             var convertOptions = new DocumentConverterOptions();
             convertOptions.ImageExportStrategy = new ExportImagesToFileSystemStrategy("./images");
 
@@ -281,7 +281,7 @@ code_samples_tabs:
             // Instanciar el conversor
             let converter = new MarkdownConverter("annual-report.docx")
 
-            // Establecer la estrategia de exportaciÃ³n de imÃ¡genes y la carpeta de salida
+            // Establecer la estrategia de exportación de imágenes y la carpeta de salida
             let convertOptions = new DocumentConverterOptions()
             convertOptions.ImageExportStrategy <- new ExportImagesToFileSystemStrategy("./images")
 
@@ -303,7 +303,7 @@ code_samples_tabs:
                     ' Instanciar el conversor
                     Dim converter As New MarkdownConverter("annual-report.docx")
 
-                    ' Establecer la estrategia de exportaciÃ³n de imÃ¡genes y la carpeta de salida
+                    ' Establecer la estrategia de exportación de imágenes y la carpeta de salida
                     Dim convertOptions As New DocumentConverterOptions()
                     convertOptions.ImageExportStrategy = New ExportImagesToFileSystemStrategy("./images")
 
@@ -317,19 +317,19 @@ code_samples_tabs:
 ############################# Reviews ############################
 # reviews:
 # enable: true
-# title: "ReseÃ±as de productos de GroupDocs"
+# title: "Reseñas de productos de GroupDocs"
 # description: "No te quedes solo con nuestra palabra. Mira lo que otros desarrolladores dicen sobre nuestras API"
 
 # items:
 #   # review loop
 #   - title: "GroupDocs.Markdown"
-#     content: "Servicio excelente y productos excelentes. Fueron extremadamente serviciales y receptivos durante el proceso de implementaciÃ³n de GroupDocs.Markdown for .NET, no podrÃ­amos recomendarlos lo suficiente."
+#     content: "Servicio excelente y productos excelentes. Fueron extremadamente serviciales y receptivos durante el proceso de implementación de GroupDocs.Markdown for .NET, no podríamos recomendarlos lo suficiente."
 #     author: "Martin Lasarga"
 #     company: "Product Manager at Axentria ECM by G.S.I."
 
 #   # review loop
 #   - title: "GroupDocs.Markdown"
-#     content: "DespuÃ©s de implementar y usar GroupDocs.Markdown for .NET en el proyecto, parece funcionar muy bien. He probado con muchos documentos y hasta ahora todo bien. La salida Markdown es limpia y coherente en todas las fuentes."
+#     content: "Después de implementar y usar GroupDocs.Markdown for .NET en el proyecto, parece funcionar muy bien. He probado con muchos documentos y hasta ahora todo bien. La salida Markdown es limpia y coherente en todas las fuentes."
 #     author: "Mats Oustad"
 #     company: "Senior Consultant/Partner at Novanet AS"
 ---

@@ -10,27 +10,27 @@ product_tag: "markdown"
 
 ############################# Head ############################
 
-head_title: "Xuáº¥t tÃ i liá»‡u sang Markdown | GroupDocs"
-head_description: "GroupDocs.Markdown lÃ  SDK xá»­ lÃ½ tÃ i liá»‡u cho phÃ©p xuáº¥t PDF, Word, Excel vÃ  cÃ¡c Ä‘á»‹nh dáº¡ng khÃ¡c sang Markdown Ä‘á»ƒ tÃ­ch há»£p liá»n máº¡ch vá»›i há»‡ sinh thÃ¡i AI sinh táº¡o."
+head_title: "Xuất tài liệu sang Markdown | GroupDocs"
+head_description: "GroupDocs.Markdown là SDK xử lý tài liệu cho phép xuất PDF, Word, Excel và các định dạng khác sang Markdown để tích hợp liền mạch với hệ sinh thái AI sinh tạo."
 
 ############################# Header ##########################
 
-title: "Chuáº©n bá»‹ tÃ i liá»‡u cá»§a báº¡n cho AI"
+title: "Chuẩn bị tài liệu của bạn cho AI"
 description: |
-  SDK Markdown Ä‘á»ƒ xuáº¥t cÃ¡c loáº¡i tÃ i liá»‡u khÃ¡c nhau thÃ nh Markdown sáº¡ch, cÃ³ ngá»¯ nghÄ©a.
+  SDK Markdown để xuất các loại tài liệu khác nhau thành Markdown sạch, có ngữ nghĩa.
 
-  Báº£o tá»“n cáº¥u trÃºc tÃ i liá»‡u, tiÃªu Ä‘á», danh sÃ¡ch, báº£ng, liÃªn káº¿t vÃ  hÃ¬nh áº£nh
+  Bảo tồn cấu trúc tài liệu, tiêu đề, danh sách, bảng, liên kết và hình ảnh
 
-  Kiá»ƒm soÃ¡t hÃ¬nh áº£nh báº±ng cÃ¡ch nhÃºng chÃºng hoáº·c lÆ°u dÆ°á»›i dáº¡ng tÃ i nguyÃªn bÃªn ngoÃ i.
+  Kiểm soát hình ảnh bằng cách nhúng chúng hoặc lưu dưới dạng tài nguyên bên ngoài.
 
 ############################# Platforms ############################
 
 supported_platforms:
   enable: true  
-  head_title: "Chá»n ná»n táº£ng cá»§a báº¡n"
-  title: "CÃ¡c ná»n táº£ng Ä‘Æ°á»£c há»— trá»£"
-  description: "GroupDocs.Markdown há»— trá»£ cÃ¡c há»‡ Ä‘iá»u hÃ nh vÃ  framework sau."
-  details_link_title: "TÃ¬m hiá»ƒu thÃªm"
+  head_title: "Chọn nền tảng của bạn"
+  title: "Các nền tảng được hỗ trợ"
+  description: "GroupDocs.Markdown hỗ trợ các hệ điều hành và framework sau."
+  details_link_title: "Tìm hiểu thêm"
   items:
     # supported_platforms loop
     - title: ".NET"
@@ -47,88 +47,88 @@ supported_platforms:
         - content: "Windows, Linux"
           rows: "1"
         # features loop
-        - content: "HÆ¡n 30 Ä‘á»‹nh dáº¡ng tá»‡p"
+        - content: "Hơn 30 định dạng tệp"
           rows: "1"
 
 ############################# Features ############################
 
 features:
   enable: true
-  title: "Bá»™ tÃ­nh nÄƒng cá»§a GroupDocs.Markdown"
-  description: "ÄÃ¢y lÃ  nhá»¯ng tÃ­nh nÄƒng khiáº¿n giáº£i phÃ¡p cá»§a chÃºng tÃ´i ná»•i báº­t."
+  title: "Bộ tính năng của GroupDocs.Markdown"
+  description: "Đây là những tính năng khiến giải pháp của chúng tôi nổi bật."
 
   items:
     # feature loop
     - icon: "convert"
-      title: "Xuáº¥t tÃ i liá»‡u sang Markdown"
-      content: "Chuáº©n bá»‹ PDF, Word, Excel, eBook vÃ  vÄƒn báº£n cá»§a báº¡n cho LLM báº±ng cÃ¡ch xuáº¥t chÃºng sang Markdown."
+      title: "Xuất tài liệu sang Markdown"
+      content: "Chuẩn bị PDF, Word, Excel, eBook và văn bản của bạn cho LLM bằng cách xuất chúng sang Markdown."
 
     # feature loop
     - icon: "structure"
-      title: "Giá»¯ cáº¥u trÃºc tÃ i liá»‡u"
-      content: "Báº£o tá»“n cáº¥u trÃºc tÃ i liá»‡u, tiÃªu Ä‘á», danh sÃ¡ch, báº£ng, liÃªn káº¿t vÃ  hÃ¬nh áº£nh."
+      title: "Giữ cấu trúc tài liệu"
+      content: "Bảo tồn cấu trúc tài liệu, tiêu đề, danh sách, bảng, liên kết và hình ảnh."
 
     # feature loop
     - icon: "image"
-      title: "Kiá»ƒm soÃ¡t hÃ¬nh áº£nh"
-      content: "NhÃºng hÃ¬nh áº£nh hoáº·c lÆ°u chÃºng dÆ°á»›i dáº¡ng tÃ i nguyÃªn bÃªn ngoÃ i. Thay tháº¿ hÃ¬nh áº£nh trong quÃ¡ trÃ¬nh chuyá»ƒn Ä‘á»•i."
+      title: "Kiểm soát hình ảnh"
+      content: "Nhúng hình ảnh hoặc lưu chúng dưới dạng tài nguyên bên ngoài. Thay thế hình ảnh trong quá trình chuyển đổi."
     
     # feature loop
     - icon: "settings"
-      title: "Chuyá»ƒn Ä‘á»•i toÃ n bá»™ tÃ i liá»‡u hoáº·c cÃ¡c trang cá»¥ thá»ƒ"
-      content: "Chuyá»ƒn Ä‘á»•i toÃ n bá»™ tÃ i liá»‡u hoáº·c giá»›i háº¡n chuyá»ƒn Ä‘á»•i chá»‰ cÃ¡c trang hoáº·c báº£ng tÃ­nh cá»¥ thá»ƒ theo nhu cáº§u."
+      title: "Chuyển đổi toàn bộ tài liệu hoặc các trang cụ thể"
+      content: "Chuyển đổi toàn bộ tài liệu hoặc giới hạn chuyển đổi chỉ các trang hoặc bảng tính cụ thể theo nhu cầu."
 
 
 ############################# Code samples ############################
 code_samples:
   enable: true
-  title: "Máº«u mÃ£ GroupDocs.Markdown"
-  description: "CÃ¡c ká»‹ch báº£n sá»­ dá»¥ng phá»• biáº¿n nháº¥t Ä‘á»ƒ xuáº¥t tÃ i liá»‡u sang Markdown. Báº¡n cÃ³ thá»ƒ yÃªu cáº§u má»™t [giáº¥y phÃ©p táº¡m thá»i miá»…n phÃ­](https://purchase.groupdocs.com/temporary-license) Ä‘á»ƒ thá»­ sáº£n pháº©m trong mÃ´i trÆ°á»ng cá»§a mÃ¬nh."
+  title: "Mẫu mã GroupDocs.Markdown"
+  description: "Các kịch bản sử dụng phổ biến nhất để xuất tài liệu sang Markdown. Bạn có thể yêu cầu một [giấy phép tạm thời miễn phí](https://purchase.groupdocs.com/temporary-license) để thử sản phẩm trong môi trường của mình."
   items:
     # code sample loop
-    - title: "Xuáº¥t PDF sang Markdown"
+    - title: "Xuất PDF sang Markdown"
       content: |
-       Táº¡o tá»‡p Markdown sáº¡ch tá»« tá»‡p PDF chá»‰ trong vÃ i dÃ²ng mÃ£. Theo máº·c Ä‘á»‹nh, hÃ¬nh áº£nh Ä‘Æ°á»£c nhÃºng trong tá»‡p Ä‘áº§u ra.
+       Tạo tệp Markdown sạch từ tệp PDF chỉ trong vài dòng mã. Theo mặc định, hình ảnh được nhúng trong tệp đầu ra.
       samples:
         - language: "C#"
           color: "blue"
           content: |
             ```csharp {style=abap}   
-            // Nháº­p namespace
+            // Nhập namespace
             using GroupDocs.Markdown;
 
-            // Äáº·t giáº¥y phÃ©p
+            // Đặt giấy phép
             License.Set("GroupDocs.Markdown.lic");
 
-            // Khá»Ÿi táº¡o bá»™ chuyá»ƒn Ä‘á»•i
+            // Khởi tạo bộ chuyển đổi
             var converter = new MarkdownConverter("business-plan.pdf");
 
-            // Chuyá»ƒn Ä‘á»•i vÃ  lÆ°u Ä‘áº§u ra vÃ o tá»‡p
+            // Chuyển đổi và lưu đầu ra vào tệp
             converter.Convert("business-plan.md");
             ```
     # code sample loop
-    - title: "LÆ°u hÃ¬nh áº£nh vÃ o thÆ° má»¥c"
+    - title: "Lưu hình ảnh vào thư mục"
       content: |
-       Máº«u mÃ£ nÃ y cho tháº¥y cÃ¡ch chuyá»ƒn Ä‘á»•i tá»‡p DOCX sang Markdown vÃ  lÆ°u hÃ¬nh áº£nh vÃ o má»™t thÆ° má»¥c riÃªng.
+       Mẫu mã này cho thấy cách chuyển đổi tệp DOCX sang Markdown và lưu hình ảnh vào một thư mục riêng.
       samples:
         - language: "C#"
           color: "blue"
           content: |
             ```csharp {style=abap}   
-            // Nháº­p khÃ´ng gian tÃªn
+            // Nhập không gian tên
             using GroupDocs.Markdown;
 
-            // Thiáº¿t láº­p giáº¥y phÃ©p
+            // Thiết lập giấy phép
             License.Set("GroupDocs.Markdown.lic");
 
-            // Khá»Ÿi táº¡o bá»™ chuyá»ƒn Ä‘á»•i
+            // Khởi tạo bộ chuyển đổi
             var converter = new MarkdownConverter("annual-report.docx");
 
-            // Thiáº¿t láº­p chiáº¿n lÆ°á»£c xuáº¥t hÃ¬nh áº£nh vÃ  thÆ° má»¥c Ä‘áº§u ra
+            // Thiết lập chiến lược xuất hình ảnh và thư mục đầu ra
             var convertOptions = new DocumentConverterOptions();
             convertOptions.ImageExportStrategy = new ExportImagesToFileSystemStrategy("./images");
 
-            // Chuyá»ƒn Ä‘á»•i vÃ  lÆ°u káº¿t quáº£ vÃ o tá»‡p
+            // Chuyển đổi và lưu kết quả vào tệp
             converter.Convert("annual-report.md", convertOptions);
             ```
 
@@ -136,36 +136,36 @@ code_samples:
 
 formats:
   enable: true
-  title:  "HÆ¡n 30 Ä‘á»‹nh dáº¡ng tá»‡p Ä‘Æ°á»£c há»— trá»£"
-  description: "CÃ¡c Ä‘á»‹nh dáº¡ng tá»‡p sau Ä‘Æ°á»£c há»— trá»£ Ä‘á»ƒ xuáº¥t sang Markdown."
+  title:  "Hơn 30 định dạng tệp được hỗ trợ"
+  description: "Các định dạng tệp sau được hỗ trợ để xuất sang Markdown."
   formats_img: "markdown"
 
 ############################# Metrics ############################
 
 metrics:
   enable: true
-  title: "Sá»‘ liá»‡u chi tiáº¿t vÃ  nhá»¯ng hiá»ƒu biáº¿t thá»‘ng kÃª"
-  description: "KhÃ¡m phÃ¡ phÃ¢n tÃ­ch chi tiáº¿t cÃ¡c chá»‰ sá»‘ chÃ­nh cá»§a chÃºng tÃ´i, cung cáº¥p sá»‘ liá»‡u toÃ n diá»‡n vÃ  nhá»¯ng hiá»ƒu biáº¿t thá»‘ng kÃª vá» thÃ nh tá»±u, tÃ¡c Ä‘á»™ng vÃ  sá»± tÄƒng trÆ°á»Ÿng."
+  title: "Số liệu chi tiết và những hiểu biết thống kê"
+  description: "Khám phá phân tích chi tiết các chỉ số chính của chúng tôi, cung cấp số liệu toàn diện và những hiểu biết thống kê về thành tựu, tác động và sự tăng trưởng."
 
   items:
     # metrics loop
     - number: "180+"
-      title: "Äá»‹nh dáº¡ng Ä‘Æ°á»£c há»— trá»£"
-      content: "Chuyá»ƒn Ä‘á»•i tá»« hÃ ng chá»¥c Ä‘á»‹nh dáº¡ng tÃ i liá»‡u vÃ  vÄƒn báº£n, bao gá»“m PDF, Word, Excel vÃ  eBook, sang Markdown, cung cáº¥p tÃ­ch há»£p liá»n máº¡ch vá»›i há»‡ sinh thÃ¡i gen AI."
+      title: "Định dạng được hỗ trợ"
+      content: "Chuyển đổi từ hàng chục định dạng tài liệu và văn bản, bao gồm PDF, Word, Excel và eBook, sang Markdown, cung cấp tích hợp liền mạch với hệ sinh thái gen AI."
     # metrics loop
     - number: "1.0M"
-      title: "ÄÆ°á»£c cÃ¡c nhÃ  phÃ¡t triá»ƒn tin tÆ°á»Ÿng"
-      content: "CÃ¡c giáº£i phÃ¡p cá»§a chÃºng tÃ´i Ä‘Ã£ trá»Ÿ nÃªn Ä‘Ã¡ng tin cáº­y vÃ  Ä‘Æ°á»£c cá»™ng Ä‘á»“ng nhÃ  phÃ¡t triá»ƒn Ã¡p dá»¥ng rá»™ng rÃ£i, mang láº¡i tÃ­ch há»£p liá»n máº¡ch cho dá»± Ã¡n cá»§a báº¡n."
+      title: "Được các nhà phát triển tin tưởng"
+      content: "Các giải pháp của chúng tôi đã trở nên đáng tin cậy và được cộng đồng nhà phát triển áp dụng rộng rãi, mang lại tích hợp liền mạch cho dự án của bạn."
 
     # metrics loop
     - number: "15+"
-      title: "Sáº£n pháº©m"
-      content: "ChÃºng tÃ´i cung cáº¥p hÆ¡n 15 SDK xá»­ lÃ½ tÃ i liá»‡u, mang láº¡i tráº£i nghiá»‡m mÆ°á»£t mÃ  cho viá»‡c tÃ­ch há»£p cá»§a báº¡n. ChÃºng tÃ´i xá»­ lÃ½, báº¡n cá»© yÃªn tÃ¢m."
+      title: "Sản phẩm"
+      content: "Chúng tôi cung cấp hơn 15 SDK xử lý tài liệu, mang lại trải nghiệm mượt mà cho việc tích hợp của bạn. Chúng tôi xử lý, bạn cứ yên tâm."
     
     # metrics loop
     - number: "100+"
-      title: "KhÃ¡ch hÃ ng hÃ i lÃ²ng"
-      content: "Phá»¥c vá»¥ nhá»¯ng thÆ°Æ¡ng hiá»‡u mang tÃ­nh biá»ƒu tÆ°á»£ng nháº¥t trÃªn toÃ n cáº§u. KhÃ¡m phÃ¡ lÃ½ do hÃ ng trÄƒm ngÆ°á»i yÃªu thÃ­ch sáº£n pháº©m cá»§a GroupDocs! Tham gia ngay!"
+      title: "Khách hàng hài lòng"
+      content: "Phục vụ những thương hiệu mang tính biểu tượng nhất trên toàn cầu. Khám phá lý do hàng trăm người yêu thích sản phẩm của GroupDocs! Tham gia ngay!"
 
 
 ############################# Customers ############################
@@ -173,8 +173,8 @@ metrics:
 
 customers:
   enable: true
-  title: "KhÃ¡ch hÃ ng hÃ i lÃ²ng cá»§a chÃºng tÃ´i"
-  description: "CÃ¡c thÆ° viá»‡n GroupDocs Ä‘Æ°á»£c cÃ¡c thÆ°Æ¡ng hiá»‡u danh tiáº¿ng vÃ  ná»•i báº­t trÃªn toÃ n tháº¿ giá»›i sá»­ dá»¥ng."
+  title: "Khách hàng hài lòng của chúng tôi"
+  description: "Các thư viện GroupDocs được các thương hiệu danh tiếng và nổi bật trên toàn thế giới sử dụng."
 
   items:
     # customers loop
@@ -212,8 +212,8 @@ customers:
 
 actions:
   enable: true
-  title: "Sáºµn sÃ ng báº¯t Ä‘áº§u?"
-  description: "Chá»n ná»n táº£ng má»¥c tiÃªu cá»§a báº¡n Ä‘á»ƒ tÃ¬m hiá»ƒu thÃªm vá» sáº£n pháº©m."
+  title: "Sẵn sàng bắt đầu?"
+  description: "Chọn nền tảng mục tiêu của bạn để tìm hiểu thêm về sản phẩm."
 
   items:
     #  loop
@@ -225,79 +225,79 @@ actions:
 
 faq:
   enable: true
-  title: "CÃ¢u há»i vÃ  quan ngáº¡i thÆ°á»ng gáº·p"
-  description: "TÃ¬m cÃ¢u tráº£ lá»i cho cÃ¡c tháº¯c máº¯c thÆ°á»ng gáº·p trong má»¥c FAQ cá»§a chÃºng tÃ´i Ä‘á»ƒ nhanh chÃ³ng giáº£i quyáº¿t cÃ¢u há»i vÃ  lo ngáº¡i cá»§a báº¡n."
+  title: "Câu hỏi và quan ngại thường gặp"
+  description: "Tìm câu trả lời cho các thắc mắc thường gặp trong mục FAQ của chúng tôi để nhanh chóng giải quyết câu hỏi và lo ngại của bạn."
 
   items:
     #  loop
-    - question: "TÃ´i cÃ³ thá»ƒ Ä‘Ã¡nh giÃ¡ sáº£n pháº©m GroupDocs trÆ°á»›c khi mua khÃ´ng?"
+    - question: "Tôi có thể đánh giá sản phẩm GroupDocs trước khi mua không?"
       answer: |
-        CÃ³! Táº¥t cáº£ sáº£n pháº©m cá»§a GroupDocs Ä‘á»u cÃ³ phiÃªn báº£n Ä‘Ã¡nh giÃ¡ khÃ´ng rá»§i ro cÃ³ sáºµn. ChÃºng tÃ´i khuyáº¿n khÃ­ch cÃ¡c nhÃ  phÃ¡t triá»ƒn táº£i xuá»‘ng vÃ  thá»­ nghiá»‡m API cá»§a chÃºng tÃ´i trÆ°á»›c khi mua Ä‘á»ƒ Ä‘áº£m báº£o chÃºng Ä‘Ã¡p á»©ng Ä‘áº§y Ä‘á»§ nhu cáº§u cá»§a báº¡n 100%.
+        Có! Tất cả sản phẩm của GroupDocs đều có phiên bản đánh giá không rủi ro có sẵn. Chúng tôi khuyến khích các nhà phát triển tải xuống và thử nghiệm API của chúng tôi trước khi mua để đảm bảo chúng đáp ứng đầy đủ nhu cầu của bạn 100%.
     #  loop
-    - question: "GroupDocs cÃ³ thá»±c hiá»‡n demo sáº£n pháº©m khÃ´ng?"
+    - question: "GroupDocs có thực hiện demo sản phẩm không?"
       answer: |
-        KhÃ´ng, chÃºng tÃ´i táº­p trung vÃ o API vÃ  táº¡o ra cÃ¡c sáº£n pháº©m chá»©c nÄƒng vÃ  á»•n Ä‘á»‹nh nháº¥t cÃ³ thá»ƒ. ChÃºng tÃ´i cung cáº¥p cÃ¡c báº£n dÃ¹ng thá»­ Ä‘áº§y Ä‘á»§ chá»©c nÄƒng vÃ  miá»…n phÃ­ dÆ°á»›i dáº¡ng má»™t [giáº¥y phÃ©p táº¡m thá»i](https://purchase.groupdocs.com/temporary-license/) Ä‘á»ƒ báº¡n tá»± mÃ¬nh kiá»ƒm tra sáº£n pháº©m.
+        Không, chúng tôi tập trung vào API và tạo ra các sản phẩm chức năng và ổn định nhất có thể. Chúng tôi cung cấp các bản dùng thử đầy đủ chức năng và miễn phí dưới dạng một [giấy phép tạm thời](https://purchase.groupdocs.com/temporary-license/) để bạn tự mình kiểm tra sản phẩm.
     #  loop
-    - question: "TÃ´i cÃ³ thá»ƒ táº£i sáº£n pháº©m á»Ÿ Ä‘Ã¢u?"
+    - question: "Tôi có thể tải sản phẩm ở đâu?"
       answer: |
-        Táº¥t cáº£ cÃ¡c sáº£n pháº©m Ä‘á»u cÃ³ thá»ƒ táº£i xuá»‘ng tá»« NuGet hoáº·c GroupDocs Releases [trang web](https://releases.groupdocs.com).    
+        Tất cả các sản phẩm đều có thể tải xuống từ NuGet hoặc GroupDocs Releases [trang web](https://releases.groupdocs.com).    
     #  loop
-    - question: "Giáº¥y phÃ©p cho nhÃ  phÃ¡t triá»ƒn GroupDocs tÃ­nh theo ngÆ°á»i dÃ¹ng hay theo ngÆ°á»i dÃ¹ng Ä‘Æ°á»£c Ä‘áº·t tÃªn?"
+    - question: "Giấy phép cho nhà phát triển GroupDocs tính theo người dùng hay theo người dùng được đặt tên?"
       answer: |
-        Giáº¥y phÃ©p nhÃ  phÃ¡t triá»ƒn GroupDocs Ä‘Æ°á»£c tÃ­nh theo ngÆ°á»i dÃ¹ng, khÃ´ng pháº£i theo ngÆ°á»i dÃ¹ng Ä‘Æ°á»£c Ä‘áº·t tÃªn. ChÃºng tÃ´i hiá»ƒu ráº±ng cÃ¡c thÃ nh viÃªn trong nhÃ³m láº­p trÃ¬nh cÃ³ thá»ƒ thay Ä‘á»•i theo thá»i gian vÃ  viá»‡c pháº£i cáº­p nháº­t giáº¥y phÃ©p má»—i khi Ä‘iá»u Ä‘Ã³ xáº£y ra lÃ  khÃ´ng thá»±c táº¿.
+        Giấy phép nhà phát triển GroupDocs được tính theo người dùng, không phải theo người dùng được đặt tên. Chúng tôi hiểu rằng các thành viên trong nhóm lập trình có thể thay đổi theo thời gian và việc phải cập nhật giấy phép mỗi khi điều đó xảy ra là không thực tế.
     #  loop
-    - question: "Báº¡n cÃ³ cung cáº¥p há»— trá»£ ká»¹ thuáº­t khÃ´ng?"
+    - question: "Bạn có cung cấp hỗ trợ kỹ thuật không?"
       answer: |
-        CÃ³, chÃºng tÃ´i cung cáº¥p há»— trá»£ ká»¹ thuáº­t miá»…n phÃ­ bá»Ÿi cÃ¡c nhÃ³m sáº£n pháº©m táº¡i [Diá»…n Ä‘Ã n Há»— trá»£ Miá»…n phÃ­](https://forum.groupdocs.com/c/markdown) vÃ  [BÃ n trá»£ giÃºp Há»— trá»£ Tráº£ phÃ­](https://helpdesk.groupdocs.com/) Ä‘á»ƒ Ä‘áº£m báº£o tráº£i nghiá»‡m cá»§a báº¡n luÃ´n suÃ´n sáº».
+        Có, chúng tôi cung cấp hỗ trợ kỹ thuật miễn phí bởi các nhóm sản phẩm tại [Diễn đàn Hỗ trợ Miễn phí](https://forum.groupdocs.com/c/markdown) và [Bàn trợ giúp Hỗ trợ Trả phí](https://helpdesk.groupdocs.com/) để đảm bảo trải nghiệm của bạn luôn suôn sẻ.
 
 ############################# Cloud ############################
 
 cloud_links:
   enable: false
-  title: "API ÄÃ¡m mÃ¢y GroupDocs"
-  description: "TÄƒng tá»‘c chuyá»ƒn Ä‘á»•i tÃ i liá»‡u sang Markdown trong báº¥t ká»³ á»©ng dá»¥ng nÃ o vá»›i API REST dá»±a trÃªn Ä‘Ã¡m mÃ¢y cá»§a chÃºng tÃ´i."
+  title: "API Đám mây GroupDocs"
+  description: "Tăng tốc chuyển đổi tài liệu sang Markdown trong bất kỳ ứng dụng nào với API REST dựa trên đám mây của chúng tôi."
 
   items:
     #  loop
     - icon: "groupdocs_markdown-for-curl"
       title: "GroupDocs.Markdown Cloud for cURL"
       link: "https://products.groupdocs.cloud/markdown/curl"
-      content: "Sá»­ dá»¥ng API RESTful cURL Ä‘á»ƒ chuyá»ƒn Ä‘á»•i Microsoft Office, PDF vÃ  cÃ¡c Ä‘á»‹nh dáº¡ng khÃ¡c sang Markdown trong á»©ng dá»¥ng cá»§a báº¡n."
+      content: "Sử dụng API RESTful cURL để chuyển đổi Microsoft Office, PDF và các định dạng khác sang Markdown trong ứng dụng của bạn."
 
     #  loop
     - icon: "groupdocs_markdown-for-net"
       title: "GroupDocs.Markdown Cloud for .NET"
       link: "https://products.groupdocs.cloud/markdown/net"
-      content: "SDK ÄÃ¡m mÃ¢y .NET Ä‘á»ƒ chuyá»ƒn Ä‘á»•i tÃ i liá»‡u sang Markdown má»™t cÃ¡ch láº­p trÃ¬nh vá»›i cÃ¡c tÃ¹y chá»n cÃ³ thá»ƒ cáº¥u hÃ¬nh."
+      content: "SDK Đám mây .NET để chuyển đổi tài liệu sang Markdown một cách lập trình với các tùy chọn có thể cấu hình."
     #  loop
     - icon: "groupdocs_markdown-for-java"
       title: "GroupDocs.Markdown Cloud for Java"
       link: "https://products.groupdocs.cloud/markdown/java"
-      content: "SDK ÄÃ¡m mÃ¢y Java Ä‘á»ƒ tÃ­ch há»£p chuyá»ƒn Ä‘á»•i tÃ i liá»‡u sang Markdown vÃ o cÃ¡c á»©ng dá»¥ng Java."
+      content: "SDK Đám mây Java để tích hợp chuyển đổi tài liệu sang Markdown vào các ứng dụng Java."
 
 ############################# Apps ############################
 
 app_links:
   enable: true
-  title: "á»¨ng dá»¥ng Trá»±c tuyáº¿n GroupDocs"
-  description: "á»¨ng dá»¥ng trá»±c tuyáº¿n cho phÃ©p báº¡n chuyá»ƒn Ä‘á»•i cÃ¡c Ä‘á»‹nh dáº¡ng tá»‡p phá»• biáº¿n sang Markdown trong trÃ¬nh duyá»‡t."
+  title: "Ứng dụng Trực tuyến GroupDocs"
+  description: "Ứng dụng trực tuyến cho phép bạn chuyển đổi các định dạng tệp phổ biến sang Markdown trong trình duyệt."
 
   items:
     #  loop
     - icon: "groupdocs_conversion-app"
       title: "GroupDocs.Conversion Total"
       link: "https://products.groupdocs.app/conversion/total"
-      content: "KhÃ¡m phÃ¡ á»©ng dá»¥ng trá»±c tuyáº¿n miá»…n phÃ­ Ä‘á»ƒ chuyá»ƒn Ä‘á»•i nhiá»u Ä‘á»‹nh dáº¡ng tá»‡p trá»±c tiáº¿p sang Markdown (.md)."
+      content: "Khám phá ứng dụng trực tuyến miễn phí để chuyển đổi nhiều định dạng tệp trực tiếp sang Markdown (.md)."
 
     #  loop
     - icon: "groupdocs_conversion-app"
       title:  "GroupDocs.Conversion DOCX"
       link: "https://products.groupdocs.app/conversion/docx"
-      content: "CÃ´ng cá»¥ dá»±a trÃªn web Ä‘á»ƒ chuyá»ƒn Ä‘á»•i tá»‡p Microsoft Word sang Markdown trÃªn má»i thiáº¿t bá»‹."
+      content: "Công cụ dựa trên web để chuyển đổi tệp Microsoft Word sang Markdown trên mọi thiết bị."
 
     #  loop
     - icon: "groupdocs_conversion-app"
       title:  "GroupDocs.Conversion PDF"
       link: "https://products.groupdocs.app/markdown/pdf"
-      content: "Chuyá»ƒn Ä‘á»•i tá»‡p PDF sang Markdown trá»±c tuyáº¿n vá»›i á»©ng dá»¥ng PDF-to-Markdown miá»…n phÃ­."
+      content: "Chuyển đổi tệp PDF sang Markdown trực tuyến với ứng dụng PDF-to-Markdown miễn phí."
 ---

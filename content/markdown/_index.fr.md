@@ -11,17 +11,17 @@ product_tag: "markdown"
 ############################# Head ############################
 
 head_title: "Exporter des documents en Markdown | GroupDocs"
-head_description: "GroupDocs.Markdown est un SDK de traitement de documents qui exporte les formats PDF, Word, Excel et autres vers Markdown pour une intÃ©gration transparente avec lâ€™Ã©cosystÃ¨me dâ€™IA gÃ©nÃ©rative."
+head_description: "GroupDocs.Markdown est un SDK de traitement de documents qui exporte les formats PDF, Word, Excel et autres vers Markdown pour une intégration transparente avec l’écosystème d’IA générative."
 
 ############################# Header ##########################
 
-title: "PrÃ©parez vos documents pour l'IA"
+title: "Préparez vos documents pour l'IA"
 description: |
-  SDK Markdown pour exporter diffÃ©rents types de documents en Markdown propre et sÃ©mantique.
+  SDK Markdown pour exporter différents types de documents en Markdown propre et sémantique.
 
-  PrÃ©servez la structure du document, les titres, les listes, les tableaux, les liens et les images
+  Préservez la structure du document, les titres, les listes, les tableaux, les liens et les images
 
-  Prenez le contrÃ´le des images en les intÃ©grant ou en les enregistrant comme ressources externes.
+  Prenez le contrôle des images en les intégrant ou en les enregistrant comme ressources externes.
 
 ############################# Platforms ############################
 
@@ -29,7 +29,7 @@ supported_platforms:
   enable: true  
   head_title: "Choisissez votre plateforme"
   title: "Plateformes prises en charge"
-  description: "GroupDocs.Markdown prend en charge les systÃ¨mes dâ€™exploitation et les frameworks suivants."
+  description: "GroupDocs.Markdown prend en charge les systèmes d’exploitation et les frameworks suivants."
   details_link_title: "En savoir plus"
   items:
     # supported_platforms loop
@@ -54,50 +54,50 @@ supported_platforms:
 
 features:
   enable: true
-  title: "Ensemble des fonctionnalitÃ©s de GroupDocs.Markdown"
-  description: "Voici les fonctionnalitÃ©s qui distinguent notre solution."
+  title: "Ensemble des fonctionnalités de GroupDocs.Markdown"
+  description: "Voici les fonctionnalités qui distinguent notre solution."
 
   items:
     # feature loop
     - icon: "convert"
       title: "Exporter des documents en Markdown"
-      content: "Rendez vos PDF, Word, Excel, eBook et fichiers texte prÃªts pour les LLM en les exportant vers Markdown."
+      content: "Rendez vos PDF, Word, Excel, eBook et fichiers texte prêts pour les LLM en les exportant vers Markdown."
 
     # feature loop
     - icon: "structure"
       title: "Conserver la structure du document"
-      content: "PrÃ©servez la structure du document, les titres, les listes, les tableaux, les liens et les images."
+      content: "Préservez la structure du document, les titres, les listes, les tableaux, les liens et les images."
 
     # feature loop
     - icon: "image"
-      title: "Prenez le contrÃ´le des images"
-      content: "IntÃ©grez les images ou enregistrezâ€‘les comme ressources externes. Remplacez les images pendant le processus de conversion."
+      title: "Prenez le contrôle des images"
+      content: "Intégrez les images ou enregistrez‑les comme ressources externes. Remplacez les images pendant le processus de conversion."
     
     # feature loop
     - icon: "settings"
-      title: "Convertir des documents entiers ou des pages spÃ©cifiques"
-      content: "Convertissez des documents entiers ou limitez la conversion Ã  des pages ou feuilles de calcul spÃ©cifiques selon les besoins."
+      title: "Convertir des documents entiers ou des pages spécifiques"
+      content: "Convertissez des documents entiers ou limitez la conversion à des pages ou feuilles de calcul spécifiques selon les besoins."
 
 
 ############################# Code samples ############################
 code_samples:
   enable: true
   title: "Exemples de code GroupDocs.Markdown"
-  description: "Les scÃ©narios dâ€™utilisation les plus courants pour lâ€™exportation de documents en Markdown. Vous pouvez demander une [licence temporaire gratuite](https://purchase.groupdocs.com/temporary-license) pour tester le produit dans votre environnement."
+  description: "Les scénarios d’utilisation les plus courants pour l’exportation de documents en Markdown. Vous pouvez demander une [licence temporaire gratuite](https://purchase.groupdocs.com/temporary-license) pour tester le produit dans votre environnement."
   items:
     # code sample loop
     - title: "Exporter un PDF en Markdown"
       content: |
-       Obtenez un fichier Markdown propre Ã  partir dâ€™un fichier PDF en quelques lignes de code. Par dÃ©faut, les images sont intÃ©grÃ©es dans le fichier de sortie.
+       Obtenez un fichier Markdown propre à partir d’un fichier PDF en quelques lignes de code. Par défaut, les images sont intégrées dans le fichier de sortie.
       samples:
         - language: "C#"
           color: "blue"
           content: |
             ```csharp {style=abap}   
-            // Importer lâ€™espace de noms
+            // Importer l’espace de noms
             using GroupDocs.Markdown;
 
-            // DÃ©finir la licence
+            // Définir la licence
             License.Set("GroupDocs.Markdown.lic");
 
             // Instancier le convertisseur
@@ -109,7 +109,7 @@ code_samples:
     # code sample loop
     - title: "Enregistrer les images dans un dossier"
       content: |
-       Cet exemple de code montre comment convertir un fichier DOCX en Markdown et enregistrer les images dans un dossier sÃ©parÃ©.
+       Cet exemple de code montre comment convertir un fichier DOCX en Markdown et enregistrer les images dans un dossier séparé.
       samples:
         - language: "C#"
           color: "blue"
@@ -118,17 +118,17 @@ code_samples:
             // Importez l'espace de noms
             using GroupDocs.Markdown;
 
-            // DÃ©finissez la licence
+            // Définissez la licence
             License.Set("GroupDocs.Markdown.lic");
 
             // Instanciez le convertisseur
             var converter = new MarkdownConverter("annual-report.docx");
 
-            // DÃ©finissez la stratÃ©gie d'exportation des images et le dossier de sortie
+            // Définissez la stratégie d'exportation des images et le dossier de sortie
             var convertOptions = new DocumentConverterOptions();
             convertOptions.ImageExportStrategy = new ExportImagesToFileSystemStrategy("./images");
 
-            // Convertissez et enregistrez le rÃ©sultat dans un fichier
+            // Convertissez et enregistrez le résultat dans un fichier
             converter.Convert("annual-report.md", convertOptions);
             ```
 
@@ -144,28 +144,28 @@ formats:
 
 metrics:
   enable: true
-  title: "MÃ©triques approfondies et analyses statistiques"
-  description: "Plongez dans une analyse dÃ©taillÃ©e de nos chiffres clÃ©s, offrant des mÃ©triques complÃ¨tes et des analyses statistiques sur nos rÃ©alisations, notre impact et notre croissance."
+  title: "Métriques approfondies et analyses statistiques"
+  description: "Plongez dans une analyse détaillée de nos chiffres clés, offrant des métriques complètes et des analyses statistiques sur nos réalisations, notre impact et notre croissance."
 
   items:
     # metrics loop
     - number: "180+"
       title: "Formats pris en charge"
-      content: "Convertissez depuis des dizaines de formats de documents et de texte, notamment PDF, Word, Excel et eBooks, en Markdown, offrant des intÃ©grations transparentes avec l'Ã©cosystÃ¨me d'IA gÃ©nÃ©rative."
+      content: "Convertissez depuis des dizaines de formats de documents et de texte, notamment PDF, Word, Excel et eBooks, en Markdown, offrant des intégrations transparentes avec l'écosystème d'IA générative."
     # metrics loop
     - number: "1.0M"
-      title: "ApprouvÃ© par les dÃ©veloppeurs"
-      content: "Nos solutions sont devenues fiables et largement adoptÃ©es par la communautÃ© des dÃ©veloppeurs, offrant une intÃ©gration fluide pour vos projets."
+      title: "Approuvé par les développeurs"
+      content: "Nos solutions sont devenues fiables et largement adoptées par la communauté des développeurs, offrant une intégration fluide pour vos projets."
 
     # metrics loop
     - number: "15+"
       title: "Produits"
-      content: "Nous fournissons plus de 15 SDK de traitement de documents, offrant une expÃ©rience fluide pour vos intÃ©grations. Nous traitons, vous vous dÃ©tendez."
+      content: "Nous fournissons plus de 15 SDK de traitement de documents, offrant une expérience fluide pour vos intégrations. Nous traitons, vous vous détendez."
     
     # metrics loop
     - number: "100+"
       title: "Clients satisfaits"
-      content: "Nous servons les marques les plus emblÃ©matiques du monde. DÃ©couvrez pourquoi des centaines apprÃ©cient les produits GroupDocsÂ ! Rejoignezâ€‘nous dÃ¨s maintenantÂ !"
+      content: "Nous servons les marques les plus emblématiques du monde. Découvrez pourquoi des centaines apprécient les produits GroupDocs ! Rejoignez‑nous dès maintenant !"
 
 
 ############################# Customers ############################
@@ -174,7 +174,7 @@ metrics:
 customers:
   enable: true
   title: "Nos clients satisfaits"
-  description: "Les bibliothÃ¨ques GroupDocs sont utilisÃ©es par des marques mondialement reconnues et distinguÃ©es Ã  travers le monde."
+  description: "Les bibliothèques GroupDocs sont utilisées par des marques mondialement reconnues et distinguées à travers le monde."
 
   items:
     # customers loop
@@ -212,7 +212,7 @@ customers:
 
 actions:
   enable: true
-  title: "PrÃªt Ã  commencerÂ ?"
+  title: "Prêt à commencer ?"
   description: "Choisissez votre plateforme cible pour en savoir plus sur le produit."
 
   items:
@@ -225,44 +225,44 @@ actions:
 
 faq:
   enable: true
-  title: "Questions frÃ©quentes et prÃ©occupations"
-  description: "Trouvez des rÃ©ponses aux questions courantes dans notre section FAQ afin de rÃ©pondre rapidement Ã  vos interrogations et prÃ©occupations."
+  title: "Questions fréquentes et préoccupations"
+  description: "Trouvez des réponses aux questions courantes dans notre section FAQ afin de répondre rapidement à vos interrogations et préoccupations."
 
   items:
     #  loop
-    - question: "Puis-je Ã©valuer les produits GroupDocs avant d'acheterÂ ?"
+    - question: "Puis-je évaluer les produits GroupDocs avant d'acheter ?"
       answer: |
-        Ouiâ€¯! Tous les produits GroupDocs disposent d'une version d'Ã©valuation sans risque. Nous encourageons fortement les dÃ©veloppeurs Ã  tÃ©lÃ©charger et Ã  tester nos API avant d'acheter afin de garantir qu'ils rÃ©pondent Ã  100â€¯% Ã  vos besoins.
+        Oui ! Tous les produits GroupDocs disposent d'une version d'évaluation sans risque. Nous encourageons fortement les développeurs à télécharger et à tester nos API avant d'acheter afin de garantir qu'ils répondent à 100 % à vos besoins.
     #  loop
-    - question: "GroupDocs propose-t-il des dÃ©monstrations de produitsÂ ?"
+    - question: "GroupDocs propose-t-il des démonstrations de produits ?"
       answer: |
-        Non, notre objectif est nos API et la crÃ©ation des produits les plus fonctionnels et stables possibles. Nous proposons toutefois des essais complets et gratuits sous forme d'une [licence temporaire](https://purchase.groupdocs.com/temporary-license/) afin que vous puissiez tester le produit vous-mÃªme.
+        Non, notre objectif est nos API et la création des produits les plus fonctionnels et stables possibles. Nous proposons toutefois des essais complets et gratuits sous forme d'une [licence temporaire](https://purchase.groupdocs.com/temporary-license/) afin que vous puissiez tester le produit vous-même.
     #  loop
-    - question: "OÃ¹ puis-je tÃ©lÃ©charger le produitÂ ?"
+    - question: "Où puis-je télécharger le produit ?"
       answer: |
-        Tous les produits sont disponibles en tÃ©lÃ©chargement depuis NuGet ou le site Web [GroupDocs Releases](https://releases.groupdocs.com).    
+        Tous les produits sont disponibles en téléchargement depuis NuGet ou le site Web [GroupDocs Releases](https://releases.groupdocs.com).    
     #  loop
-    - question: "Les licences dÃ©veloppeur GroupDocs sont-elles par utilisateur ou par utilisateur nommÃ©Â ?"
+    - question: "Les licences développeur GroupDocs sont-elles par utilisateur ou par utilisateur nommé ?"
       answer: |
-        Les licences dÃ©veloppeur GroupDocs sont par utilisateur, pas par utilisateur nommÃ©. Nous comprenons que les membres dâ€™une Ã©quipe de dÃ©veloppement peuvent changer avec le temps et quâ€™il nâ€™est pas pratique de devoir mettre Ã  jour la licence Ã  chaque changement.
+        Les licences développeur GroupDocs sont par utilisateur, pas par utilisateur nommé. Nous comprenons que les membres d’une équipe de développement peuvent changer avec le temps et qu’il n’est pas pratique de devoir mettre à jour la licence à chaque changement.
     #  loop
-    - question: "Fournissez-vous un support techniqueÂ ?"
+    - question: "Fournissez-vous un support technique ?"
       answer: |
-        Oui, nous offrons un support technique gratuit par les Ã©quipes produit sur [Forum d'assistance gratuit](https://forum.groupdocs.com/c/markdown) et [Service d'assistance payant](https://helpdesk.groupdocs.com/) pour garantir une expÃ©rience fluide.
+        Oui, nous offrons un support technique gratuit par les équipes produit sur [Forum d'assistance gratuit](https://forum.groupdocs.com/c/markdown) et [Service d'assistance payant](https://helpdesk.groupdocs.com/) pour garantir une expérience fluide.
 
 ############################# Cloud ############################
 
 cloud_links:
   enable: false
   title: "API Cloud GroupDocs"
-  description: "AccÃ©lÃ©rez la conversion de documents vers Markdown dans nâ€™importe quelle application avec notre API REST basÃ©e sur le cloud."
+  description: "Accélérez la conversion de documents vers Markdown dans n’importe quelle application avec notre API REST basée sur le cloud."
 
   items:
     #  loop
     - icon: "groupdocs_markdown-for-curl"
       title: "GroupDocs.Markdown Cloud for cURL"
       link: "https://products.groupdocs.cloud/markdown/curl"
-      content: "Utilisez lâ€™API RESTful cURL pour convertir Microsoft Office, PDF et dâ€™autres formats en Markdown dans vos applications."
+      content: "Utilisez l’API RESTful cURL pour convertir Microsoft Office, PDF et d’autres formats en Markdown dans vos applications."
 
     #  loop
     - icon: "groupdocs_markdown-for-net"
@@ -273,7 +273,7 @@ cloud_links:
     - icon: "groupdocs_markdown-for-java"
       title: "GroupDocs.Markdown Cloud for Java"
       link: "https://products.groupdocs.cloud/markdown/java"
-      content: "Java Cloud SDK pour intÃ©grer la conversion de documents en Markdown dans les applications Java."
+      content: "Java Cloud SDK pour intégrer la conversion de documents en Markdown dans les applications Java."
 
 ############################# Apps ############################
 
@@ -287,7 +287,7 @@ app_links:
     - icon: "groupdocs_conversion-app"
       title: "GroupDocs.Conversion Total"
       link: "https://products.groupdocs.app/conversion/total"
-      content: "DÃ©couvrez une application en ligne gratuite pour convertir divers formats de fichiers directement en Markdown (.md)."
+      content: "Découvrez une application en ligne gratuite pour convertir divers formats de fichiers directement en Markdown (.md)."
 
     #  loop
     - icon: "groupdocs_conversion-app"

@@ -22,74 +22,74 @@ supported_platforms:
 
 ############################# Head ############################
 
-head_title: ".NETì—ì„œ ë¬¸ì„œë¥¼ Markdownìœ¼ë¡œ ë‚´ë³´ë‚´ê¸° | GroupDocs"
-head_description: "GroupDocs.Markdown for .NETì€ PDF, Word, Excel ë“± ë‹¤ì–‘í•œ í˜•ì‹ì„ Markdownìœ¼ë¡œ ë‚´ë³´ë‚´ì–´ ìƒì„± AI ìƒíƒœê³„ì™€ ì›í™œížˆ í†µí•©í•  ìˆ˜ ìžˆëŠ” ë¬¸ì„œ ì²˜ë¦¬ APIìž…ë‹ˆë‹¤."
+head_title: ".NET에서 문서를 Markdown으로 내보내기 | GroupDocs"
+head_description: "GroupDocs.Markdown for .NET은 PDF, Word, Excel 등 다양한 형식을 Markdown으로 내보내어 생성 AI 생태계와 원활히 통합할 수 있는 문서 처리 API입니다."
 
 ############################# Header ##########################
 
-title: "ë¬¸ì„œë¥¼ Markdownìœ¼ë¡œ ë‚´ë³´ë‚´ê¸°<br>.NET API ì‚¬ìš©"
-description: "ì¸ê¸° ë¬¸ì„œ í˜•ì‹ì„ ê¹”ë”í•œ Markdownìœ¼ë¡œ ë‚´ë³´ë‚´ê³  ì™„ì „í•œ ì œì–´ë¥¼ ì œê³µí•˜ëŠ” Markdown ë³€í™˜ API."
+title: "문서를 Markdown으로 내보내기<br>.NET API 사용"
+description: "인기 문서 형식을 깔끔한 Markdown으로 내보내고 완전한 제어를 제공하는 Markdown 변환 API."
 words:
   for: "for"
 
 actions:
-  main: "ë¬´ë£Œ NuGet ë‹¤ìš´ë¡œë“œ"
+  main: "무료 NuGet 다운로드"
   main_link: "https://www.nuget.org/packages/GroupDocs.Markdown"
-  alt: "ë¼ì´ì„ ìŠ¤"
+  alt: "라이선스"
   alt_link: "https://purchase.groupdocs.com/pricing/markdown/net"
-  title: "ì‹œìž‘í•  ì¤€ë¹„ê°€ ë˜ì…¨ë‚˜ìš”?"
-  description: "GroupDocs.Markdown ê¸°ëŠ¥ì„ ë¬´ë£Œë¡œ ì‚¬ìš©í•´ ë³´ê±°ë‚˜ ë¼ì´ì„ ìŠ¤ë¥¼ ìš”ì²­í•˜ì„¸ìš”"
+  title: "시작할 준비가 되셨나요?"
+  description: "GroupDocs.Markdown 기능을 무료로 사용해 보거나 라이선스를 요청하세요"
 
 release:
   hidden: false
-  title: "ë²„ì „ {0}&nbsp;ì¶œì‹œ"
-  notes: "ìƒˆë¡œìš´ ê¸°ëŠ¥ ë³´ê¸°"
-  downloads: "ë‹¤ìš´ë¡œë“œ"
+  title: "버전 {0}&nbsp;출시"
+  notes: "새로운 기능 보기"
+  downloads: "다운로드"
   link: "https://releases.groupdocs.com/markdown/net/release-notes/latest/"
 
 code:
-  title: "C#ì—ì„œ PDFë¥¼ Markdownìœ¼ë¡œ ë‚´ë³´ë‚´ê¸°"
-  more: "ì¶”ê°€ ì˜ˆì œ"
+  title: "C#에서 PDF를 Markdown으로 내보내기"
+  more: "추가 예제"
   more_link: "https://github.com/groupdocs-markdown/GroupDocs.Markdown-for-.NET"
   install: "dotnet add package GroupDocs.Markdown"
   content: |
     ```csharp {style=abap}   
-    // ë„¤ìž„ìŠ¤íŽ˜ì´ìŠ¤ ê°€ì ¸ì˜¤ê¸°
+    // 네임스페이스 가져오기
     using GroupDocs.Markdown;
 
-    // ë¼ì´ì„ ìŠ¤ ì„¤ì •
+    // 라이선스 설정
     License.Set("GroupDocs.Markdown.lic");
 
-    // ì»¨ë²„í„° ì¸ìŠ¤í„´ìŠ¤í™”
+    // 컨버터 인스턴스화
     var converter = new MarkdownConverter("business-plan.pdf");
 
-    // ë³€í™˜í•˜ê³  ì¶œë ¥ Markdown íŒŒì¼ ì €ìž¥
+    // 변환하고 출력 Markdown 파일 저장
     converter.Convert("business-plan.md");
     ```
 
 ############################# Overview ############################
 overview:
   enable: true
-  title: "GroupDocs.Markdown í•œëˆˆì— ë³´ê¸°"
-  description: ".NET ì• í”Œë¦¬ì¼€ì´ì…˜ì—ì„œ ë¬¸ì„œë¥¼ íŒŒì‹±í•˜ê³  Markdownìœ¼ë¡œ ë‚´ë³´ë‚´ëŠ” API."
+  title: "GroupDocs.Markdown 한눈에 보기"
+  description: ".NET 애플리케이션에서 문서를 파싱하고 Markdown으로 내보내는 API."
   features:
     # feature loop
-    - title: "ì •í™•í•˜ê³  ì‹ ë¢°í•  ìˆ˜ ìžˆëŠ” ë³€í™˜"
-      content: "êµ¬ì¡°ì  ë¬´ê²°ì„±ì„ ìœ ì§€í•˜ë©´ì„œ ì§€ì›ë˜ëŠ” í˜•ì‹ì„ íš¨ìœ¨ì ìœ¼ë¡œ Markdownìœ¼ë¡œ ë³€í™˜í•©ë‹ˆë‹¤. Windowsì™€ Linuxì—ì„œ .NET Framework 4.6.2+ ë° .NET 6.0ì„ ì§€ì›í•©ë‹ˆë‹¤."
+    - title: "정확하고 신뢰할 수 있는 변환"
+      content: "구조적 무결성을 유지하면서 지원되는 형식을 효율적으로 Markdown으로 변환합니다. Windows와 Linux에서 .NET Framework 4.6.2+ 및 .NET 6.0을 지원합니다."
 
     # feature loop
-    - title: "ì§€ì›ë˜ëŠ” ì¸ê¸° í˜•ì‹"
-      content: "PDF, Word, Excel, ì „ìžì±…, ì›¹ ë° ì¼ë°˜ í…ìŠ¤íŠ¸ íŒŒì¼ì„ í¬í•¨í•´ ì•”í˜¸ ë³´í˜¸ëœ ë¬¸ì„œê¹Œì§€ Markdownìœ¼ë¡œ ë‚´ë³´ëƒ…ë‹ˆë‹¤."
+    - title: "지원되는 인기 형식"
+      content: "PDF, Word, Excel, 전자책, 웹 및 일반 텍스트 파일을 포함해 암호 보호된 문서까지 Markdown으로 내보냅니다."
 
     # feature loop
-    - title: "ë¡œì»¬ ë¨¸ì‹ ì—ì„œ ì‹¤í–‰ë©ë‹ˆë‹¤"
-      content: "ë°ì´í„°ë¥¼ ì§ì ‘ ì œì–´í•©ë‹ˆë‹¤ - í´ë¼ìš°ë“œë‚˜ ì¸í„°ë„· ì—°ê²°ì´ í•„ìš” ì—†ëŠ” ì˜¨í”„ë ˆë¯¸ìŠ¤ APIë¥¼ ì œê³µí•©ë‹ˆë‹¤."
+    - title: "로컬 머신에서 실행됩니다"
+      content: "데이터를 직접 제어합니다 - 클라우드나 인터넷 연결이 필요 없는 온프레미스 API를 제공합니다."
 
 ############################# Platforms ############################
 platforms:
   enable: true
-  title: "í”Œëž«í¼ ì§€ì›"
-  description: "ë‹¤ìŒ ìš´ì˜ ì²´ì œ, í”„ë ˆìž„ì›Œí¬ ë° íŒ¨í‚¤ì§€ ê´€ë¦¬ìžë¥¼ ì§€ì›í•©ë‹ˆë‹¤."
+  title: "플랫폼 지원"
+  description: "다음 운영 체제, 프레임워크 및 패키지 관리자를 지원합니다."
   items:
     # platform loop
     - title: "Amazon"
@@ -119,9 +119,9 @@ platforms:
 ############################# File formats ############################
 formats:
   enable: true
-  title: "ì§€ì› íŒŒì¼ í˜•ì‹"
+  title: "지원 파일 형식"
   description: |
-    ë‹¤ìŒ íŒŒì¼ í˜•ì‹ì€ Markdownìœ¼ë¡œ ë‚´ë³´ë‚´ê¸°ë¥¼ ì§€ì›í•©ë‹ˆë‹¤.
+    다음 파일 형식은 Markdown으로 내보내기를 지원합니다.
   groups:
     # group loop
     - color: "red"
@@ -132,13 +132,13 @@ formats:
     # group loop
     - color: "blue"
       content: |
-        ### Word ë° Excel
+        ### Word 및 Excel
         * **Word:** DOCX, DOC, RTF, DOCM, DOTX, DOTM, DOT, ODT, OTT
         * **Excel:** XLSX, XLS, CSV, XLSM, XLSB, ODS, TSV, NUMBERS, XLTX, XLTM, XLAM, FODS, SXC, OTS, XLT
       # group loop
     - color: "green"
       content: |
-        ### ê¸°íƒ€   
+        ### 기타   
         * **e-Books:** EPUB, MOBI, AZW3   
         * **Text:** TXT, XML
         * **Web:** CHM
@@ -147,167 +147,167 @@ formats:
 ############################# Features ############################
 features:
   enable: true
-  title: "GroupDocs.Markdown ê¸°ëŠ¥"
-  description: "ìš°ë¦¬ ì œí’ˆì„ ë‹ë³´ì´ê²Œ í•˜ëŠ” ê¸°ëŠ¥ë“¤ìž…ë‹ˆë‹¤."
+  title: "GroupDocs.Markdown 기능"
+  description: "우리 제품을 돋보이게 하는 기능들입니다."
 
   items:
     # feature loop
     - icon: "multi_doc"
-      title: "ì—¬ëŸ¬ ë¬¸ì„œ í˜•ì‹ ë‚´ë³´ë‚´ê¸°"
-      content: "ê°€ìž¥ ë§Žì´ ì‚¬ìš©ë˜ëŠ” ë¬¸ì„œ í˜•ì‹ì„ Markdownìœ¼ë¡œ ë³€í™˜í•©ë‹ˆë‹¤(PDF, DOCX, XLSX, EPUB ë“±)."
+      title: "여러 문서 형식 내보내기"
+      content: "가장 많이 사용되는 문서 형식을 Markdown으로 변환합니다(PDF, DOCX, XLSX, EPUB 등)."
 
     # feature loop
     - icon: "advanced_formatting"
-      title: "ê³ ê¸‰ Markdown ì„œì‹"
-      content: "ì œëª©, ë‹¨ë½, ëª©ë¡, í‘œ, ë§í¬, ì´ë¯¸ì§€, ì¸ìš©ë¬¸ ë° ì½”ë“œ ë¸”ë¡ì´ ì ì ˆí•œ Markdown êµ¬ë¬¸ìœ¼ë¡œ ë‚´ë³´ë‚´ì§‘ë‹ˆë‹¤."
+      title: "고급 Markdown 서식"
+      content: "제목, 단락, 목록, 표, 링크, 이미지, 인용문 및 코드 블록이 적절한 Markdown 구문으로 내보내집니다."
 
     # feature loop
     - icon: "control_over_images"
-      title: "ì´ë¯¸ì§€ì— ëŒ€í•œ ì™„ì „í•œ ì œì–´"
-      content: "ì´ë¯¸ì§€ë¥¼ ë‚´ë³´ë‚´ê±°ë‚˜ ì¶œë ¥ Markdown íŒŒì¼ì— ì‚½ìž…í•˜ì—¬ ì œì–´í•˜ì‹­ì‹œì˜¤."
+      title: "이미지에 대한 완전한 제어"
+      content: "이미지를 내보내거나 출력 Markdown 파일에 삽입하여 제어하십시오."
 
     # feature loop
     - icon: "secure"
-      title: "ë¡œì»¬ ë¨¸ì‹ ì—ì„œ ì‹¤í–‰ë©ë‹ˆë‹¤"
-      content: "í´ë¼ìš°ë“œë‚˜ ì¸í„°ë„· ì—°ê²°ì´ í•„ìš”í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤. ëª¨ë“  ì²˜ë¦¬ëŠ” ë¡œì»¬ ë¨¸ì‹ ì—ì„œ ìˆ˜í–‰ë©ë‹ˆë‹¤."
+      title: "로컬 머신에서 실행됩니다"
+      content: "클라우드나 인터넷 연결이 필요하지 않습니다. 모든 처리는 로컬 머신에서 수행됩니다."
 
     # feature loop
     - icon: "intuitive"
-      title: "ì§ê´€ì ì¸ ê³µê°œ API"
-      content: "ê°œë°œìžë¥¼ ìœ„í•´ ê°œë°œìžê°€ ì‚¬ëž‘ì„ ë‹´ì•„ ì„¤ê³„í•œ ê°„ë‹¨í•˜ê³  ì§ê´€ì ì¸ ê³µê°œ API."
+      title: "직관적인 공개 API"
+      content: "개발자를 위해 개발자가 사랑을 담아 설계한 간단하고 직관적인 공개 API."
 
     # feature loop
     - icon: "cross_platform"
-      title: "Windowsì™€ Linuxì—ì„œ ë™ìž‘"
-      content: ".NET ë° .NET Framework ì–´ì…ˆë¸”ë¦¬ëŠ” NuGet íŒ¨í‚¤ì§€ ë‚´ì— í¬í•¨ë˜ì–´ ìžˆìŠµë‹ˆë‹¤."
+      title: "Windows와 Linux에서 동작"
+      content: ".NET 및 .NET Framework 어셈블리는 NuGet 패키지 내에 포함되어 있습니다."
 
 
 ############################# Code samples ############################
 code_samples_tabs:
   enable: true
-  title: "ì½”ë“œ ìƒ˜í”Œ"
-  description: ".NET ì• í”Œë¦¬ì¼€ì´ì…˜ì—ì„œ ë¬¸ì„œë¥¼ Markdownìœ¼ë¡œ ë‚´ë³´ë‚´ëŠ” ê°€ìž¥ ì¼ë°˜ì ì¸ ì‚¬ìš© ì‹œë‚˜ë¦¬ì˜¤ìž…ë‹ˆë‹¤."
+  title: "코드 샘플"
+  description: ".NET 애플리케이션에서 문서를 Markdown으로 내보내는 가장 일반적인 사용 시나리오입니다."
   items:
     # code sample loop
-    - title: "DOCXë¥¼ Markdownìœ¼ë¡œ ë‚´ë³´ë‚´ê¸°"
-      content: "ì´ ì½”ë“œ ìƒ˜í”Œì€ DOCX íŒŒì¼ì„ Markdownìœ¼ë¡œ ë³€í™˜í•˜ê³  ì¶œë ¥ë¬¼ì„ íŒŒì¼ì— ì €ìž¥í•˜ëŠ” ë°©ë²•ì„ ë³´ì—¬ì¤ë‹ˆë‹¤. ì´ë¯¸ì§€ê°€ ì¶œë ¥ íŒŒì¼ì— í¬í•¨ë©ë‹ˆë‹¤."
+    - title: "DOCX를 Markdown으로 내보내기"
+      content: "이 코드 샘플은 DOCX 파일을 Markdown으로 변환하고 출력물을 파일에 저장하는 방법을 보여줍니다. 이미지가 출력 파일에 포함됩니다."
       samples:
         - language: "C#"
           color: "blue"
           content: |
             ```csharp {style=abap}   
-            // ë„¤ìž„ìŠ¤íŽ˜ì´ìŠ¤ ê°€ì ¸ì˜¤ê¸°
+            // 네임스페이스 가져오기
             using GroupDocs.Markdown;
 
-            // ë¼ì´ì„ ìŠ¤ ì„¤ì •
+            // 라이선스 설정
             License.Set("GroupDocs.Markdown.lic");
 
-            // ì»¨ë²„í„° ì¸ìŠ¤í„´ìŠ¤í™”
+            // 컨버터 인스턴스화
             var converter = new MarkdownConverter("annual-review.docx");
 
-            // ë³€í™˜í•˜ê³  ì¶œë ¥ë¬¼ì„ íŒŒì¼ì— ì €ìž¥
+            // 변환하고 출력물을 파일에 저장
             converter.Convert("annual-review.md");
             ```
         - language: "F#"
           color: "red"
           content: |
             ```fsharp {style=abap} 
-            // ë„¤ìž„ìŠ¤íŽ˜ì´ìŠ¤ ê°€ì ¸ì˜¤ê¸°  
+            // 네임스페이스 가져오기  
             open GroupDocs.Markdown
 
-            // ë¼ì´ì„ ìŠ¤ ì„¤ì •
+            // 라이선스 설정
             License.Set("GroupDocs.Markdown.lic")
 
-            // ì»¨ë²„í„° ì¸ìŠ¤í„´ìŠ¤í™”
+            // 컨버터 인스턴스화
             let converter = new MarkdownConverter("annual-review.docx")
 
-            // ë³€í™˜í•˜ê³  ì¶œë ¥ë¬¼ì„ íŒŒì¼ì— ì €ìž¥
+            // 변환하고 출력물을 파일에 저장
             converter.Convert("annual-review.md")
             ```
         - language: "VB.NET"
           color: "green"
           content: |
             ```vb {style=abap}   
-            ' ë„¤ìž„ìŠ¤íŽ˜ì´ìŠ¤ ê°€ì ¸ì˜¤ê¸°  
+            ' 네임스페이스 가져오기  
             Imports GroupDocs.Markdown
 
             Module Program
                 Sub Main()
-                    ' ë¼ì´ì„ ìŠ¤ ì„¤ì •
+                    ' 라이선스 설정
                     License.Set("GroupDocs.Markdown.lic")
 
-                    ' ì»¨ë²„í„° ì¸ìŠ¤í„´ìŠ¤í™”
+                    ' 컨버터 인스턴스화
                     Dim converter As New MarkdownConverter("annual-review.docx")
 
-                    ' ë³€í™˜í•˜ê³  ì¶œë ¥ë¬¼ì„ íŒŒì¼ì— ì €ìž¥
+                    ' 변환하고 출력물을 파일에 저장
                     converter.Convert("annual-review.md")
                 End Sub
             End Module
             ```
     # code sample loop
-    - title: "ì´ë¯¸ì§€ë¥¼ í´ë”ì— ì €ìž¥"
-      content: "ì´ ì½”ë“œ ìƒ˜í”Œì€ DOCX íŒŒì¼ì„ Markdownìœ¼ë¡œ ë³€í™˜í•˜ê³  ì´ë¯¸ì§€ë¥¼ ë³„ë„ì˜ í´ë”ì— ì €ìž¥í•˜ëŠ” ë°©ë²•ì„ ë³´ì—¬ì¤ë‹ˆë‹¤."
+    - title: "이미지를 폴더에 저장"
+      content: "이 코드 샘플은 DOCX 파일을 Markdown으로 변환하고 이미지를 별도의 폴더에 저장하는 방법을 보여줍니다."
       samples:
         - language: "C#"
           color: "blue"
           content: |
             ```csharp {style=abap}   
-            // ë„¤ìž„ìŠ¤íŽ˜ì´ìŠ¤ ê°€ì ¸ì˜¤ê¸°
+            // 네임스페이스 가져오기
             using GroupDocs.Markdown;
 
-            // ë¼ì´ì„ ìŠ¤ ì„¤ì •
+            // 라이선스 설정
             License.Set("GroupDocs.Markdown.lic");
 
-            // ì»¨ë²„í„° ì¸ìŠ¤í„´ìŠ¤í™”
+            // 컨버터 인스턴스화
             var converter = new MarkdownConverter("annual-report.docx");
 
-            // ì´ë¯¸ì§€ ë‚´ë³´ë‚´ê¸° ì „ëžµ ë° ì¶œë ¥ í´ë” ì„¤ì •
+            // 이미지 내보내기 전략 및 출력 폴더 설정
             var convertOptions = new DocumentConverterOptions();
             convertOptions.ImageExportStrategy = new ExportImagesToFileSystemStrategy("./images");
 
-            // ë³€í™˜í•˜ê³  ì¶œë ¥ë¬¼ì„ íŒŒì¼ì— ì €ìž¥
+            // 변환하고 출력물을 파일에 저장
             converter.Convert("annual-report.md", convertOptions);
             ```
         - language: "F#"
           color: "red"
           content: |
             ```fsharp {style=abap} 
-            // ë„¤ìž„ìŠ¤íŽ˜ì´ìŠ¤ ê°€ì ¸ì˜¤ê¸°
+            // 네임스페이스 가져오기
             open GroupDocs.Markdown
 
-            // ë¼ì´ì„ ìŠ¤ ì„¤ì •
+            // 라이선스 설정
             License.Set("GroupDocs.Markdown.lic")
 
-            // ì»¨ë²„í„° ì¸ìŠ¤í„´ìŠ¤í™”
+            // 컨버터 인스턴스화
             let converter = new MarkdownConverter("annual-report.docx")
 
-            // ì´ë¯¸ì§€ ë‚´ë³´ë‚´ê¸° ì „ëžµ ë° ì¶œë ¥ í´ë” ì„¤ì •
+            // 이미지 내보내기 전략 및 출력 폴더 설정
             let convertOptions = new DocumentConverterOptions()
             convertOptions.ImageExportStrategy <- new ExportImagesToFileSystemStrategy("./images")
 
-            // ë³€í™˜í•˜ê³  ì¶œë ¥ë¬¼ì„ íŒŒì¼ì— ì €ìž¥
+            // 변환하고 출력물을 파일에 저장
             converter.Convert("annual-report.md", convertOptions)
             ```
         - language: "VB.NET"
           color: "green"
           content: |
             ```vb {style=abap}   
-            ' ë„¤ìž„ìŠ¤íŽ˜ì´ìŠ¤ ê°€ì ¸ì˜¤ê¸°  
+            ' 네임스페이스 가져오기  
             Imports GroupDocs.Markdown
 
             Module Program
                 Sub Main()
-                    ' ë¼ì´ì„ ìŠ¤ ì„¤ì •
+                    ' 라이선스 설정
                     License.Set("GroupDocs.Markdown.lic")
 
-                    ' ì»¨ë²„í„° ì¸ìŠ¤í„´ìŠ¤í™”
+                    ' 컨버터 인스턴스화
                     Dim converter As New MarkdownConverter("annual-report.docx")
 
-                    ' ì´ë¯¸ì§€ ë‚´ë³´ë‚´ê¸° ì „ëžµ ë° ì¶œë ¥ í´ë” ì„¤ì •
+                    ' 이미지 내보내기 전략 및 출력 폴더 설정
                     Dim convertOptions As New DocumentConverterOptions()
                     convertOptions.ImageExportStrategy = New ExportImagesToFileSystemStrategy("./images")
 
-                    ' ë³€í™˜í•˜ê³  ì¶œë ¥ë¬¼ì„ íŒŒì¼ì— ì €ìž¥
+                    ' 변환하고 출력물을 파일에 저장
                     converter.Convert("annual-report.md", convertOptions)
                 End Sub
             End Module
@@ -317,19 +317,19 @@ code_samples_tabs:
 ############################# Reviews ############################
 # reviews:
 # enable: true
-# title: "GroupDocs ì œí’ˆ ë¦¬ë·°"
-# description: "ìš°ë¦¬ì˜ ë§ë§Œ ë¯¿ì§€ ë§ˆì„¸ìš”. ë‹¤ë¥¸ ê°œë°œìžë“¤ì´ ìš°ë¦¬ APIì— ëŒ€í•´ ì–´ë–»ê²Œ ë§í•˜ëŠ”ì§€ í™•ì¸í•´ ë³´ì„¸ìš”."
+# title: "GroupDocs 제품 리뷰"
+# description: "우리의 말만 믿지 마세요. 다른 개발자들이 우리 API에 대해 어떻게 말하는지 확인해 보세요."
 
 # items:
 #   # review loop
 #   - title: "GroupDocs.Markdown"
-#     content: "ìš°ìˆ˜í•œ ì„œë¹„ìŠ¤ì™€ ë›°ì–´ë‚œ ì œí’ˆ. GroupDocs.Markdown for .NET êµ¬í˜„ ê³¼ì •ì—ì„œ ë§¤ìš° ë„ì›€ì´ ë˜ì—ˆê³  ë¹ ë¥´ê²Œ ëŒ€ì‘í•´ ì£¼ì—ˆìœ¼ë©°, ê°•ë ¥ížˆ ì¶”ì²œí•©ë‹ˆë‹¤."
+#     content: "우수한 서비스와 뛰어난 제품. GroupDocs.Markdown for .NET 구현 과정에서 매우 도움이 되었고 빠르게 대응해 주었으며, 강력히 추천합니다."
 #     author: "Martin Lasarga"
 #     company: "Product Manager at Axentria ECM by G.S.I."
 
 #   # review loop
 #   - title: "GroupDocs.Markdown"
-#     content: "í”„ë¡œì íŠ¸ì— GroupDocs.Markdown for .NETì„ êµ¬í˜„í•˜ê³  ì‚¬ìš©í•œ ê²°ê³¼, ë§¤ìš° ìž˜ ë™ìž‘í•˜ëŠ” ê²ƒìœ¼ë¡œ ë³´ìž…ë‹ˆë‹¤. ë§Žì€ ë¬¸ì„œë¡œ í…ŒìŠ¤íŠ¸í–ˆìœ¼ë©° í˜„ìž¬ê¹Œì§€ ë§Œì¡±ìŠ¤ëŸ½ìŠµë‹ˆë‹¤. Markdown ì¶œë ¥ì€ ê¹”ë”í•˜ê³  ì†ŒìŠ¤ ê°„ì— ì¼ê´€ë©ë‹ˆë‹¤."
+#     content: "프로젝트에 GroupDocs.Markdown for .NET을 구현하고 사용한 결과, 매우 잘 동작하는 것으로 보입니다. 많은 문서로 테스트했으며 현재까지 만족스럽습니다. Markdown 출력은 깔끔하고 소스 간에 일관됩니다."
 #     author: "Mats Oustad"
 #     company: "Senior Consultant/Partner at Novanet AS"
 ---
