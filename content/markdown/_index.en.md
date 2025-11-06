@@ -129,7 +129,7 @@ code_samples:
             convertOptions.ImageExportStrategy = new ExportImagesToFileSystemStrategy("./images");
 
             // Convert and save output to file
-            converter.Convert("annual-report.md");
+            converter.Convert("annual-report.md", convertOptions);
             ```
 
 ############################# Formats ############################

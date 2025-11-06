@@ -5,7 +5,7 @@ layout: "landing"
 date: 2023-06-29T12:38:08
 draft: false
 
-lang: en
+lang: id
 product: "Markdown"
 product_tag: "markdown"
 platform: ".NET"
@@ -22,74 +22,74 @@ supported_platforms:
 
 ############################# Head ############################
 
-head_title: "Export Documents to Markdown in .NET | GroupDocs"
-head_description: "GroupDocs.Markdown for .NET is a document processing API that exports PDF, Word, Excel, and other formats to Markdown for seamless integration with the generative AI ecosystem."
+head_title: "Ekspor Dokumen ke Markdown dalam .NET | GroupDocs"
+head_description: "GroupDocs.Markdown untuk .NET adalah API pemrosesan dokumen yang mengekspor PDF, Word, Excel, dan format lain ke Markdown untuk integrasi mulus dengan ekosistem AI generatif."
 
 ############################# Header ##########################
 
-title: "Export documents to Markdown<br>using .NET API"
-description: "Markdown conversion API to export popular document formats to clean Markdown with full control."
+title: "Ekspor dokumen ke Markdown<br>menggunakan API .NET"
+description: "API konversi Markdown untuk mengekspor format dokumen populer ke Markdown bersih dengan kontrol penuh."
 words:
   for: "for"
 
 actions:
-  main: "Free NuGet Download"
+  main: "Unduhan NuGet Gratis"
   main_link: "https://www.nuget.org/packages/GroupDocs.Markdown"
-  alt: "Licensing"
+  alt: "Lisensi"
   alt_link: "https://purchase.groupdocs.com/pricing/markdown/net"
-  title: "Ready to get started?"
-  description: "Try GroupDocs.Markdown features for free or request a license"
+  title: "Siap memulai?"
+  description: "Coba fitur GroupDocs.Markdown secara gratis atau minta lisensi"
 
 release:
   hidden: false
-  title: "Version {0}&nbsp;released"
-  notes: "See what's new"
-  downloads: "Downloads"
+  title: "Versi {0}&nbsp;dirilis"
+  notes: "Lihat apa yang baru"
+  downloads: "Unduhan"
   link: "https://releases.groupdocs.com/markdown/net/release-notes/latest/"
 
 code:
-  title: "Export PDF to Markdown in C#"
-  more: "More examples"
+  title: "Ekspor PDF ke Markdown dalam C#"
+  more: "Contoh lainnya"
   more_link: "https://github.com/groupdocs-markdown/GroupDocs.Markdown-for-.NET"
   install: "dotnet add package GroupDocs.Markdown"
   content: |
     ```csharp {style=abap}   
-    // Import the namespace
+    // Impor namespace
     using GroupDocs.Markdown;
 
-    // Set the license
+    // Atur lisensi
     License.Set("GroupDocs.Markdown.lic");
 
-    // Instantiate converter
+    // Instansiasi konverter
     var converter = new MarkdownConverter("business-plan.pdf");
 
-    // Convert and save output Markdown file
+    // Konversi dan simpan file Markdown hasil
     converter.Convert("business-plan.md");
     ```
 
 ############################# Overview ############################
 overview:
   enable: true
-  title: "GroupDocs.Markdown at a glance"
-  description: "API to parse and export documents to Markdown in .NET applications."
+  title: "GroupDocs.Markdown sekilas"
+  description: "API untuk parsing dan mengekspor dokumen ke Markdown dalam aplikasi .NET."
   features:
     # feature loop
-    - title: "Accurate and reliable conversion"
-      content: "Efficiently convert supported formats to Markdown while maintaining structure integrity. Supports .NET Framework 4.6.2+ and .NET 6.0 on Windows and Linux."
+    - title: "Konversi yang akurat dan dapat diandalkan"
+      content: "Konversi format yang didukung ke Markdown secara efisien sambil mempertahankan integritas struktur. Mendukung .NET Framework 4.6.2+ dan .NET 6.0 di Windows dan Linux."
 
     # feature loop
-    - title: "Popular formats supported"
-      content: "Export PDF, Word, Excel, eBooks, Web and plain text files to Markdown, including password-protected documents."
+    - title: "Format populer yang didukung"
+      content: "Ekspor PDF, Word, Excel, eBook, Web, dan file teks biasa ke Markdown, termasuk dokumen yang dilindungi kata sandi."
 
     # feature loop
-    - title: "Runs on your local machine"
-      content: "You control your data - we provide an on-premise API that does not require any cloud or internet connection."
+    - title: "Berjalan di mesin lokal Anda"
+      content: "Anda mengontrol data Anda - kami menyediakan API on-premise yang tidak memerlukan cloud atau koneksi internet."
 
 ############################# Platforms ############################
 platforms:
   enable: true
-  title: "Platforms support"
-  description: "The following operating systems, frameworks and package managers are supported."
+  title: "Dukungan platform"
+  description: "Sistem operasi, kerangka kerja, dan manajer paket berikut didukung."
   items:
     # platform loop
     - title: "Amazon"
@@ -119,9 +119,9 @@ platforms:
 ############################# File formats ############################
 formats:
   enable: true
-  title: "Supported file formats"
+  title: "Format file yang didukung"
   description: |
-    The following file formats are supported for export to Markdown.
+    Format file berikut didukung untuk ekspor ke Markdown.
   groups:
     # group loop
     - color: "red"
@@ -138,7 +138,7 @@ formats:
       # group loop
     - color: "green"
       content: |
-        ### Other   
+        ### Lainnya   
         * **e-Books:** EPUB, MOBI, AZW3   
         * **Text:** TXT, XML
         * **Web:** CHM
@@ -147,167 +147,167 @@ formats:
 ############################# Features ############################
 features:
   enable: true
-  title: "GroupDocs.Markdown features"
-  description: "These are the features that make our product stand out."
+  title: "Fitur GroupDocs.Markdown"
+  description: "Berikut adalah fitur-fitur yang membuat produk kami menonjol."
 
   items:
     # feature loop
     - icon: "multi_doc"
-      title: "Export multiple document formats"
-      content: "Convert most popular document formats to Markdown (PDF, DOCX, XLSX, EPUB and more)."
+      title: "Ekspor banyak format dokumen"
+      content: "Konversi format dokumen paling populer ke Markdown (PDF, DOCX, XLSX, EPUB, dan lainnya)."
 
     # feature loop
     - icon: "advanced_formatting"
-      title: "Advanced Markdown formatting"
-      content: "Headings, paragraphs, lists, tables, links, images, blockquotes and code blocks are exported to the appropriate Markdown syntax."
+      title: "Pemformatan Markdown lanjutan"
+      content: "Judul, paragraf, daftar, tabel, tautan, gambar, kutipan blok, dan blok kode diekspor ke sintaks Markdown yang sesuai."
 
     # feature loop
     - icon: "control_over_images"
-      title: "Full control over images"
-      content: "Take control over images by exporting them or embedding into the output Markdown file."
+      title: "Kontrol penuh atas gambar"
+      content: "Kendalikan gambar dengan mengekspor atau menyematkannya ke dalam file Markdown output."
 
     # feature loop
     - icon: "secure"
-      title: "Runs on your local machine"
-      content: "No cloud or Internet connection required. All processing is done on your local machine."
+      title: "Berjalan di mesin lokal Anda"
+      content: "Tidak memerlukan cloud atau koneksi Internet. Semua pemrosesan dilakukan di mesin lokal Anda."
 
     # feature loop
     - icon: "intuitive"
-      title: "Intuitive public API"
-      content: "Simple and intuitive public API designed by developers for developers with love."
+      title: "API publik yang intuitif"
+      content: "API publik yang sederhana dan intuitif, dirancang oleh pengembang untuk pengembang dengan penuh semangat."
 
     # feature loop
     - icon: "cross_platform"
-      title: "Works on Windows and Linux"
-      content: ".NET and .NET Framework assemblies are provided within the NuGet package."
+      title: "Bekerja di Windows dan Linux"
+      content: ".NET dan assembly .NET Framework disediakan dalam paket NuGet."
 
 
 ############################# Code samples ############################
 code_samples_tabs:
   enable: true
-  title: "Code samples"
-  description: "The most common usage scenarios for exporting documents to Markdown in .NET applications."
+  title: "Contoh kode"
+  description: "Skenario penggunaan paling umum untuk mengekspor dokumen ke Markdown dalam aplikasi .NET."
   items:
     # code sample loop
-    - title: "Export DOCX to Markdown"
-      content: "This code sample shows how to convert a DOCX file to Markdown and save output to file. The images are embedded in the output file."
+    - title: "Ekspor DOCX ke Markdown"
+      content: "Contoh kode ini menunjukkan cara mengonversi file DOCX ke Markdown dan menyimpan hasilnya ke file. Gambar-gambar disematkan dalam file output."
       samples:
         - language: "C#"
           color: "blue"
           content: |
             ```csharp {style=abap}   
-            // Import the namespace
+            // Impor namespace
             using GroupDocs.Markdown;
 
-            // Set the license
+            // Atur lisensi
             License.Set("GroupDocs.Markdown.lic");
 
-            // Instantiate converter
+            // Instansiasi konverter
             var converter = new MarkdownConverter("annual-review.docx");
 
-            // Convert and save output to file
+            // Konversi dan simpan hasil ke file
             converter.Convert("annual-review.md");
             ```
         - language: "F#"
           color: "red"
           content: |
             ```fsharp {style=abap} 
-            // Import the namespace  
+            // Impor namespace  
             open GroupDocs.Markdown
 
-            // Set the license
+            // Atur lisensi
             License.Set("GroupDocs.Markdown.lic")
 
-            // Instantiate converter
+            // Instansiasi konverter
             let converter = new MarkdownConverter("annual-review.docx")
 
-            // Convert and save output to file
+            // Konversi dan simpan hasil ke file
             converter.Convert("annual-review.md")
             ```
         - language: "VB.NET"
           color: "green"
           content: |
             ```vb {style=abap}   
-            ' Import the namespace  
+            ' Impor namespace  
             Imports GroupDocs.Markdown
 
             Module Program
                 Sub Main()
-                    ' Set the license
+                    ' Atur lisensi
                     License.Set("GroupDocs.Markdown.lic")
 
-                    ' Instantiate converter
+                    ' Instansiasi konverter
                     Dim converter As New MarkdownConverter("annual-review.docx")
 
-                    ' Convert and save output to file
+                    ' Konversi dan simpan hasil ke file
                     converter.Convert("annual-review.md")
                 End Sub
             End Module
             ```
     # code sample loop
-    - title: "Save images to a folder"
-      content: "This code sample shows how to convert a DOCX file to Markdown and save images to a separate folder."
+    - title: "Simpan gambar ke folder"
+      content: "Contoh kode ini menunjukkan cara mengonversi file DOCX ke Markdown dan menyimpan gambar ke folder terpisah."
       samples:
         - language: "C#"
           color: "blue"
           content: |
             ```csharp {style=abap}   
-            // Import the namespace
+            // Impor namespace
             using GroupDocs.Markdown;
 
-            // Set the license
+            // Atur lisensi
             License.Set("GroupDocs.Markdown.lic");
 
-            // Instantiate converter
+            // Instansiasi konverter
             var converter = new MarkdownConverter("annual-report.docx");
 
-            // Set image export strategy and output folder
+            // Atur strategi ekspor gambar dan folder output
             var convertOptions = new DocumentConverterOptions();
             convertOptions.ImageExportStrategy = new ExportImagesToFileSystemStrategy("./images");
 
-            // Convert and save output to file
+            // Konversi dan simpan hasil ke file
             converter.Convert("annual-report.md", convertOptions);
             ```
         - language: "F#"
           color: "red"
           content: |
             ```fsharp {style=abap} 
-            // Import the namespace
+            // Impor namespace
             open GroupDocs.Markdown
 
-            // Set the license
+            // Atur lisensi
             License.Set("GroupDocs.Markdown.lic")
 
-            // Instantiate converter
+            // Instansiasi konverter
             let converter = new MarkdownConverter("annual-report.docx")
 
-            // Set image export strategy and output folder
+            // Atur strategi ekspor gambar dan folder output
             let convertOptions = new DocumentConverterOptions()
             convertOptions.ImageExportStrategy <- new ExportImagesToFileSystemStrategy("./images")
 
-            // Convert and save output to file
+            // Konversi dan simpan hasil ke file
             converter.Convert("annual-report.md", convertOptions)
             ```
         - language: "VB.NET"
           color: "green"
           content: |
             ```vb {style=abap}   
-            ' Import the namespace  
+            ' Impor namespace  
             Imports GroupDocs.Markdown
 
             Module Program
                 Sub Main()
-                    ' Set the license
+                    ' Atur lisensi
                     License.Set("GroupDocs.Markdown.lic")
 
-                    ' Instantiate converter
+                    ' Instansiasi konverter
                     Dim converter As New MarkdownConverter("annual-report.docx")
 
-                    ' Set image export strategy and output folder
+                    ' Atur strategi ekspor gambar dan folder output
                     Dim convertOptions As New DocumentConverterOptions()
                     convertOptions.ImageExportStrategy = New ExportImagesToFileSystemStrategy("./images")
 
-                    ' Convert and save output to file
+                    ' Konversi dan simpan hasil ke file
                     converter.Convert("annual-report.md", convertOptions)
                 End Sub
             End Module
@@ -317,19 +317,19 @@ code_samples_tabs:
 ############################# Reviews ############################
 # reviews:
 # enable: true
-# title: "GroupDocs product reviews"
-# description: "Don't just take our word for it. See what other developers say about our APIs"
+# title: "Ulasan produk GroupDocs"
+# description: "Jangan hanya mempercayai kata kami. Lihat apa yang dikatakan pengembang lain tentang API kami"
 
 # items:
 #   # review loop
 #   - title: "GroupDocs.Markdown"
-#     content: "Excellent service and excellent products. They were extremely helpful and responsive during the GroupDocs.Markdown for .NET implementation process, canâ€™t recommend them highly enough."
+#     content: "Layanan dan produk yang luar biasa. Mereka sangat membantu dan responsif selama proses implementasi GroupDocs.Markdown untuk .NET, tidak dapat merekomendasikan mereka lebih tinggi lagi."
 #     author: "Martin Lasarga"
 #     company: "Product Manager at Axentria ECM by G.S.I."
 
 #   # review loop
 #   - title: "GroupDocs.Markdown"
-#     content: "After implementing and using GroupDocs.Markdown for .NET in the project it looks to be working very well. I have tested with a lot of documents and so far so good. The Markdown output is clean and consistent across sources."
+#     content: "Setelah mengimplementasikan dan menggunakan GroupDocs.Markdown untuk .NET dalam proyek, terlihat berfungsi dengan sangat baik. Saya telah menguji dengan banyak dokumen dan sejauh ini semuanya baik. Output Markdown bersih dan konsisten di semua sumber."
 #     author: "Mats Oustad"
 #     company: "Senior Consultant/Partner at Novanet AS"
 ---
